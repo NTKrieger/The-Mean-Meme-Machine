@@ -47,7 +47,7 @@
 			$.ajax
 			({
 				beforeSend: function(xhr){xhr.setRequestHeader('apiKey', MG.apiKey);},
-				url: MG.URL;
+				url: MG.URL,
 				type: "GET",
 				success: function(data, status){
 					alert("Data: " + data + "\nStatus: " + status);					
