@@ -1,3 +1,5 @@
+// use "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:\chrome"
+
 (function () {
 	$(document).ready(function() {
 		var OED = {};
@@ -20,7 +22,8 @@
 			});
 			
 		});
-			
+
+		//Unsplash API call	
 		var Unsplash = {};
 			Unsplash.application_ID = "275f81d1fd86d9496a2bfccdf046677f1b6df0915b60c9058f9b4c521aae9223";
 			Unsplash.secret = "75c4f0665e1d36c59ba4b03cecc6207212e1579777bc423e9300b29d9ec18038";
@@ -38,7 +41,8 @@
 				}
 			}); 	
 		});
-		
+
+		//meme-generator sample api call
 		var MG = {};
 			MG.apiKey = "f838ea33-b1b3-4d2b-a1c8-ee772aaa3100";
 			MG.URL = "http://version1.api.memegenerator.net";
@@ -53,6 +57,15 @@
 					alert("Data: " + data + "\nStatus: " + status);					
 				}
 			}); 	
+		});
+		//rita.js test zone
+		var Text = {};
+		Text.s = "It was a dark and stormy night.";
+		Text.r = new RiString(Text.s); 
+
+		$("#text_button").click(function(){
+			
+			$("#test").text(Text.r.pos());
 		});
 		
 	});
