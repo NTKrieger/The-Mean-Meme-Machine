@@ -2,7 +2,11 @@
 
 (function () {
 	$(document).ready(function() {
-		var OED = {};
+		
+		
+		
+		//OED API call - not in use
+		/* var OED = {};
 			OED.app_id = "531adc43";
 			OED.app_key = "70a2e33e0c7cd19daa75de7c0837bebe";
 			OED.word_id = "get";
@@ -19,9 +23,8 @@
 				success: function(data, status){
 					alert("Data: " + data + "\nStatus: " + status);							
 				}
-			});
-			
-		});
+			}); 			
+		}); */
 
 		//Unsplash API call	
 		var Unsplash = {};
@@ -58,15 +61,16 @@
 				}
 			}); 	
 		});
-		//rita.js test zone
+		//text generator
 		var Text = {};
-		Text.s = "It was a dark and stormy night.";
-		Text.r = new RiString(Text.s); 
-
-		$("#text_button").click(function(){
+		Text.markovLunch = new RiMarkov(4, true, false);
+		Text.markovLunch.loadText("/nakedlunch.txt");
 			
-			$("#test").text(Text.r.pos());
-		});
-		
+		$("#text_button").click(function(){	
+			
+			$("#test").text(Text.markovLunch.generateSentences(10));
+								
+		});	
+
 	});
 })();
