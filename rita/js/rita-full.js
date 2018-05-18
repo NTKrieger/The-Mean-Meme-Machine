@@ -668,7 +668,7 @@ var RiTa = {
     req.open('GET', url, true);
     req.onreadystatechange = function () {
       if (req.readyState === 4) {
-        if (req.status === 200) {
+        if (req.status === 200 || req.status === 0) {
 
           // remove blank lines
           var arr = req.responseText.match(/[^\r\n]+/g);
