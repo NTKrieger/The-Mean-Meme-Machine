@@ -5,16 +5,16 @@
 	$(document).ready(function() {
 		
 		//all constants by namespace		
-		const Unsplash = {
+		let Unsplash = {
 			application_ID: "275f81d1fd86d9496a2bfccdf046677f1b6df0915b60c9058f9b4c521aae9223",
 			secret: "75c4f0665e1d36c59ba4b03cecc6207212e1579777bc423e9300b29d9ec18038",
 			callbackURL: "urn:ietf:wg:oauth:2.0:oob",
-			public_URL: "https://api.unsplash.com/photos/random/?client_id=",
-			imageURL: ""
+			random_URL: "https://api.unsplash.com/photos/random/?client_id=",
+			search_URL: "https://api.unsplash.com/search/photos/?client_id=",
 		};		
 		
-		const Text = {
-			markovLunch : new RiMarkov(4, true, false),
+		let Text = {
+			markovLunch: new RiMarkov(4, true, false),			
 		};
 		
 		const MG = {
@@ -22,26 +22,35 @@
 			url:  "http://version1.api.memegenerator.net",
 		};
 
-		Text.markovLunch.loadFrom("nakedlunch.txt");
+		Text.markovLunch.loadFrom("nakedlunch.txt")
 		
 		// returns URL of a random photo
 		function getRandomPhotoUrl(){
 			$.ajax
 			({
-				url:  Unsplash.public_URL + Unsplash.application_ID,
+				url:  Unsplash.random_URL + Unsplash.application_ID,
 				type: "GET",
 				success: function(data, status){
-					return data.urls.raw;								
+					Unsplash.imageURL = data.urls.raw;								
 				}
-			}); 
-					
+			});
+			return Unsplash.imageURL; 					
 		}
-
-		//returns a randomly generated sentence using markov chains derived from Naked Lunch
-		function getRandomSentence(){
-			return Text.markovLunch.generateSentences(1);
-		} 
-		
+		// SHOULD return URL of 
+		function getTopicalPhotoUrl(search_term){
+			$.ajax
+			({
+				url:  Unsplash.search_URL + Unsplash.application_ID,
+				type: "GET",
+				query: "test",
+								
+				success: function(data, status){
+					alert(data,status);								
+				}
+			});
+			return Unsplash.imageURL; 					
+		}
+			
 		//loads a random image into a MemeGenerator template
 		function createGenerator(){
 			$.ajax
@@ -67,8 +76,8 @@
 				url: MG.url + "//Instance_Create",
 				apiKey: MG.apiKey,
 				type: "GET",
-				imageID: getRandomPhotoUrl(),
-				text0: getRandomSentence(),
+				generatorID: "",
+				text0: Text.markovLunch.getRandomSentence,
 				success: function(data, status){
 					
 					alert("Data: " + data + "\nStatus: " + status);					
@@ -77,9 +86,19 @@
 			}); 	
 		}
 
+		//generates the sentence and then searches for the first singular or plural non-proper noun and uses it for an image search
+
 		$("#test_button").click(function(){
-			//createGenerator();
-			$("#test").text(getRandomPhotoUrl());
+			
+			Text.randomSentence = Text.markovLunch.generateSentence();
+			Text.wordString = new RiString(Text.randomSentence);
+			Text.posArray = Text.wordString.pos();
+			for(i = 0; i < Text.posArray.length; ++i ){
+				if(Text.posArray[i] == "nn" || "nns")
+					Unsplash.search_term = Text.wordString.wordAt(i);
+					break;
+			}
+			$("#test").text(getTopicalPhotoUrl(Unsplash.search_term));
 		});				
 	});
 })();
