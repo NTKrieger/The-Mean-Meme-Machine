@@ -35,17 +35,21 @@
 			});
 			return Unsplash.imageURL; 					
 		}
-		// SHOULD return URL of 
+		// returns URL of a photo returned from query
 		function getTopicalPhotoUrl(search_term){
 			$.ajax
 			({
 				beforeSend: function (xhr) {
 					xhr.setRequestHeader ("Authorization", "Bearer " + Unsplash.token);
 				},
-				url:  Unsplash.search_URL + "search_term",
+				url:  Unsplash.search_URL + search_term,
 				type: "GET",								
 				success: function(data, status){
-					alert(data,status);								
+					if(data.total == 0){
+						Unsplash.imageURL = getRandomPhotoUrl();
+					}else{
+						Unsplash.imageURL = data.results[0].urls.regular;
+					}							
 				}
 			});
 			return Unsplash.imageURL; 					
@@ -85,8 +89,8 @@
 
 			}); 	
 		}
-
 		//generates the sentence and then searches for the first singular or plural non-proper noun and uses it for an image search
+		//now filters pronouns!  Maybe.
 
 		$("#test_button").click(function(){
 			
@@ -94,9 +98,14 @@
 			Text.wordString = new RiString(Text.randomSentence);
 			Text.posArray = Text.wordString.pos();
 			for(i = 0; i < Text.posArray.length; ++i ){
-				if(Text.posArray[i] == "nn" || "nns")
-					Unsplash.search_term = Text.wordString.wordAt(i);
-					break;
+				if(Text.posArray[i] != "pps" || Text.posArray[i] != "prp")
+				{
+					if(Text.posArray[i] == "nn" || Text.posArray[i] == "nns")
+					{
+						Unsplash.search_term = Text.wordString.wordAt(i);
+						break;
+					}
+				}				
 			}
 			$("#test").text(getTopicalPhotoUrl(Unsplash.search_term));
 		});				
