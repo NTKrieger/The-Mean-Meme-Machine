@@ -15,13 +15,13 @@
 		let Text = {
 			markovLunch: new RiMarkov(4, true, false),			
 		};
+		Text.markovLunch.loadFrom("nakedlunch.txt");
 		
-		const MG = {
+		let MG = {
 			apiKey: "f838ea33-b1b3-4d2b-a1c8-ee772aaa3100",
 			url:  "http://version1.api.memegenerator.net",
 		};
-
-		Text.markovLunch.loadFrom("nakedlunch.txt")
+		window.MgApi.SetApiKey(MG.apiKey);
 		
 		// returns URL of a random photo
 		function getRandomPhotoUrl(){
@@ -56,14 +56,14 @@
 		}
 			
 		//loads a random image into a MemeGenerator template
-		function createGenerator(){
+		function createGenerator(imageURL){
 			$.ajax
 			({
-				//beforeSend: function(xhr){xhr.setRequestHeader('apiKey', MG.apiKey)},
-				url: MG.url + "//Generator_Create",
-				apiKey: MG.apiKey,
+				
+				url: MG.url + "/Generator_Create",	
 				type: "GET",
-				image: getRandomPhotoUrl(),
+				image: "https://img-aws.ehowcdn.com/750x428p/cpi.studiod.com/www_ehow_com/i.ehow.com/images/a06/3a/be/study-compass-math-placement-test-800x800.jpg",
+				apiKey: MG.apiKey,
 				displayName: "naked lunch (remix)" + Date.now(),
 
 				success: function(data, status){
@@ -72,15 +72,17 @@
 				}
 			}); 	
 		}
+		function testGenerator(){
+			MG.wtf = window.MgApi.Generators_Search('frog', 0, 24); 
+		}
 		//creates the final captioned image
 		function createInstance(){
 			$.ajax
-			({
-				//beforeSend: function(xhr){xhr.setRequestHeader('apiKey', MG.apiKey)},
+			({				
 				url: MG.url + "//Instance_Create",
-				apiKey: MG.apiKey,
 				type: "GET",
 				generatorID: "",
+				apiKey: MG.apiKey,
 				text0: Text.markovLunch.getRandomSentence,
 				success: function(data, status){
 					
@@ -107,7 +109,10 @@
 					}
 				}				
 			}
-			$("#test").text(getTopicalPhotoUrl(Unsplash.search_term));
+			MG.photoURL = getTopicalPhotoUrl(Unsplash.search_term);
+			createGenerator(MG.photoURL);
+			testGenerator();
+			console.log(MG.wtf);
 		});				
 	});
 })();
