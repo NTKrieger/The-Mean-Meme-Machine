@@ -1,45 +1,33 @@
-//dependencies
-var Rita = require("rita")
-var Jimp = require("jimp")
-var Twit = require("twit")
-var unsplashConfig = require("./unsplashConfig.js")
-var twitterConfig = require("./twitterConfig.js")
-var Methods = require("./functions.js")
-//constructors
-var MarkovLunch = new RiMarkov(4, true, false)		
-var Twitter = new twit(twitterConfig)
-//generate sentence and photoURL
-MarkovLunch.loadFrom("nakedlunch.txt")
+// dependencies
+const Rita = require("rita")
+const Jimp = require("jimp")
+const Twit = require("twit")
+const axios = require("axios")
+const fs = require("fs")
+// config files
+const twitterConfig = require("./twitterConfig.js")
+const ritaConfig = require("./ritaConfig")
+const unsplashConfig = require("./unsplashConfig")
+const photoData = require("./photoData.js")
+// saved functions
+const Methods = require("./functions.js")
+// constructors
+var MarkovLunch = Rita.RiMarkov(4, true, false)		
+var Twitter = new Twit(twitterConfig)
+// generate sentence and photo data
+MarkovLunch.loadText(ritaConfig.text)
 var sentence = MarkovLunch.generateSentence()
-var photoURL = getTopicalPhotoUrl(getSearchTerm(sentence))
+//TODO: grammar fixing function
+Methods.getPhotoData(Methods.getSearchTerm(sentence))
+
+
+//hardcoded for testing
+photoData.url = "https://ii.yuki.la/4/8a/1bbbe70da815a76803ed0b424491f153542d24406f44e412338ddfd86a6a88a4.jpg"
+
 //caption and save photograph
-var loadedImage
-Jimp.read(photoURL)
-    .then(function (image) {
-        loadedImage = image
-        return Jimp.loadFont(Jimp.FONT_SANS_16_BLACK)
-    })
-    .then(function (font) {
-        loadedImage.print(font, 10, 10, sentence)
-                   .write("./meme.png")
-    })
-    .catch(function (err) {
-        console.error(err)
-    })
-//upload photograph to Twitter
-var b64content = fs.readFileSync("./meme.png", { encoding: 'base64' })
-Twitter.post('media/upload', { media_data: b64content }, function (err, data, response) {
-    var mediaId = data.media_id_string
-    var altText = sentence
-    var meta_params = { media_id: mediaId, alt_text: { text: altText } }
-    //set metadata
-    Twitter.post('media/metadata/create', meta_params, function (err, data, response) {
-      if (!err) {
-        //post Tweet to timeline
-        var params = { status: sentence, media_ids: [mediaId] }
-        Twitter.post('statuses/update', params, function (err, data, response) {
-          console.log(data)
-        })
-      }
-    })
-  })
+Methods.writeOnPicture(sentence, Jimp.FONT_SANS_128_BLACK, 10, 10)
+Methods.writeOnPicture(sentence, Jimp.FONT_SANS_128_WHITE, 50, 50)
+
+
+
+
