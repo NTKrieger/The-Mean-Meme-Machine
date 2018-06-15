@@ -1,20 +1,30 @@
-//dependencies
+// dependencies
 const Rita = require("rita")
-const photoData = require("./photoData.js")
-const twitterConfig = require("./twitterConfig.js")
-const unsplashConfig = require("./unsplashConfig")
-const axios = require("axios")
-const fs = require("fs")
 const Jimp = require("jimp")
 const Twit = require("twit")
+const axios = require("axios")
+const fs = require("fs")
+// config files
+const twitterConfig = require("./twitterConfig.js")
+const ritaConfig = require("./ritaConfig")
+const unsplashConfig = require("./unsplashConfig")
+let photoData = require("./photoData.js")
+const testData = require("./testData.js")
 
 //TODO: Add API call to like photos I use on Unsplash
 
-exports.getPhotoData = function(search_term){
+exports.generateText = function(){
+    var MarkovLunch = Rita.RiMarkov(4, true, false)	
+    MarkovLunch.loadText(ritaConfig.text)
+    photoData.text = MarkovLunch.generateSentence()
+    console.log("generateText done")
+}
+
+exports.generatePhotoData = function(){
     const config = {
         headers : {"Authorization" : "Bearer " + unsplashConfig.token}
     }
-    axios.get("https://api.unsplash.com/search/photos/?query=" + search_term, config)
+    axios.get("https://api.unsplash.com/search/photos/?query=" + photoData.searchTerm, config)
     .then(function(response){
         if (response.data.total == 0) {
             getRandomPhoto()
@@ -24,7 +34,7 @@ exports.getPhotoData = function(search_term){
             photoData.url = response.data.results[rI].urls.regular
             photoData.height = response.data.results[rI].height
             photoData.width = response.data.results[rI].width
-            photoData.width = response.data.results[rI].id
+            photoData.id = response.data.results[rI].id
             photoData.photographer = response.data.results[rI].user.name
             photoData.photographerIG = response.data.results[rI].user.instagram_username
         }
@@ -32,9 +42,11 @@ exports.getPhotoData = function(search_term){
     .catch(function (error){
         console.log(error)
     })
+    console.log("generatePhotoData done")
 }
 
-exports.getRandomPhoto = function(){
+
+getRandomPhoto = function(){
     axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
     .then(function (response){
         photoData.url = response.data.urls.raw
@@ -47,47 +59,80 @@ exports.getRandomPhoto = function(){
     .catch(function (error){
         console.log(error)
     })
+    console.log("getRandomPhoto done")
 }
 
-exports.getSearchTerm = function(sentence){
-    var wordString = Rita.RiString(sentence)
+
+
+exports.setSearchTerm = function(){
+    var wordString = Rita.RiString(photoData.text)
     var posArray = wordString.pos()
     for(i = 0; i < posArray.length; ++i ){
         if(posArray[i] != "pps" || posArray[i] != "prp")
         {
             if(posArray[i] == "nn" || posArray[i] == "nns")
             {
-                return wordString.wordAt(i)
+                photoData.searchTerm = wordString.wordAt(i)
             }
         }				
     }
+    console.log("setSearchTerm done")
+}
+exports.setJimpParams = function(){
+
+    photoData.font = Jimp.FONT_SANS_128_WHITE
+    photoData.xstart = 10
+    photoData.xwrap = photoData.width - 10
+    photoData.ystart = 10
+    console.log("setJimpParams done")
+  
 }
 
-exports.writeOnPicture = function(sentence, font,  XSTART, YSTART,){
+exports.writeOnPicture = function(){
     var loadedImage
     Jimp.read(photoData.url)
         .then(function (image) {
             loadedImage = image
-            return Jimp.loadFont(font)
+            return Jimp.loadFont(photoData.font)
         })
         .then(function (font) {
-            loadedImage.print(font, XSTART, YSTART, sentence)
+            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text, photoData.xwrap)
                        .write("./meme.png")
         })
         .catch(function (err) {
             console.error(err)
         })
+        console.log("writeOnPicture done")
 }
 
-exports.tweet = function(sentence){ //add IG link
+exports.loadTestData = function(){
+    photoData.font=testData.font,
+    photoData.height=testData.height,
+    photoData.photographer=testData.photographer,
+    photoData.photographerIG=testData.photographer,
+    photoData.photoID=testData.photoID,
+    photoData.searchTerm=testData.searchTerm,
+    photoData.text=testData.text,
+    photoData.url=testData.url,
+    photoData.width=testData.width,
+    photoData.xstart=testData.xstart
+    photoData.ystart=testData.ystart
+    photoData.xwrap=testData.xwrap
+    console.log("loadTestData done")
+}
+
+
+exports.tweet = function(){
+    var Twitter = new Twit(twitterConfig)
     var b64content = fs.readFileSync("./meme.png", { encoding: 'base64' })
+    var photoCredit =  "Photographer: " + photoData.photographer + "  Instagram: " + photoData.photographerIG
     Twitter.post('media/upload', { media_data: b64content }, function (err, data, response) {
         var mediaId = data.media_id_string
-        var altText = sentence
+        var altText = photoData.text
         var meta_params = { media_id: mediaId, alt_text: { text: altText } }
         Twitter.post('media/metadata/create', meta_params, function (err, data, response) {
             if (!err) {
-                var params = { status: "Photograph by: " + photoData.photographer, media_ids: [mediaId] }
+                var params = { status: photoCredit, media_ids: [mediaId] }
                 Twitter.post('statuses/update', params, function (err, data, response) {
                     console.log(data)
                 })
