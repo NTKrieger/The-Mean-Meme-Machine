@@ -1,23 +1,10 @@
-const Methods = require("./functions.js")
-let photoData = require("./photoData.js")
+const Methods = require("./functions.js");
 
-
-console.log(photoData)
-Methods.generateText()
-console.log(photoData)
-Methods.setSearchTerm()
-console.log(photoData)
-Methods.loadTestData()
-console.log(photoData)
-Methods.generatePhotoData()
-console.log(photoData)
-Methods.setJimpParams()
-console.log(photoData)
-Methods.writeOnPicture()
-console.log(photoData)
-//Methods.tweet()
-
-
-
-
-
+(async () => {
+    Methods.generateText()
+    Methods.setSearchTerm()
+    await Methods.generatePhotoData()
+    Methods.setJimpParams()
+    Methods.writeOnPicture()
+    Methods.tweet()
+  })()

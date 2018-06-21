@@ -5,9 +5,10 @@ const Twit = require("twit")
 const axios = require("axios")
 const fs = require("fs")
 // config files
-const twitterConfig = require("./twitterConfig.js")
-const ritaConfig = require("./ritaConfig")
-const unsplashConfig = require("./unsplashConfig")
+const twitterConfig = require("./config/twitterConfig.js")
+const ritaConfig = require("./config/ritaConfig")
+const unsplashConfig = require("./config/unsplashConfig")
+// data files
 let photoData = require("./photoData.js")
 const testData = require("./testData.js")
 
@@ -20,49 +21,47 @@ exports.generateText = function(){
     console.log("generateText done")
 }
 
-exports.generatePhotoData = function(){
+exports.generatePhotoData = async function(){
     const config = {
         headers : {"Authorization" : "Bearer " + unsplashConfig.token}
     }
-    axios.get("https://api.unsplash.com/search/photos/?query=" + photoData.searchTerm, config)
-    .then(function(response){
+    try {
+        let response = await axios.get("https://api.unsplash.com/search/photos/?query=" + photoData.searchTerm, config);
         if (response.data.total == 0) {
-            getRandomPhoto()
+          getRandomPhoto()
         }
         else {
-            rI = Math.floor(Math.random() * response.data.results.length)
-            photoData.url = response.data.results[rI].urls.regular
-            photoData.height = response.data.results[rI].height
-            photoData.width = response.data.results[rI].width
-            photoData.id = response.data.results[rI].id
-            photoData.photographer = response.data.results[rI].user.name
-            photoData.photographerIG = response.data.results[rI].user.instagram_username
+          rI = Math.floor(Math.random() * response.data.results.length)
+          photoData.url = response.data.results[rI].urls.regular
+          photoData.height = response.data.results[rI].height
+          photoData.width = response.data.results[rI].width
+          photoData.id = response.data.results[rI].id
+          photoData.photographer = response.data.results[rI].user.name
+          photoData.photographerIG = response.data.results[rI].user.instagram_username
         }
-    })
-    .catch(function (error){
-        console.log(error)
-    })
+      }
+    catch (error){
+          console.log(error)
+      }
     console.log("generatePhotoData done")
-}
+  }
 
-
-getRandomPhoto = function(){
-    axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
-    .then(function (response){
+getRandomPhoto = async function(){
+    try{
+        let response = await axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
+    
         photoData.url = response.data.urls.raw
         photoData.height = response.data.height
         photoData.width = response.data.width
         photoData.width = response.data.id
         photoData.photographer = response.data.user.name
-        photoData.photographerIG = response.data.user.instagram_username
-    })
-    .catch(function (error){
+        photoData.photographerIG = response.data.user.instagram_username    
+    }
+    catch (error){
         console.log(error)
-    })
+    }
     console.log("getRandomPhoto done")
 }
-
-
 
 exports.setSearchTerm = function(){
     var wordString = Rita.RiString(photoData.text)
@@ -78,6 +77,7 @@ exports.setSearchTerm = function(){
     }
     console.log("setSearchTerm done")
 }
+
 exports.setJimpParams = function(){
 
     photoData.font = Jimp.FONT_SANS_128_WHITE
