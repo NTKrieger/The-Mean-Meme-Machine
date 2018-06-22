@@ -11,4 +11,5 @@ module.exports={
     xstart: 10,
     ystart: 10,
     xwrap: 1000,
+    maxChar: 100,
 }

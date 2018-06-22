@@ -12,7 +12,7 @@ module.exports =
     
     "Grassed on me he did," I said morosely. (Note: Grass is English thief slang for inform.) I drew closer and laid my dirty junky fingers on his sharkskin sleeve. "And us blood brothers in the same dirty needle. I can tell you in confidence he is due for a hot shot." (Note: This is a cap of poison junk sold to addict for liquidation purposes. Often given to informers. Usually the hot shot is strychnine since it tastes and looks like junk.)
     
-    "Ever see a hot shot hit, kid? I saw the Gimp catch one in Philly. We rigged his room with a one-way whorehouse mirror and charged a sawski2 to watch it. He never got the needle out of his arm. They don't if the shot is right. That's the way they find them, dropper full of clotted blood hanging out of a blue arm. The look in his eyes when it hit � Kid, it was tasty �
+    "Ever see a hot shot hit, kid? I saw the Gimp catch one in Philly. We rigged his room with a one-way whorehouse mirror and charged a sawski2 to watch it. He never got the needle out of his arm. They don't if the shot is right. That's the way they find them, dropper full of clotted blood hanging out of a blue arm. The look in his eyes when it hit ? Kid, it was tasty ?
     
     "Recollect when I am traveling with the Vigilante, best Shake Man in the industry. Out in Chi . .. We is working the fags in Lincoln Park So one night the Vigilante turns up for work in cowboy boots and a black vest with a hunka tin on it and a lariat slung over his shoulder.
     
@@ -56,7 +56,7 @@ module.exports =
     
     "He fell downstairs," they say. You know the old cop bullshit.
     
-    Junk is surrounded by magic and taboos, curses and amulets. I could find my Mexico City connection by radar. "Not this street, the next, right ... now left. Now right again," and there he is, toothless old woman face and canceled eyes. I know this one pusher walks around humming a tune and everybody he passes takes it up. He is so grey and spectral and anonymous they don't see him and think it is their own mind humming the tune. So the customers come in on "Smiles," or "I'm in the Mood for Love," or "They Say We're Too Young to Go Steady," or whatever the song is for that day. Sometimes you can see maybe fifty ratty-looking junkies squealing sick, running along behind a boy with a harmonica, and there is The Man on a cane seat throwing bread to the swans, a fat drag queen walking his Afghan hound through the East Fifties, an old wino pissing against an El post, a radical Jewish student giving out leaflets in Washington Square, a tree surgeon, an exterminator, an advertising fruit in Nedick's where he calls the counterman by his first name. The world network of junkies, tuned on a cord of rancid jissom, tying up in furnished rooms, shivering in the junk-sick morning. (Old Pete men suck the black smoke in the Chink laundry back room and Melancholy Baby dies from an overdose of time or cold turkey withdrawal of breath.) In Yemen, Paris, New Orleans, Mexico City and Istanbul � shivering under the air hammers and the steam shovels, shrieked junky curses at one another neither of us heard, and The Man leaned out of a passing steam roller and I copped in a bucket of tar. (Note: Istanbul is being torn down and rebuilt, especially shabby junk quarters. Istanbul has more heroin junkies than NYC.) The living and the dead, in sickness or on the nod, hooked or kicked or hooked again, come in on the junk beam and the Connection is eating Chop Suey on Dolores Street, Mexico, D.F., dunking pound cake in the Automat, chased up Exchange Place by a baying pack of People. (Note: People is New Orleans slang for narcotic fuzz.)
+    Junk is surrounded by magic and taboos, curses and amulets. I could find my Mexico City connection by radar. "Not this street, the next, right ... now left. Now right again," and there he is, toothless old woman face and canceled eyes. I know this one pusher walks around humming a tune and everybody he passes takes it up. He is so grey and spectral and anonymous they don't see him and think it is their own mind humming the tune. So the customers come in on "Smiles," or "I'm in the Mood for Love," or "They Say We're Too Young to Go Steady," or whatever the song is for that day. Sometimes you can see maybe fifty ratty-looking junkies squealing sick, running along behind a boy with a harmonica, and there is The Man on a cane seat throwing bread to the swans, a fat drag queen walking his Afghan hound through the East Fifties, an old wino pissing against an El post, a radical Jewish student giving out leaflets in Washington Square, a tree surgeon, an exterminator, an advertising fruit in Nedick's where he calls the counterman by his first name. The world network of junkies, tuned on a cord of rancid jissom, tying up in furnished rooms, shivering in the junk-sick morning. (Old Pete men suck the black smoke in the Chink laundry back room and Melancholy Baby dies from an overdose of time or cold turkey withdrawal of breath.) In Yemen, Paris, New Orleans, Mexico City and Istanbul ? shivering under the air hammers and the steam shovels, shrieked junky curses at one another neither of us heard, and The Man leaned out of a passing steam roller and I copped in a bucket of tar. (Note: Istanbul is being torn down and rebuilt, especially shabby junk quarters. Istanbul has more heroin junkies than NYC.) The living and the dead, in sickness or on the nod, hooked or kicked or hooked again, come in on the junk beam and the Connection is eating Chop Suey on Dolores Street, Mexico, D.F., dunking pound cake in the Automat, chased up Exchange Place by a baying pack of People. (Note: People is New Orleans slang for narcotic fuzz.)
     
     The old Chinaman dips river water into a rusty tin can, washes down a yen pox hard and black as a cinder. (Note: Yen pox is the ash of smoked opium.)
     
@@ -73,11 +73,11 @@ module.exports =
     
     The Vigilante copped out as a schizo possession case:
     
-    "I was standing outside myself trying to stop those hangings with ghost fingers ... I am a ghost wanting what every ghost wants � a body � after the Long Time moving through odorless alleys of space where no life is, only the colorless no smell of death ... Nobody can breathe and smell it through pink convolutions of gristle laced with crystal snot, time shit and black blood filters of flesh."
+    "I was standing outside myself trying to stop those hangings with ghost fingers ... I am a ghost wanting what every ghost wants ? a body ? after the Long Time moving through odorless alleys of space where no life is, only the colorless no smell of death ... Nobody can breathe and smell it through pink convolutions of gristle laced with crystal snot, time shit and black blood filters of flesh."
     
     He stood there in elongated court room shadow, his face torn like a broken film by lusts and hungers of larval organs stirring in the tentative ectoplasmic flesh of junk kick (ten days on ice at time of the First Hearing), flesh that fades at the first silent touch of junk.
     
-    I saw it happen. Ten pounds lost in ten minutes standing with the syringe in one hand holding his pants up with the other, his abdicated flesh burning in a cold yellow halo, there in the New York hotel room ... night table litter of candy boxes, cigarette butts cascading out of three ashtrays, mosaic of sleepless nights and sudden food needs of the kicking addict nursing his baby flesh � The Vigilante is prosecuted in Federal Court under a lynch bill and winds up in a Federal Nut House specially designed for the containment of ghosts: precise, prosaic impact of objects � washstand ... door . .. toilet ... bars ... there they are ... this is it ... all lines cut ... nothing beyond ... Dead End ... And the Dead End in every face �
+    I saw it happen. Ten pounds lost in ten minutes standing with the syringe in one hand holding his pants up with the other, his abdicated flesh burning in a cold yellow halo, there in the New York hotel room ... night table litter of candy boxes, cigarette butts cascading out of three ashtrays, mosaic of sleepless nights and sudden food needs of the kicking addict nursing his baby flesh ? The Vigilante is prosecuted in Federal Court under a lynch bill and winds up in a Federal Nut House specially designed for the containment of ghosts: precise, prosaic impact of objects ? washstand ... door . .. toilet ... bars ... there they are ... this is it ... all lines cut ... nothing beyond ... Dead End ... And the Dead End in every face ?
     
     The physical changes were slow at first, then jumped forward in black klunks, falling through his slack tissue, washing away the human lines ... In his place of total darkness mouth and eyes are one organ that leaps forward to snap with transparent teeth ... but no organ is constant as regards either function or position ... sex organs sprout anywhere ... rectums open, defecate and close . .. the entire organism changes color and consistency in split-second adjustments . ..
     
@@ -90,19 +90,19 @@ module.exports =
     
     Provident junkies, known as squirrels, keep stashes against a bust. Every time I take a shot I let a few drops fall into my vest pocket, the lining is stiff with stuff. I had a plastic dropper in my shoe and a safety pin stuck in my belt. You know how this pin and dropper routine is put down: "She seized a safety pin caked with blood and rust, gouged a great hole in her leg which seemed to hang open like an obscene, festering mouth waiting for unspeakable congress with the dropper which she now plunged out of sight into the gaping wound. But her hideous galvanized need (hunger of insects in dry places) has broken the dropper off deep in the flesh of her ravaged thigh (looking rather like a poster on soil erosion). But what does she care? She does not even bother to remove the splintered glass, looking down at her bloody haunch with the cold blank eyes of a meat trader. What does she care for the atom bomb, the bedbugs, the cancer rent, Friendly Finance waiting to repossess her delinquent flesh ... Sweet dreams, Pantopon Rose. "
     
-    The real scene you pinch up some leg flesh and make a quick stab hole with a pin. Then fit the dropper over, not in the hole and feed the solution slow and careful so it doesn't squirt out the sides ... When I grabbed the Rube's thigh the flesh came up like wax and stayed there, and a slow drop of pus oozed out the hole. And I never touched a living body cold as the Rube there in Philly � I decided to lop him off if it meant a smother party. (This is a rural English custom designed to eliminate aged and bedfast dependents. A family so afflicted throws a "smother party " where the guests pile mattresses on the old liability, climb up on top of the mattresses and lush themselves out.) The Rube is a drag on the industry and should be "led out " into the skid rows of the world. (This is an African practice. Official known as the "Leader Out" has the function of taking old characters out into the jungle and leaving them there.)
+    The real scene you pinch up some leg flesh and make a quick stab hole with a pin. Then fit the dropper over, not in the hole and feed the solution slow and careful so it doesn't squirt out the sides ... When I grabbed the Rube's thigh the flesh came up like wax and stayed there, and a slow drop of pus oozed out the hole. And I never touched a living body cold as the Rube there in Philly ? I decided to lop him off if it meant a smother party. (This is a rural English custom designed to eliminate aged and bedfast dependents. A family so afflicted throws a "smother party " where the guests pile mattresses on the old liability, climb up on top of the mattresses and lush themselves out.) The Rube is a drag on the industry and should be "led out " into the skid rows of the world. (This is an African practice. Official known as the "Leader Out" has the function of taking old characters out into the jungle and leaving them there.)
     
-    The Rube's attacks become an habitual condition. Cops, doormen, dogs, secretaries snarl at his approach. The blond God has fallen to untouchable vileness. Con men don't change, they break, shatter-explosions of matter in cold interstellar space, drift away in cosmic dust, leave the empty body behind. Hustlers of the world, there is one Mark you cannot beat: The Mark Inside � I left the Rube standing on a corner, red brick slums to the sky, under a steady rain of soot. "Going to hit this croaker I know. Right back with that good pure drugstore M ... No, you wait here � don't want him to rumble you. " No matter how long, Rube, wait for me right on that corner. Goodbye, Rube, goodbye kid ... Where do they go when they walk out and leave the body behind?
+    The Rube's attacks become an habitual condition. Cops, doormen, dogs, secretaries snarl at his approach. The blond God has fallen to untouchable vileness. Con men don't change, they break, shatter-explosions of matter in cold interstellar space, drift away in cosmic dust, leave the empty body behind. Hustlers of the world, there is one Mark you cannot beat: The Mark Inside ? I left the Rube standing on a corner, red brick slums to the sky, under a steady rain of soot. "Going to hit this croaker I know. Right back with that good pure drugstore M ... No, you wait here ? don't want him to rumble you. " No matter how long, Rube, wait for me right on that corner. Goodbye, Rube, goodbye kid ... Where do they go when they walk out and leave the body behind?
     
     Chicago: invisible hierarchy of decorticated6 wops, smell of atrophied gangsters, earthbound ghost hits you at North and Halsted, Cicero, Lincoln Park, panhandler of dreams, past invading the present, rancid magic of slot machines and roadhouses. Into the Interior: a vast subdivision, antennae of television to the meaningless sky. In lifeproof houses they hover over the young, sop up a little of what they shut out. Only the young bring anything in, and they are not young very long. (Through the bars of East St. Louis lies the dead frontier, riverboat days.) Illinois and Missouri, miasma of mound-building peoples, groveling worship of the Food Source, cruel and ugly festivals, dead-end horror of the Centipede God reaches from Moundville to the lunar deserts of coastal Peru.
     
-    America is not a young land: it is old and dirty and evil before the settlers, before the Indians. The evil is there waiting. And always cops: smooth college-trained state cops, practiced, apologetic patter, electronic eyes weigh your car and luggage, clothes and face; snarling big city clicks, soft-spoken country sheriffs with something black and menacing in old eyes color of a faded grey flannel shirt�7
+    America is not a young land: it is old and dirty and evil before the settlers, before the Indians. The evil is there waiting. And always cops: smooth college-trained state cops, practiced, apologetic patter, electronic eyes weigh your car and luggage, clothes and face; snarling big city clicks, soft-spoken country sheriffs with something black and menacing in old eyes color of a faded grey flannel shirt?7
     
     And always car trouble: in St. Louis traded the 1942 Studebaker in (it has a built-in engineering flaw like the Rube) on an old Packard limousine heated up and barely made Kansas City, and bought a Ford turned out to be an oil burner, packed it in on a Jeep we push too hard (they are no good for highway driving) and burn something out inside, rattling around, went back to the old Ford V-8. Can't beat that engine for getting there, oil burner or no.
     
-    And the U.S. drag closes around us like no other drag in the world, worse than the Andes, high mountain towns, cold wind down from postcard mountains, thin air like death in the throat, river towns of Ecuador, malaria grey as junk under black Stetson, muzzle loading shotguns, vultures pecking through the mud streets � and what hits you when you get off the Malmo Ferry (no juice tax on the ferry) in Sweden knocks all that cheap, tax free juice right out of you and brings you all the way down: averted eyes and the cemetery in the middle of town (every town in Sweden seems to be built around a cemetery), and nothing to do in the afternoon, not a bar not a movie and I blasted my last stick of Tangier tea and I said, "K.E. let's get right back on that ferry."
+    And the U.S. drag closes around us like no other drag in the world, worse than the Andes, high mountain towns, cold wind down from postcard mountains, thin air like death in the throat, river towns of Ecuador, malaria grey as junk under black Stetson, muzzle loading shotguns, vultures pecking through the mud streets ? and what hits you when you get off the Malmo Ferry (no juice tax on the ferry) in Sweden knocks all that cheap, tax free juice right out of you and brings you all the way down: averted eyes and the cemetery in the middle of town (every town in Sweden seems to be built around a cemetery), and nothing to do in the afternoon, not a bar not a movie and I blasted my last stick of Tangier tea and I said, "K.E. let's get right back on that ferry."
     
-    But there is no drag like U.S. drag. You can't see it, you don't know where it comes from. Take one of those cocktail lounges at the end of a subdivision street � every block of houses has its own bar and drugstore and market and liquor store. You walk in and it hits you. But where does it come from? Not the bartender, not the customers, nor the cream-colored plastic rounding the bar stools, nor the dim neon. Not even the TV.
+    But there is no drag like U.S. drag. You can't see it, you don't know where it comes from. Take one of those cocktail lounges at the end of a subdivision street ? every block of houses has its own bar and drugstore and market and liquor store. You walk in and it hits you. But where does it come from? Not the bartender, not the customers, nor the cream-colored plastic rounding the bar stools, nor the dim neon. Not even the TV.
     
     And our habits build up with the drag, like cocaine will build you up staying ahead of the C bring-down. And the junk was running low. So there we are in this no-horse town strictly from cough syrup. And vomited up the syrup and drove on and on, cold spring wind whistling through that old heap around our shivering, sick sweating bodies and the cold you always come down with when the junk runs out of you ... On through the peeled landscape, dead armadillos in the road and vultures over the swamp and cypress stumps. Motels with beaverboard8 walls, gas heater, thin pink blankets.
     
@@ -114,13 +114,13 @@ module.exports =
     
     So I sit down and drink a cup of coffee and after a while he comes and sits beside me and says, "What do you want?"
     
-    "A quart of PG9 and a hundred nembies."10
+    "A quart of PG9 and a hundred nembies."
     
     He nods. "Come back in half an hour. "
     
     So when I come back he hands me a package and says, "That's fifteen dollars ... Be careful. "
     
-    Shooting PG is a terrible hassle, you have to burn out the alcohol first, then freeze out the camphor and draw this brown liquid off with a dropper � have to shoot it in the vein or you get an abscess, and usually end up with an abscess no matter where you shoot it. Best deal is to drink it with goof balls11 ... So we pour it in a Pernod bottle and start for New Orleans past iridescent lakes and orange gas flares, and swamps and garbage heaps, alligators crawling around in broken bottles and tin cans, neon arabesques of motels, marooned pimps scream obscenities at passing cars from islands of rubbish �
+    Shooting PG is a terrible hassle, you have to burn out the alcohol first, then freeze out the camphor and draw this brown liquid off with a dropper ? have to shoot it in the vein or you get an abscess, and usually end up with an abscess no matter where you shoot it. Best deal is to drink it with goof balls11 ... So we pour it in a Pernod bottle and start for New Orleans past iridescent lakes and orange gas flares, and swamps and garbage heaps, alligators crawling around in broken bottles and tin cans, neon arabesques of motels, marooned pimps scream obscenities at passing cars from islands of rubbish ?
     
     New Orleans is a dead museum. We walk around Exchange Place breathing PG and find The Man right away. It's a small place and the fuzz always knows who is pushing so he figures what the hell does it matter and sells to anybody. We stock up on H and backtrack for Mexico.
     
@@ -134,7 +134,7 @@ module.exports =
     
     Mexico City where Lupita sits like an Aztec Earth Goddess doling out her little papers of lousy shit.
     
-    "Selling is more of a habit than using," Lupita says. Non-using pushers have a contact habit, and that's one you can't kick. Agents get it too. Take Bradley the Buyer. Best narcotics agent in the industry. Anyone would make him for junk. (Note: Make in the sense of dig or size up.) I mean he can walk up to a pusher and score direct. He is so anonymous, grey and spectral the pusher don't remember him afterwards. So he twists one after the other � Well the Buyer comes to look more and more like a junky. He can't drink. He can't get it up. His teeth fall out. (Like pregnant women lose their teeth feeding the stranger, junkies lose their yellow fangs feeding the monkey.) He is all the time sucking on a candy bar. Baby Ruths he digs special. "It really disgust you to see the Buyer sucking on them candy bars so nasty," a cop says. The Buyer takes on an ominous grey-green color. Fact is his body is making its own junk or equivalent.12 The Buyer has a steady connection. A Man Within, you might say. Or so he thinks. "I'll just set in my room," he says. "Fuck 'em all. Squares on both sides. I am the only complete man in the industry."
+    "Selling is more of a habit than using," Lupita says. Non-using pushers have a contact habit, and that's one you can't kick. Agents get it too. Take Bradley the Buyer. Best narcotics agent in the industry. Anyone would make him for junk. (Note: Make in the sense of dig or size up.) I mean he can walk up to a pusher and score direct. He is so anonymous, grey and spectral the pusher don't remember him afterwards. So he twists one after the other ? Well the Buyer comes to look more and more like a junky. He can't drink. He can't get it up. His teeth fall out. (Like pregnant women lose their teeth feeding the stranger, junkies lose their yellow fangs feeding the monkey.) He is all the time sucking on a candy bar. Baby Ruths he digs special. "It really disgust you to see the Buyer sucking on them candy bars so nasty," a cop says. The Buyer takes on an ominous grey-green color. Fact is his body is making its own junk or equivalent.12 The Buyer has a steady connection. A Man Within, you might say. Or so he thinks. "I'll just set in my room," he says. "Fuck 'em all. Squares on both sides. I am the only complete man in the industry."
     
     But a yen comes on him like a great black wind through the bones. So the Buyer hunts up a young junky and gives him a paper to make it.
     
@@ -142,7 +142,7 @@ module.exports =
     
     "I just want to rub up against you and get fixed."
     
-    "Ugh ... Well all right ... But why cancha just get physical like a human?" �
+    "Ugh ... Well all right ... But why cancha just get physical like a human?" ?
     
     Later the boy is sitting in a Waldorf with two colleagues dunking pound cake. "Most distasteful thing I ever stand still for," he says. "Some way he make himself all soft like a blob of jelly and surround me so nasty. Then he gets wet all over like with green slime. So I guess he come to some kinda awful climax ... I come near wigging with that green stuff all over me, and he stink like a old rotten cantaloupe."13
     
@@ -152,17 +152,17 @@ module.exports =
     
     The Buyer's habit keeps getting heavier. He needs a recharge every half hour. Sometimes he cruises the precincts and bribes the turnkey to let him in with a cell of junkies. It gets to where no amount of contact will fix him. At this point he receives a summons from the District Supervisor:
     
-    "Bradley, your conduct has given rise to rumors � and I hope for your sake they are no more than that � so unspeakably distasteful that ... I mean, Caesar's wife ... hrump ... that is, the Department must be above suspicion . .. certainly above such suspicions as you have seemingly aroused. You are lowering the entire tone of the industry. We are prepared to accept your immediate resignation."
+    "Bradley, your conduct has given rise to rumors ? and I hope for your sake they are no more than that ? so unspeakably distasteful that ... I mean, Caesar's wife ... hrump ... that is, the Department must be above suspicion . .. certainly above such suspicions as you have seemingly aroused. You are lowering the entire tone of the industry. We are prepared to accept your immediate resignation."
     
     The Buyer throws himself on the ground and crawls over to the D.S. "No, Boss Man, no ... The Department is my very lifeline."
     
-    He kisses the D.S.'s hand thrusting the fingers into his mouth (the D.S. must feel his toothless gums) complaining he has lost his teeth "inna thervith." "Please Boss Man. I'll wipe your ass, I'll wash out your dirty condoms, I'll polish your shoes with the oil on my nose �''
+    He kisses the D.S.'s hand thrusting the fingers into his mouth (the D.S. must feel his toothless gums) complaining he has lost his teeth "inna thervith." "Please Boss Man. I'll wipe your ass, I'll wash out your dirty condoms, I'll polish your shoes with the oil on my nose ?''
     
     "Really, this is most distasteful! Have you no pride? I must tell you I feel a distinct revulsion. I mean there is something, well, rotten about you, and you smell like a compost heap.'' He puts a scented handkerchief in front of his face. "I must ask you to leave this office at once."
     
     "I'll do anything, boss, anything." His ravaged green face splits in a horrible smile. "I'm still young, boss, and I'm pretty strong when I get my blood up.''
     
-    The D.S. retches into his handkerchief and points to the door with a limp hand. The Buyer stands up looking at the D.S. dreamily. His body begins to dip like a dowser's wand. He flows forward �
+    The D.S. retches into his handkerchief and points to the door with a limp hand. The Buyer stands up looking at the D.S. dreamily. His body begins to dip like a dowser's wand. He flows forward ?
     
     "No! No!" screams the D.S.
     
@@ -176,7 +176,7 @@ module.exports =
     
     "That one should stand in an aquarium," says the arresting officer.
     
-    The Buyer spreads terror throughout the industry. Junkies and agents disappear. Like a vampire bat he gives off a narcotic effluvium, a dank green mist that anesthetizes his victims and renders them helpless in his enveloping presence. And once he has scored he holes up for several days like a gorged boa constrictor. Finally he is caught in the act of digesting the Narcotics Commissioner and destroyed with a flame thrower � the court of inquiry ruling that such means were justified in that the Buyer had lost his human citizenship and was, in consequence, a creature without species and a menace to the narcotics industry on all levels.14
+    The Buyer spreads terror throughout the industry. Junkies and agents disappear. Like a vampire bat he gives off a narcotic effluvium, a dank green mist that anesthetizes his victims and renders them helpless in his enveloping presence. And once he has scored he holes up for several days like a gorged boa constrictor. Finally he is caught in the act of digesting the Narcotics Commissioner and destroyed with a flame thrower ? the court of inquiry ruling that such means were justified in that the Buyer had lost his human citizenship and was, in consequence, a creature without species and a menace to the narcotics industry on all levels.14
     
     In Mexico the gimmick is to find a local junky with a government script whereby they are allowed a certain quantity every month. Our Man was Old Ike who had spent most of his life in the States.
     
@@ -186,20 +186,20 @@ module.exports =
     
     It's the coke horrors ...S it back and play it cool and shoot in plenty of that GI M.
     
-    Day of the Dead: I got the chucks and ate my little Willy's sugar skull. He cried and I had to go out for another. Walked past the cocktail lounge where they blasted the Jai Alai bookie. In Cuernavaca or was it Taxco? Jane meets a pimp trombone player and disappears in a cloud of tea smoke. The pimp is one of these vibration and dietary artists � which is a means he degrades the female sex by, forcing his chicks to swallow all this shit. He was continually enlarging his theories ... he would quiz a chick and threaten to walk out if she hadn't memorized every nuance of his latest assault on logic and the human image.
+    Day of the Dead: I got the chucks and ate my little Willy's sugar skull. He cried and I had to go out for another. Walked past the cocktail lounge where they blasted the Jai Alai bookie. In Cuernavaca or was it Taxco? Jane meets a pimp trombone player and disappears in a cloud of tea smoke. The pimp is one of these vibration and dietary artists ? which is a means he degrades the female sex by, forcing his chicks to swallow all this shit. He was continually enlarging his theories ... he would quiz a chick and threaten to walk out if she hadn't memorized every nuance of his latest assault on logic and the human image.
     
     "Now, baby. I got it here to give. But if you won't receive it there's just nothing I can do."
     
     He was a ritual tea smoker and very puritanical about junk the way some teaheads are. He claimed tea put him in touch with supra blue gravitational fields. He had ideas on every subject: what kind of underwear was healthy, when to drink water, and how to wipe your ass. He had a shiny red face and great spreading smooth nose, little red eyes that lit up when he looked at a chick and went out when he looked at anything else. His shoulders were very broad and suggested deformity. He acted as if other men did not exist, conveying his restaurant and store orders to male personnel through a female intermediary. And no Man ever invaded his blighted, secret place.
     
-    So he is putting down junk and coming on with tea. I take three drags, Jane looked at him and her flesh crystallized. I leaped up screaming "I got the fear! " and ran out of the house. Drank a beer in a little restaurant � mosaic bar and soccer scores and bullfight posters � and waited for the bus to town.
+    So he is putting down junk and coming on with tea. I take three drags, Jane looked at him and her flesh crystallized. I leaped up screaming "I got the fear! " and ran out of the house. Drank a beer in a little restaurant ? mosaic bar and soccer scores and bullfight posters ? and waited for the bus to town.
     
     A year later in Tangier I heard she was dead.
     benway
     
     So I am assigned to engage the services of Doctor Benway for Islam Inc.
     
-    Dr. Benway had been called in as advisor to the Freeland Republic, a place given over to free love and continual bathing. The citizens are well adjusted, cooperative, honest, tolerant and above all clean. But the invoking of Benway indicates all is not well behind that hygienic fa�ade: Benway is a manipulator and coordinator of symbol systems, an expert on all phases of interrogation, brainwashing and control. I have not seen Benway since his precipitate departure from Annexia, where his assignment had been T.D. � Total Demoralization. Benway's first act was to abolish concentration camps, mass arrest and, except under certain limited and special circumstances, the use of torture.
+    Dr. Benway had been called in as advisor to the Freeland Republic, a place given over to free love and continual bathing. The citizens are well adjusted, cooperative, honest, tolerant and above all clean. But the invoking of Benway indicates all is not well behind that hygienic fa?ade: Benway is a manipulator and coordinator of symbol systems, an expert on all phases of interrogation, brainwashing and control. I have not seen Benway since his precipitate departure from Annexia, where his assignment had been T.D. ? Total Demoralization. Benway's first act was to abolish concentration camps, mass arrest and, except under certain limited and special circumstances, the use of torture.
     
     "I deplore brutality," he said. "It's not efficient. On the other hand, prolonged mistreatment, short of physical violence, gives rise, when skillfully applied, to anxiety and a feeling of special guilt. A few rules or rather guiding principles are to be borne in mind. The subject must not realize that the mistreatment is a deliberate attack of an anti-human enemy on his personal identity. He must be made to feel that he deserves any treatment he receives because there is something (never specified) horribly wrong with him. The naked need of the control addicts must be decently covered by an arbitrary and intricate bureaucracy so that the subject cannot contact his enemy direct."
     
@@ -229,7 +229,7 @@ module.exports =
     
     Of course the Annexia police processed suspected agents, saboteurs and political deviants on an assembly line basis. As regards the interrogation of suspects, Benway has this to say:
     
-    "While in general I avoid the use of torture � torture locates the opponent and mobilizes resistance � the threat of torture is useful to induce in the subject the appropriate feeling of helplessness and gratitude to the interrogator for withholding it. And torture can be employed to advantage as a penalty when the subject is far enough along with the treatment to accept punishment as deserved. To this end I devised several forms of disciplinary procedure. One was known as the Switchboard. Electric drills that can be turned on at any time are clamped against the subject's teeth; and he is instructed to operate an arbitrary switchboard, to put certain connections in certain sockets in response to bells and lights. Every time he makes a mistake the drills are turned on for twenty seconds. The signals are gradually speeded up beyond his reaction time. Half an hour on the Switchboard and the subject breaks down like an overloaded thinking machine.
+    "While in general I avoid the use of torture ? torture locates the opponent and mobilizes resistance ? the threat of torture is useful to induce in the subject the appropriate feeling of helplessness and gratitude to the interrogator for withholding it. And torture can be employed to advantage as a penalty when the subject is far enough along with the treatment to accept punishment as deserved. To this end I devised several forms of disciplinary procedure. One was known as the Switchboard. Electric drills that can be turned on at any time are clamped against the subject's teeth; and he is instructed to operate an arbitrary switchboard, to put certain connections in certain sockets in response to bells and lights. Every time he makes a mistake the drills are turned on for twenty seconds. The signals are gradually speeded up beyond his reaction time. Half an hour on the Switchboard and the subject breaks down like an overloaded thinking machine.
     
     "The study of thinking machines teaches us more about the brain than we can learn by introspective methods. Western man is externalizing himself in the form of gadgets.
     
@@ -237,17 +237,17 @@ module.exports =
     
     "So after a bit the channels wear out like veins, and the addict has to find new ones. A vein will come back in time, and by adroit vein rotation a junky can piece out the odds if he don't become an oil burner. But brain cells don't come back once they're gone, and when the addict runs out of brain cells he is in a terrible fucking position.17
     
-    "Squatting on old bones and excrement and rusty iron, in a white blaze of heat, a panorama of naked idiots stretches to the horizon. Complete silence � their speech centers are destroyed except for the crackle of sparks and the popping of singed flesh as they apply electrodes up and down the spine. White smoke of burning flesh hangs in the motionless air. A group of children have tied an idiot to a post with barbed wire and built a fire between his legs and stand watching with bestial curiosity as the flames lick his thighs. His flesh jerks in the fire with insect agony.
+    "Squatting on old bones and excrement and rusty iron, in a white blaze of heat, a panorama of naked idiots stretches to the horizon. Complete silence ? their speech centers are destroyed except for the crackle of sparks and the popping of singed flesh as they apply electrodes up and down the spine. White smoke of burning flesh hangs in the motionless air. A group of children have tied an idiot to a post with barbed wire and built a fire between his legs and stand watching with bestial curiosity as the flames lick his thighs. His flesh jerks in the fire with insect agony.
     
-    "I digress as usual. Pending more precise knowledge of brain electronics, drugs remain an essential tool of the interrogator in his assault on the subject's personal identity. The barbiturates are, of course, virtually useless. That is, anyone who can be broken down by such means would succumb to the puerile methods used in an American precinct. Scopolamine18 is often effective in dissolving resistance, but it impairs the memory: an agent might be prepared to reveal his secrets but quite unable to remember them, or cover story and secret life info might be inextricably garbled. Mescaline, harmine,19 LSD6,20 bufotenine,21 muscarine22 successful in many cases. Bulbocapnine23 induces a state approximating schizophrenic catatonia ... instances of automatic obedience have been observed. Bulbocapnine is a back-brain depressant probably putting out of action the centers of motion in the hypothalamus. Other drugs that have produced experimental schizophrenia � mescaline, harmine, LSD6-are back-brain stimulants. In schizophrenia the back brain is alternately stimulated and depressed. Catatonia is often followed by a period of excitement and motor activity during which the nut rushes through the wards giving everyone a bad time. Deteriorated schizos sometimes refuse to move at all and spend their lives in bed. A disturbance of the regulatory function of the hypothalamus is indicated as the 'cause' (causal thinking never yields accurate description of metabolic process limitations of existing language) of schizophrenia. Alternate doses of LSD6 and bulbocapnine � the bulbocapnine potentiated with curare � give the highest yield of automatic obedience.
+    "I digress as usual. Pending more precise knowledge of brain electronics, drugs remain an essential tool of the interrogator in his assault on the subject's personal identity. The barbiturates are, of course, virtually useless. That is, anyone who can be broken down by such means would succumb to the puerile methods used in an American precinct. Scopolamine18 is often effective in dissolving resistance, but it impairs the memory: an agent might be prepared to reveal his secrets but quite unable to remember them, or cover story and secret life info might be inextricably garbled. Mescaline, harmine,19 LSD6,20 bufotenine,21 muscarine22 successful in many cases. Bulbocapnine23 induces a state approximating schizophrenic catatonia ... instances of automatic obedience have been observed. Bulbocapnine is a back-brain depressant probably putting out of action the centers of motion in the hypothalamus. Other drugs that have produced experimental schizophrenia ? mescaline, harmine, LSD6-are back-brain stimulants. In schizophrenia the back brain is alternately stimulated and depressed. Catatonia is often followed by a period of excitement and motor activity during which the nut rushes through the wards giving everyone a bad time. Deteriorated schizos sometimes refuse to move at all and spend their lives in bed. A disturbance of the regulatory function of the hypothalamus is indicated as the 'cause' (causal thinking never yields accurate description of metabolic process limitations of existing language) of schizophrenia. Alternate doses of LSD6 and bulbocapnine ? the bulbocapnine potentiated with curare ? give the highest yield of automatic obedience.
     
     "There are other procedures. The subject can be reduced to deep depression by administering large doses of Benzedrine24 for several days. Psychosis can be induced by continual large doses of cocaine or Demerol or by the abrupt withdrawal of barbiturates after prolonged administration. He can be addicted by dihydro-oxy-heroin and subjected to withdrawal (this compound should be five times as addicting as heroin, and the withdrawal proportionately severe).
     
     "There are various 'psychological methods,' compulsory psychoanalysis, for example. The subject is requested to free-associate for one hour every day (in cases where time is not of the essence). 'Now, now. Let's not be negative, boy. Poppa call nasty man. Take baby walkabout Switchboard.'  
     
-    "The case of a female agent who forgot her real identity and merged with her cover story � she is still a fricteuse25 in Annexia put me onto another gimmick. An agent is trained to deny his agent identity by asserting his cover story. So why not use psychic jiujitsu and go along with him? Suggest that his cover story is his identity and that he has no other. His agent identity becomes unconscious, that is, out of his control; and you can dig it with drugs and hypnosis. You can make a square heterosex citizen queer with this angle ... that is, reinforce and second his rejection of normally latent homosexual trends � at the same time depriving him of cunt and subjecting him to homosexual stimulation. Then drugs, hypnosis, and�" Benway flipped a limp wrist.
+    "The case of a female agent who forgot her real identity and merged with her cover story ? she is still a fricteuse25 in Annexia put me onto another gimmick. An agent is trained to deny his agent identity by asserting his cover story. So why not use psychic jiujitsu and go along with him? Suggest that his cover story is his identity and that he has no other. His agent identity becomes unconscious, that is, out of his control; and you can dig it with drugs and hypnosis. You can make a square heterosex citizen queer with this angle ... that is, reinforce and second his rejection of normally latent homosexual trends ? at the same time depriving him of cunt and subjecting him to homosexual stimulation. Then drugs, hypnosis, and?" Benway flipped a limp wrist.
     
-    "Many subjects are vulnerable to sexual humiliation. Nakedness, stimulation with aphrodisiacs, constant supervision to embarrass subject and prevent relief of masturbation (erections during sleep automatically turn on an enormous vibrating electric buzzer that throws the subject out of bed into cold water, thus reducing the incidence of wet dreams to a minimum). Kicks to hypnotize a priest and tell him he is about to consummate a hypostatic union with the Lamb � then steer a randy old sheep up his ass. After that the Interrogator can gain complete hypnotic control � the subject will come at his whistle, shit on the floor if he but say Open Sesame.
+    "Many subjects are vulnerable to sexual humiliation. Nakedness, stimulation with aphrodisiacs, constant supervision to embarrass subject and prevent relief of masturbation (erections during sleep automatically turn on an enormous vibrating electric buzzer that throws the subject out of bed into cold water, thus reducing the incidence of wet dreams to a minimum). Kicks to hypnotize a priest and tell him he is about to consummate a hypostatic union with the Lamb ? then steer a randy old sheep up his ass. After that the Interrogator can gain complete hypnotic control ? the subject will come at his whistle, shit on the floor if he but say Open Sesame.
     
     "Needless to say, the sex humiliation angle is contraindicated for overt homosexuals. (I mean let's keep our eye on the ball here and remember the old party line ... never know who's listening in.) I recall this one kid, I condition to shit at sight of me. Then I wash his ass and screw him. It was real tasty. And he was a lovely fellah too. And sometimes a subject will burst into boyish tears because he can't keep from ejaculate when you screw him.
     
@@ -256,7 +256,7 @@ module.exports =
     ... Well, 'son casas de la vida."'
     
     
-    I reach Freeland, which is clean and dull my God. Benway is directing the R.C., Reconditioning Center. I drop around, and "What happened to so and so?" sets in like: "Sidi Idriss 'The Nark' Smithers crooned to the Senders for a longevity serum. No fool like an old queen." "Lester Stroganoff Smuunn � 'El Hassein' � turned himself into a Latah trying to perfect A.O.P., Automatic Obedience Processing. A martyr to the industry ... " (Latah is a condition occurring in Southeast Asia. Otherwise sane, Latahs compulsively imitate every motion once their attention is attracted by snapping the fingers or calling sharply. A form of compulsive involuntary hypnosis. They sometimes injure themselves trying to imitate the motions of several people at once.)
+    I reach Freeland, which is clean and dull my God. Benway is directing the R.C., Reconditioning Center. I drop around, and "What happened to so and so?" sets in like: "Sidi Idriss 'The Nark' Smithers crooned to the Senders for a longevity serum. No fool like an old queen." "Lester Stroganoff Smuunn ? 'El Hassein' ? turned himself into a Latah trying to perfect A.O.P., Automatic Obedience Processing. A martyr to the industry ... " (Latah is a condition occurring in Southeast Asia. Otherwise sane, Latahs compulsively imitate every motion once their attention is attracted by snapping the fingers or calling sharply. A form of compulsive involuntary hypnosis. They sometimes injure themselves trying to imitate the motions of several people at once.)
     
     "Stop me if you've heard this atomic secret ... "
     
@@ -266,17 +266,17 @@ module.exports =
     
     We are walking down a long white hall. Benway's voice drifts into my consciousness from no particular place ... a disembodied voice that is sometimes loud and clear, sometimes barely audible, like music down a windy street.
     
-    "Isolated groups like natives of the Bismarck Archipelago. No overt homosexuality among them. God damned matriarchy. All matriarchies anti-homosexual, conformist and prosaic. Find yourself in a matriarchy walk don't run to the nearest frontier. If you run, some frustrate latent queer cop will likely shoot you. So somebody wants to establish a beach head of homogeneity in a shambles of potentials like West Europe and U.S.A.? Another fucking matriarchy, Margaret Mead26 notwithstanding �
+    "Isolated groups like natives of the Bismarck Archipelago. No overt homosexuality among them. God damned matriarchy. All matriarchies anti-homosexual, conformist and prosaic. Find yourself in a matriarchy walk don't run to the nearest frontier. If you run, some frustrate latent queer cop will likely shoot you. So somebody wants to establish a beach head of homogeneity in a shambles of potentials like West Europe and U.S.A.? Another fucking matriarchy, Margaret Mead26 notwithstanding ?
     
-    "Spot of bother there. Scalpel fight with a colleague in the operating room. And my baboon assistant leaped on the patient and tore him to pieces. Baboons always attack the weakest party in an altercation. Quite right too. We must never forget our glorious simian heritage. Doc Brubeck was party inna second part. A retired abortionist and junk pusher (he was a veterinarian actually) recalled to service during the manpower shortage. Well, Doc had been in the hospital kitchen all morning goosing the nurses and tanking up on coal gas and Klim � and just before the operation he sneaked a double shot of nutmeg to nerve himself up."
+    "Spot of bother there. Scalpel fight with a colleague in the operating room. And my baboon assistant leaped on the patient and tore him to pieces. Baboons always attack the weakest party in an altercation. Quite right too. We must never forget our glorious simian heritage. Doc Brubeck was party inna second part. A retired abortionist and junk pusher (he was a veterinarian actually) recalled to service during the manpower shortage. Well, Doc had been in the hospital kitchen all morning goosing the nurses and tanking up on coal gas and Klim ? and just before the operation he sneaked a double shot of nutmeg to nerve himself up."
     
-    (In England and especially in Edinburgh the citizens bubble coal gas through Klim � a horrible form of powdered milk tasting like rancid chalk � and pick up on the results. They hock everything to pay the gas bill, and when the man comes around to shut it off for the nonpayment, you can hear their screams for miles. When a citizen is sick from needing it he says "I got the klinks" or "That old stove climbing up my back.")
+    (In England and especially in Edinburgh the citizens bubble coal gas through Klim ? a horrible form of powdered milk tasting like rancid chalk ? and pick up on the results. They hock everything to pay the gas bill, and when the man comes around to shut it off for the nonpayment, you can hear their screams for miles. When a citizen is sick from needing it he says "I got the klinks" or "That old stove climbing up my back.")
     
     (Nutmeg. I quote from the author's article on narcotic drugs in the British Journal of Addiction (see Appendix): "Convicts and sailors sometimes have recourse to nutmeg. About a tablespoon is swallowed with water. Result vaguely similar to marijuana with side effects of headache and nausea ... There are a number of narcotics of the nutmeg family in use among the Indians of South America. They are usually administered by sniffing a dried powder of the plant. The medicine men take these noxious substances and go into convulsive states. Their twitchings and mutterings are thought to have prophetic significance.")
     
-    "I had a yage hangover, me, and in no condition to take any of Brubeck's shit. First thing he comes on with I should start the incision from the back instead of the front, muttering some garbled nonsense about being sure to cut out the gall bladder it would fuck up the meat. Thought he was on the farm cleaning a chicken. I told him to go put his head back in the oven, whereupon he had the effrontery to push my hand, severing the patient's femoral artery. Blood spurted up and blinded the anesthetist, who ran out through the halls screaming. Brubeck tried to knee me in the groin, and I managed to hamstring him with my scalpel. He crawled about the floor stabbing at my feet and legs. Violet, that's my baboon assistant � only woman I ever cared a damn about � really  wigged. I climbed up on the table and poise myself to jump on Brubeck with both feet and stomp him when the cops rushed in.
+    "I had a yage hangover, me, and in no condition to take any of Brubeck's shit. First thing he comes on with I should start the incision from the back instead of the front, muttering some garbled nonsense about being sure to cut out the gall bladder it would fuck up the meat. Thought he was on the farm cleaning a chicken. I told him to go put his head back in the oven, whereupon he had the effrontery to push my hand, severing the patient's femoral artery. Blood spurted up and blinded the anesthetist, who ran out through the halls screaming. Brubeck tried to knee me in the groin, and I managed to hamstring him with my scalpel. He crawled about the floor stabbing at my feet and legs. Violet, that's my baboon assistant ? only woman I ever cared a damn about ? really  wigged. I climbed up on the table and poise myself to jump on Brubeck with both feet and stomp him when the cops rushed in.
     
-    "Well, this rumble in the operating room, 'this unspeakable occurrence' as the Super called it, you might say was the blow off. The wolf pack was closing for the kill. A crucifixion, that's the only word for it. Of course I'd made a few Dummheits27 here and there. Who hasn't? There was the time me and the anesthetist drank up all the ether and the patient came up on us, and I was accused of cutting the cocaine with Saniflush. Violet did it actually. Had to protect her of course �
+    "Well, this rumble in the operating room, 'this unspeakable occurrence' as the Super called it, you might say was the blow off. The wolf pack was closing for the kill. A crucifixion, that's the only word for it. Of course I'd made a few Dummheits27 here and there. Who hasn't? There was the time me and the anesthetist drank up all the ether and the patient came up on us, and I was accused of cutting the cocaine with Saniflush. Violet did it actually. Had to protect her of course ?
     
     "So the wind-up is we are all drummed out of the industry. Not that Violet was a bona fide croaker, neither was Brubeck for that matter, and even my own certificate was called in question. But Violet knew more medicine than the Mayo Clinic. She had an extraordinary intuition and a high sense of duty.
     
@@ -334,7 +334,7 @@ module.exports =
     
     "In the terminal stage of schizophrenia the back brain is permanently depressed, and the front brain is almost without content since the front brain is only active in response to back-brain stimulation.
     
-    "Morphine calls forth the antidote of back-brain stimulation similar to schizo substance. (Note similarity between withdrawal syndrome and intoxication with yage or LSD6.) Eventual result of junk use � especially true of heroin addiction where large doses are available to the addict � is permanent back-brain depression and a state much like terminal schizophrenia: complete lack of affect, autism, virtual absence of cerebral event. The addict can spend eight hours looking at a wall. He is conscious of his surroundings, but they have no emotional connotation and in consequence no interest. Remembering a period of heavy addiction is like playing back a tape recording of events experienced by the front brain alone. Flat statements of external events. 'I went to the store and bought some brown sugar. I came home and ate half the box. I took a three grain shot,' etc. Complete absence of nostalgia in these memories. However, as soon as junk intake falls below par, the withdrawal substance floods the body.
+    "Morphine calls forth the antidote of back-brain stimulation similar to schizo substance. (Note similarity between withdrawal syndrome and intoxication with yage or LSD6.) Eventual result of junk use ? especially true of heroin addiction where large doses are available to the addict ? is permanent back-brain depression and a state much like terminal schizophrenia: complete lack of affect, autism, virtual absence of cerebral event. The addict can spend eight hours looking at a wall. He is conscious of his surroundings, but they have no emotional connotation and in consequence no interest. Remembering a period of heavy addiction is like playing back a tape recording of events experienced by the front brain alone. Flat statements of external events. 'I went to the store and bought some brown sugar. I came home and ate half the box. I took a three grain shot,' etc. Complete absence of nostalgia in these memories. However, as soon as junk intake falls below par, the withdrawal substance floods the body.
     
     "If all pleasure is relief from tension, junk affords relief from the whole life process,28 in disconnecting the hypothalamus, which is the center of psychic energy and libido.
     
@@ -346,7 +346,7 @@ module.exports =
     
     "Are homosexuals classed as deviants?"
     
-    "No. Remember the Bismarck Archipelago. No overt homosexuality. A functioning police state needs no police. Homosexuality does not occur to anyone as conceivable behavior ... Homosexuality is a political crime in a matriarchy. No society tolerates overt rejection of its basic tenets. We aren't a matriarchy here, Insh'allah. You know the experiment with rats where they are subject to this electric shock and dropped in cold water if they so much as move at a female. So they all become fruit rats and that's the way it is with the etiology. And shall such a rat squeak out, 'I'm queah and I luuuuuuuuve it' or 'Who cut yours off, you two-holed freak?,' 'twere a square rat so to squeak. During my rather brief experience as a psychoanalyst � spot of bother with the Society � one patient ran amok in Grand Central with a flame thrower, two committed suicide and one died on the couch like a jungle rat (jungle rats are subject to die if confronted suddenly with a hopeless situation). So his relations beef and I tell them, 'It's all in the day's work. Get this stiff outa here. It's a bring down for my live patients � I noticed that all my homosexual patients manifested strong unconscious heterosex trends and all my hetero patients unconscious homosexual trends. Makes the brain reel, don't it?"
+    "No. Remember the Bismarck Archipelago. No overt homosexuality. A functioning police state needs no police. Homosexuality does not occur to anyone as conceivable behavior ... Homosexuality is a political crime in a matriarchy. No society tolerates overt rejection of its basic tenets. We aren't a matriarchy here, Insh'allah. You know the experiment with rats where they are subject to this electric shock and dropped in cold water if they so much as move at a female. So they all become fruit rats and that's the way it is with the etiology. And shall such a rat squeak out, 'I'm queah and I luuuuuuuuve it' or 'Who cut yours off, you two-holed freak?,' 'twere a square rat so to squeak. During my rather brief experience as a psychoanalyst ? spot of bother with the Society ? one patient ran amok in Grand Central with a flame thrower, two committed suicide and one died on the couch like a jungle rat (jungle rats are subject to die if confronted suddenly with a hopeless situation). So his relations beef and I tell them, 'It's all in the day's work. Get this stiff outa here. It's a bring down for my live patients ? I noticed that all my homosexual patients manifested strong unconscious heterosex trends and all my hetero patients unconscious homosexual trends. Makes the brain reel, don't it?"
     
     "And what do you conclude from that?"
     
@@ -358,29 +358,29 @@ module.exports =
     "What's that? ... Monstrous! Fantatic! Carry on and stand by. " He puts down the phone. "I am prepared to accept immediate assignment with Islam Incorporated. It seems the electronic brain went berserk playing six-dimensional chess with the Technician and released every subject in the R.C. Leave us adjourn to the roof. Operation Helicopter is indicated. "
     
     
-    From the roof of the R.C. we survey a scene of unparalleled horror. INDs stand around in front of the cafe tables, long streamers of saliva hanging off their chins, stomachs noisily churning, others ejaculate at the sight of women. Latahs imitate the passers-by with monkey-like obscenity. Junkies have looted the drugstores and fix on every street corner ... Catatonics decorate the parks � Agitated schizophrenics rush through the streets with mangled, inhuman cries. A group of P.R.s � Partially Reconditioned � have surrounded some homosexual tourists with horrible knowing smiles showing the Nordic skull beneath in double exposure.
+    From the roof of the R.C. we survey a scene of unparalleled horror. INDs stand around in front of the cafe tables, long streamers of saliva hanging off their chins, stomachs noisily churning, others ejaculate at the sight of women. Latahs imitate the passers-by with monkey-like obscenity. Junkies have looted the drugstores and fix on every street corner ... Catatonics decorate the parks ? Agitated schizophrenics rush through the streets with mangled, inhuman cries. A group of P.R.s ? Partially Reconditioned ? have surrounded some homosexual tourists with horrible knowing smiles showing the Nordic skull beneath in double exposure.
     
     "What do you want?" snaps one of the queens.
     
     "We want to understand you. "
     
-    A contingent of howling simopaths swing from chandeliers, balconies and trees, shitting and pissing on passers-by. (A simopath � the technical name for this disorder escapes me � is a citizen convinced he is an ape or other simian. It is a disorder peculiar to the army, and discharge cures it.) Amoks trot along cutting off heads, faces sweet and remote with a dreamy half smile ... Citizens with incipient Bang-utot clutch their penises and call on the tourists for help . .. Arab rioters yip and howl, castrating, disemboweling, throw burning gasoline ... Dancing boys striptease with intestines, women stick severed genitals in their cunts, grind, bump and flick it at the man of their choice ... Religious fanatics harangue the crowd from helicopters and rain stone tablets on their heads, inscribed with meaningless messages ...Leopard Men tear people to pieces with iron claws, coughing and grunting ...Kwakiutl Cannibal Society initiates bite off noses and ears . .. A coprophage calls for a plate, shits on it and eats the shit, exclaiming, "Mmmm, that's my rich substance."
+    A contingent of howling simopaths swing from chandeliers, balconies and trees, shitting and pissing on passers-by. (A simopath ? the technical name for this disorder escapes me ? is a citizen convinced he is an ape or other simian. It is a disorder peculiar to the army, and discharge cures it.) Amoks trot along cutting off heads, faces sweet and remote with a dreamy half smile ... Citizens with incipient Bang-utot clutch their penises and call on the tourists for help . .. Arab rioters yip and howl, castrating, disemboweling, throw burning gasoline ... Dancing boys striptease with intestines, women stick severed genitals in their cunts, grind, bump and flick it at the man of their choice ... Religious fanatics harangue the crowd from helicopters and rain stone tablets on their heads, inscribed with meaningless messages ...Leopard Men tear people to pieces with iron claws, coughing and grunting ...Kwakiutl Cannibal Society initiates bite off noses and ears . .. A coprophage calls for a plate, shits on it and eats the shit, exclaiming, "Mmmm, that's my rich substance."
     
-    A battalion of rampant bores prowls the streets and hotel lobbies in search of victims. An intellectual avant-gardist � "Of course the only writing worth considering now is to be found in scientific reports and periodicals" � has given someone a bulbocapnine injection and is preparing to read him a bulletin on "the use of neo-hemoglobin in the control of multiple degenerative granuloma." (Of course, the reports are all gibberish he has concocted and printed up.)
+    A battalion of rampant bores prowls the streets and hotel lobbies in search of victims. An intellectual avant-gardist ? "Of course the only writing worth considering now is to be found in scientific reports and periodicals" ? has given someone a bulbocapnine injection and is preparing to read him a bulletin on "the use of neo-hemoglobin in the control of multiple degenerative granuloma." (Of course, the reports are all gibberish he has concocted and printed up.)
     
     His opening words: "You look to me like a man of intelligence." (Always ominous words, my boy ... When you hear them stay not on the order of your going but go at once.)
     
     An English colonial, assisted by five police boys, has detained a subject in the club bar: "I say, do you know Mozambique?" and he launches into the endless saga of his malaria. "So the doctor said to me, 'I can only advise you to leave the area. Otherwise I shall bury you.' This croaker does a little undertaking on the side. Piecing out the odds you might say, and throwing himself a spot of business now and then." So after the third pink gin when he gets to know you, he shifts to dysentery. "Most extraordinary discharge. More or less of a white yellow color like rancid jissom and stringy you know."
     
-    An explorer in sun helmet has brought down a citizen with blow gun and curare dart. He administers artificial respiration with one foot. (Curare kills by paralyzing the lungs. It has no other toxic effect, is not, strictly speaking, a poison. If artificial respiration is administered the subject will not die. Curare is eliminated with great rapidity by the kidneys.) "That was the year of the rinderpest29 when everything died, even the hyenas ... So there I was completely out of K.Y. in the headwaters of the Baboonsasshole. When it came through by air drop my gratitude was indescribable ... As a matter of fact, and I have never told this before to a living soul-elusive blighters" � his voice echoes through a vast empty hotel lobby in 1890 style, red plush, rubber plants, gilt and statues � "I was the only white man ever initiated into the infamous Agouti Society, witnessed and participated in their unspeakable rites."
+    An explorer in sun helmet has brought down a citizen with blow gun and curare dart. He administers artificial respiration with one foot. (Curare kills by paralyzing the lungs. It has no other toxic effect, is not, strictly speaking, a poison. If artificial respiration is administered the subject will not die. Curare is eliminated with great rapidity by the kidneys.) "That was the year of the rinderpest29 when everything died, even the hyenas ... So there I was completely out of K.Y. in the headwaters of the Baboonsasshole. When it came through by air drop my gratitude was indescribable ... As a matter of fact, and I have never told this before to a living soul-elusive blighters" ? his voice echoes through a vast empty hotel lobby in 1890 style, red plush, rubber plants, gilt and statues ? "I was the only white man ever initiated into the infamous Agouti Society, witnessed and participated in their unspeakable rites."
     
     (The Agouti Society has turned out for a Chimu Fiesta. (The Chimu of ancient Peru were much given to sodomy and occasionally staged bloody battles with clubs, running up several hundred casualties in the course of an afternoon.) The youths, sneering and goosing each other with clubs, troop out to the field. Now the battle begins.
     
     Gentle reader, the ugliness of that spectacle buggers description. Who can be a cringing pissing coward, yet vicious as a purple-assed mandrill, alternating these deplorable conditions like vaudeville skits? Who can shit on a fallen adversary who, dying, eats the shit and screams with joy? Who can hang a weak passive and catch his sperm in mouth like a vicious dog? Gentle reader, I fain would spare you this, but my pen hath its will like the Ancient Mariner. Oh Christ what a scene is this! Can tongue or pen accommodate these scandals? A beastly young hooligan has gouged out the eye of his confrere30 and fuck him in the brain. "This brain atrophy already, and dry as grandmother's cunt."
     
-    He turns into Rock and Roll hoodlum. "I screw the old gashlike a crossword puzzle what relation to me is the outcome if it outcome? My father already or not yet? I can't screw you, Jack, you is about to become my father, and better 'twere to cut your throat and screw my mother playing it straight than fuck my father or vice versa mutatis mutandis as the case may he, and cut my mother's throat, that sainted gash, though it he the best way I know to stem her word hoard and freeze her asset. I mean when a fellow he caught short in the switches and don't know is he to offer up his ass to 'great big daddy' or commit a torso job on the old lady. Give me two cunts and a prick of steel and keep your dirty finger out of my sugar bum what you think I am a purple-assed reception already fugitive from Gibraltar? Male and female castrated he them. Who can't distinguish between the sexes? I'll cut your throat you white mother fucker. Come out in the open like my grandchild and meet thy unborn mother in dubious battle. Confusion hath fuck his masterpiece. I have cut the janitor's throat quite by mistake of identity, he being such a horrible fuck like the old man. And in the coal bin all cocks are alike." So leave us return to the stricken field. One youth hath penetrate his comrade, whilst another youth does amputate the proudest part of that cock's quivering beneficiary so that the visiting member projects to fill the vacuum nature abhors and ejaculate into the Black Lagoon where impatient piranha snap up the child not yet born nor � in view of certain well established facts � at all likely.)
+    He turns into Rock and Roll hoodlum. "I screw the old gashlike a crossword puzzle what relation to me is the outcome if it outcome? My father already or not yet? I can't screw you, Jack, you is about to become my father, and better 'twere to cut your throat and screw my mother playing it straight than fuck my father or vice versa mutatis mutandis as the case may he, and cut my mother's throat, that sainted gash, though it he the best way I know to stem her word hoard and freeze her asset. I mean when a fellow he caught short in the switches and don't know is he to offer up his ass to 'great big daddy' or commit a torso job on the old lady. Give me two cunts and a prick of steel and keep your dirty finger out of my sugar bum what you think I am a purple-assed reception already fugitive from Gibraltar? Male and female castrated he them. Who can't distinguish between the sexes? I'll cut your throat you white mother fucker. Come out in the open like my grandchild and meet thy unborn mother in dubious battle. Confusion hath fuck his masterpiece. I have cut the janitor's throat quite by mistake of identity, he being such a horrible fuck like the old man. And in the coal bin all cocks are alike." So leave us return to the stricken field. One youth hath penetrate his comrade, whilst another youth does amputate the proudest part of that cock's quivering beneficiary so that the visiting member projects to fill the vacuum nature abhors and ejaculate into the Black Lagoon where impatient piranha snap up the child not yet born nor ? in view of certain well established facts ? at all likely.)
     
-    Another bore carries around a suitcase full of trophies and medals, cups and ribbons: "Now this I won for the Most Ingenious Sex Device Contest in Yokohama. (Hold him, he's desperate.) The Emperor gave it to me himself and there were tears in his eyes, and the runners � up all castrated theirselves with harakiri knives. And I won this ribbon in a Degradation Contest at the Teheran meeting of Junkies Anonymous."
+    Another bore carries around a suitcase full of trophies and medals, cups and ribbons: "Now this I won for the Most Ingenious Sex Device Contest in Yokohama. (Hold him, he's desperate.) The Emperor gave it to me himself and there were tears in his eyes, and the runners ? up all castrated theirselves with harakiri knives. And I won this ribbon in a Degradation Contest at the Teheran meeting of Junkies Anonymous."
     
     "Shot up my wife's M.S. and her down with a kidney stone big as the Hope Diamond. So I give her half a Veganin and tell her, 'You can't expect too much relief ... Shut up awready. I wanta enjoy my medications.'
     
@@ -392,7 +392,7 @@ module.exports =
     
     (The reference is to lymphogranuloma, "climactic buboes." A viral venereal disease indigenous to Ethiopia. "Not for nothing are we known as feelthy Ethiopians," sneers an Ethiopian mercenary as he sodomizes Pharaoh, venomous as the King's cobra. Ancient Egyptian papyrus talk all the time about them feelthy Ethiopians.
     
-    So it started in Addis Ababa like the Jersey Bounce, but these are modern times, One World. Now the climactic buboes swell up in Shanghai and Esmeraldas, New Orleans and Helsinki, Seattle and Capetown. But the heart turns home and the disease shows a distinct predilection for Negroes, is in fact the white haired boy of white supremacists. But the Mau Mau voodoo men are said to be cooking up a real dilly of a VD for the white folks. Not that Caucasians are immune: five British sailors contracted the disease in Zanzibar. And in Dead Coon County, Arkansas ["Blackest Dirt, Whitest People in the U.S.A. � Nigger, Don't Let The Sun Set On You Here"] the County Coroner come down with the buboes fore and aft. A vigilante committee of neighbors apologetically burned him to death in the Court House privy when his interesting condition came to light.
+    So it started in Addis Ababa like the Jersey Bounce, but these are modern times, One World. Now the climactic buboes swell up in Shanghai and Esmeraldas, New Orleans and Helsinki, Seattle and Capetown. But the heart turns home and the disease shows a distinct predilection for Negroes, is in fact the white haired boy of white supremacists. But the Mau Mau voodoo men are said to be cooking up a real dilly of a VD for the white folks. Not that Caucasians are immune: five British sailors contracted the disease in Zanzibar. And in Dead Coon County, Arkansas ["Blackest Dirt, Whitest People in the U.S.A. ? Nigger, Don't Let The Sun Set On You Here"] the County Coroner come down with the buboes fore and aft. A vigilante committee of neighbors apologetically burned him to death in the Court House privy when his interesting condition came to light.
     
     "Now, Clem, just think of yourself as a cow with the aftosa."
     
@@ -400,7 +400,7 @@ module.exports =
     
     "Don't crowd too close, boys. His intestines is subject to explode in the fire."
     
-    The disease in short arm hath a gimmick for going places unlike certain unfortunate viruses who are fated to languish unconsummate in the guts of a tick or a jungle mosquito, or the saliva of a dying jackal slobbering silver under the desert moon. And after an initial lesion at the point of infection the disease passes to the lymph glands of the groin, which swell and burst in suppurating fissures, drain for days, months, years, a purulent stringy discharge streaked with blood and putrid lymph. Elephantiasis of the genitals is a frequent complication, and cases of gangrene have been recorded where the amputation in media of the patient from the waist down was indicated but hardly worth while. Women usually suffer secondary infection of the anus. Males who resign themselves up for passive intercourse to infected partners, like weak and soon to be purple-assed baboons, may also nourish a little stranger. Initial proctitis31 and the inevitable purulent discharge-which may pass unnoticed in the shuffle � is followed by stricture of the rectum requiring intervention of an apple corer or its surgical equivalent, lest the unfortunate patient be reduced to fart and shit in his teeth giving rise to stubborn cases of halitosis and unpopularity with all sexes, ages and conditions of homo sapiens. In fact a blind bugger was deserted by his seeing eye police dog � copper at heart. Until quite recently there was no satisfactory treatment. "Treatment is symptomatic" � which means in the trade there is none. Now many cases yield to intensive therapy with Aureomycin,32 Terramycin33 and some of the newer molds. However a certain appreciable percentage remain refractory as mountain gorillas ... So, boys, when those hot licks play over your balls and prick and dart up your ass like an invisible blue blow torch of orgones, in the words of T. J. Watson,34 Think. Stop panting and start palpating ... and if you palpate a bubo draw yourself back in and say in a cold nasal whine: "You think I am innarested to contact your horrible old condition? I am not innarested at all.")
+    The disease in short arm hath a gimmick for going places unlike certain unfortunate viruses who are fated to languish unconsummate in the guts of a tick or a jungle mosquito, or the saliva of a dying jackal slobbering silver under the desert moon. And after an initial lesion at the point of infection the disease passes to the lymph glands of the groin, which swell and burst in suppurating fissures, drain for days, months, years, a purulent stringy discharge streaked with blood and putrid lymph. Elephantiasis of the genitals is a frequent complication, and cases of gangrene have been recorded where the amputation in media of the patient from the waist down was indicated but hardly worth while. Women usually suffer secondary infection of the anus. Males who resign themselves up for passive intercourse to infected partners, like weak and soon to be purple-assed baboons, may also nourish a little stranger. Initial proctitis31 and the inevitable purulent discharge-which may pass unnoticed in the shuffle ? is followed by stricture of the rectum requiring intervention of an apple corer or its surgical equivalent, lest the unfortunate patient be reduced to fart and shit in his teeth giving rise to stubborn cases of halitosis and unpopularity with all sexes, ages and conditions of homo sapiens. In fact a blind bugger was deserted by his seeing eye police dog ? copper at heart. Until quite recently there was no satisfactory treatment. "Treatment is symptomatic" ? which means in the trade there is none. Now many cases yield to intensive therapy with Aureomycin,32 Terramycin33 and some of the newer molds. However a certain appreciable percentage remain refractory as mountain gorillas ... So, boys, when those hot licks play over your balls and prick and dart up your ass like an invisible blue blow torch of orgones, in the words of T. J. Watson,34 Think. Stop panting and start palpating ... and if you palpate a bubo draw yourself back in and say in a cold nasal whine: "You think I am innarested to contact your horrible old condition? I am not innarested at all.")
     
     Rock and Roll adolescent hoodlums storm the streets of all nations. They rush into the Louvre and throw acid in the Mona Lisa's face. They open zoos, insane asylums, prisons, burst water mains with air hammers, chop the :floor out of passenger plane lavatories, shoot out lighthouses, file elevator cables to one thin wire, tum sewers into the water supply, throw sharks and sting rays, electric eels and candiru into swimming pools (the candiru is a small eel-like fish or worm about one-quarter inch through and two inches long patronizing certain rivers of ill repute in the Greater Amazon Basin, will dart up your prick or your asshole or a woman's cunt faute de mieux, and hold himself there by sharp spines with precisely what motives is not known since no one has stepped forward to observe the candiru's life-cycle in situ), in nautical costumes ram the Queen Mary full speed into New York Harbor, play chicken with passenger planes and buses, rush into hospitals in white coats carrying saws and axes and scalpels three feet long, throw paralytics out of iron lungs (mimic their suffocations flopping about on the floor and rolling their eyes up), administer injections with bicycle pumps, disconnect artificial kidneys, saw a woman in half with a two-man surgical saw, they drive herds of squealing pigs into the Ka 'bah, they shit on the floor of the United Nations and wipe their ass with treaties, pacts, alliances.
     
@@ -574,7 +574,7 @@ module.exports =
     
     "On spec?"35
     
-    "So I don't have the twenty eggs in my pocket I tell you it's jellied consomm�.36 One little whoops and a push."  The Sailor looked at his nails as if he were studying a chart. "You know I always deliver."
+    "So I don't have the twenty eggs in my pocket I tell you it's jellied consomm?.36 One little whoops and a push."  The Sailor looked at his nails as if he were studying a chart. "You know I always deliver."
     
     "Make it thirty. And a ten tube advance. This time tomorrow."
     
@@ -586,7 +586,7 @@ module.exports =
     
     "This will last a month," he decided, consulting an invisible mirror.
     
-    All streets of the City slope down between deepening canyons to a vast, kidney-shaped plaza full of darkness. Walls of street and plaza are perforated by dwelling cubicles and cafes, some a few feet deep, others extending out of sight in a network of rooms and corridors. At all levels criss-cross of bridges, cat walks, cable cars. Catatonic youths dressed as women in gowns of burlap and rotten rags, faces heavily and crudely painted in bright colors over a stratum of beatings, arabesques of broken, suppurating37 scars to the pearly bone, push against the passer-by in silent clinging insistence. Traffickers in the Black Meat, flesh of the giant aquatic black centipede �sometimes attaining a length of six feet� found in a lane of black rocks and iridescent, brown lagoons, exhibit paralyzed crustaceans in camouflaged pockets of the Plaza visible only to the Meat Eaters.
+    All streets of the City slope down between deepening canyons to a vast, kidney-shaped plaza full of darkness. Walls of street and plaza are perforated by dwelling cubicles and cafes, some a few feet deep, others extending out of sight in a network of rooms and corridors. At all levels criss-cross of bridges, cat walks, cable cars. Catatonic youths dressed as women in gowns of burlap and rotten rags, faces heavily and crudely painted in bright colors over a stratum of beatings, arabesques of broken, suppurating37 scars to the pearly bone, push against the passer-by in silent clinging insistence. Traffickers in the Black Meat, flesh of the giant aquatic black centipede ?sometimes attaining a length of six feet? found in a lane of black rocks and iridescent, brown lagoons, exhibit paralyzed crustaceans in camouflaged pockets of the Plaza visible only to the Meat Eaters.
     
     Followers of obsolete unthinkable trades, doodling in Etruscan, addicts of drugs not yet synthesized, black marketeers of World War III, excisors of telepathic sensitivity, osteopaths of the spirit, investigators of infractions denounced by bland paranoid chess players, servers of fragmentary warrants taken down in hebephrenic38 shorthand charging unspeakable mutilations of the spirit, officials of unconstituted police states, brokers of exquisite dreams and nostalgias tested on the sensitized cells of junk sickness and bartered for raw materials of the will, drinkers of the Heavy Fluid sealed in translucent amber of dreams.
     
@@ -612,29 +612,29 @@ module.exports =
     Ho-Hum Dept.: Willy The Agent taking the cure in Hassan's Hospital ... Hassan's Hospital adjoining cemetery ... Cremations in the patio ... Professional mourners solicit relatives in the waiting room and corridors ...
     
     Disintoxication Notes.
-    Paranoia of early withdrawal ... Everything looks blue �  Flesh dead, doughy, toneless.
+    Paranoia of early withdrawal ... Everything looks blue ?  Flesh dead, doughy, toneless.
     
     Withdrawal Nightmares.
-    A mirror-lined cafe. Empty ... Waiting for something ... A man appears in a side door ... A slight, short Arab dressed in a brown djellaba42 with grey beard and grey face ... There is a pitcher of boiling acid in my hand ... Seized by a convulsion of urgency, I throw it in his face �
+    A mirror-lined cafe. Empty ... Waiting for something ... A man appears in a side door ... A slight, short Arab dressed in a brown djellaba42 with grey beard and grey face ... There is a pitcher of boiling acid in my hand ... Seized by a convulsion of urgency, I throw it in his face ?
     
     Everyone looks like a drug addict ...
     
     Take a little walk in the hospital patio ... In my absence someone has used my scissors, they are stained with some sticky, red brown gick ... No doubt that little bitch of a criada trimming her rag.
     
-    Horrible-looking Europeans clutter up the stairs, intercept the nurse when I need my medicine, empty piss into the basin when I am washing, occupy the toilet for hours on end � probably fishing for a finger stall of diamonds they have stashed up their asshole �
+    Horrible-looking Europeans clutter up the stairs, intercept the nurse when I need my medicine, empty piss into the basin when I am washing, occupy the toilet for hours on end ? probably fishing for a finger stall of diamonds they have stashed up their asshole ?
     
-    In fact the whole clan of Europeans has moved in next to me ... The old mother is having an operation, and her daughter move right in to see the old gash receive proper service. Strange visitors, presumably relatives ... One of them wears as glasses those gadgets jewelers screw into their eyes to examine stones ... Probably a diamond-cutter on the skids ... The man who loused up the Throckmorton Diamond and was drummed out of the industry � All these jewelers standing around the Diamond in their frock coats, waiting on The Man. An error of one thousandth of an inch ruins the rock complete and they have to import this character special from Amsterdam to do the job ... So he reels in dead drunk with a huge air hammer and pounds the diamond to dust � I don't check these citizens ... Dope peddlers from Aleppo?
+    In fact the whole clan of Europeans has moved in next to me ... The old mother is having an operation, and her daughter move right in to see the old gash receive proper service. Strange visitors, presumably relatives ... One of them wears as glasses those gadgets jewelers screw into their eyes to examine stones ... Probably a diamond-cutter on the skids ... The man who loused up the Throckmorton Diamond and was drummed out of the industry ? All these jewelers standing around the Diamond in their frock coats, waiting on The Man. An error of one thousandth of an inch ruins the rock complete and they have to import this character special from Amsterdam to do the job ... So he reels in dead drunk with a huge air hammer and pounds the diamond to dust ? I don't check these citizens ... Dope peddlers from Aleppo?
     
-    ... Slunk traffickers from Buenos Aires? Illegal diamond buyers from Johannesburg? ... Slave traders from Somaliland? Collaborators at the very least �
+    ... Slunk traffickers from Buenos Aires? Illegal diamond buyers from Johannesburg? ... Slave traders from Somaliland? Collaborators at the very least ?
     
-    Continual dreams of junk: I am looking for a poppy field � Moonshiners in black Stetsons direct me to a Near East cafe � One of the waiters is a connection for Yugoslav opium �
+    Continual dreams of junk: I am looking for a poppy field ? Moonshiners in black Stetsons direct me to a Near East cafe ? One of the waiters is a connection for Yugoslav opium ?
     
-    Buy a packet of heroin from a Malay Lesbian in white belted trenchcoat ... I cop the paper in Tibetan section of a museum. She keeps trying to steal it back ... I am looking for a place to fix �
+    Buy a packet of heroin from a Malay Lesbian in white belted trenchcoat ... I cop the paper in Tibetan section of a museum. She keeps trying to steal it back ... I am looking for a place to fix ?
     
-    The critical point of withdrawal is not the early phase of acute sickness, but the final step free from the medium of junk � There is a nightmare interlude of cellular panic, life suspended between two ways of being ... At this point the longing for junk concentrates in a last, all-out yen, and seems to gain a dream power: circumstances put junk in your way ... You meet an old-time Schmecker, a larcenous hospital attendant, a writing croaker �
+    The critical point of withdrawal is not the early phase of acute sickness, but the final step free from the medium of junk ? There is a nightmare interlude of cellular panic, life suspended between two ways of being ... At this point the longing for junk concentrates in a last, all-out yen, and seems to gain a dream power: circumstances put junk in your way ... You meet an old-time Schmecker, a larcenous hospital attendant, a writing croaker ?
     
     
-    A guard in a uniform of human skin, black buck jacket with carious yellow teeth buttons, an elastic pullover shirt in burnished Indian copper, adolescent Nordic sun-tanned slacks, sandals from callused foot soles of young Malayan farmer, an ash-brown scarf knotted and tucked in the shirt. (Ash-brown is a color like grey under brown skin. You sometimes find it in mixed Negro and white stock; the mixture did not come off and the colors separated out like oil on water �)
+    A guard in a uniform of human skin, black buck jacket with carious yellow teeth buttons, an elastic pullover shirt in burnished Indian copper, adolescent Nordic sun-tanned slacks, sandals from callused foot soles of young Malayan farmer, an ash-brown scarf knotted and tucked in the shirt. (Ash-brown is a color like grey under brown skin. You sometimes find it in mixed Negro and white stock; the mixture did not come off and the colors separated out like oil on water ?)
     
     The Guard is a sharp dresser, since he has nothing to do and saves all his pay to buy fine clothes and changes three times a day in front of an enormous magnifying mirror. He has a Latin handsome smooth face with a pencil line mustache, small black eyes, blank and greedy, undreaming insect eyes.
     
@@ -653,13 +653,13 @@ module.exports =
     
     "That's the way I like to see them."
     
-    Makes me feel sorta like a dirty old man but, "Son cos as de la vida," as Sobera de la Flor said when the fuzz upbraids him for blasting this cunt and taking the dead body to the Bar 0 Motel and fucking it �
+    Makes me feel sorta like a dirty old man but, "Son cos as de la vida," as Sobera de la Flor said when the fuzz upbraids him for blasting this cunt and taking the dead body to the Bar 0 Motel and fucking it ?
     
     "She play hard to get already," he say ... "I don't hafta take that sound." (Sobera de Ia Flor was a Mexican criminal convicted of several rather poindess murders.)
     
     * * *
     
-    The lavatory has been locked for three hours solid ... I think they are using it for an operating room �
+    The lavatory has been locked for three hours solid ... I think they are using it for an operating room ?
     
     NURSE: "I can't find her pulse, doctor."
     
@@ -669,11 +669,11 @@ module.exports =
     
     DR. BENWAY: "The night porter shot it all up for kicks." He looks around and picks up one of those rubber vacuum cups at the end of a stick they use to unstop toilets ... He advances on the patient ... "Make an incision, Doctor Limpf," he says to his appalled assistant ... "I'm going to massage the heart."
     
-    Doctor Limpf shrugs and begins the incision. Doctor Benway washes the suction cup by swishing it around in the toilet bowl �
+    Doctor Limpf shrugs and begins the incision. Doctor Benway washes the suction cup by swishing it around in the toilet bowl ?
     
     NURSE: "Shouldn't it be sterilized, doctor?"
     
-    DR. BENWAY: "Very likely but there's no time." He sits on the suction cup like a cane seat watching his assistant make the incision ... "You young squirts couldn't lance a pimple without an electric vibrating scalpel with automatic drain and suture ... Soon we'll be operating by remote control on patients we never see � We'll be nothing but button pushers. All the skill is going out of surgery ... All the know-how and make-do ... Did I ever tell you about the time I performed an appendectomy with a rusty sardine can? And once I was caught short without instrument one and removed a uterine tumor with my teeth. That was in the Upper Effendi, and besides �"
+    DR. BENWAY: "Very likely but there's no time." He sits on the suction cup like a cane seat watching his assistant make the incision ... "You young squirts couldn't lance a pimple without an electric vibrating scalpel with automatic drain and suture ... Soon we'll be operating by remote control on patients we never see ? We'll be nothing but button pushers. All the skill is going out of surgery ... All the know-how and make-do ... Did I ever tell you about the time I performed an appendectomy with a rusty sardine can? And once I was caught short without instrument one and removed a uterine tumor with my teeth. That was in the Upper Effendi, and besides ?"
     
     DR. LIMPF: "The incision is ready, doctor."
     
@@ -683,36 +683,36 @@ module.exports =
     
     DR. BENWAY: "Well, it's all in the day's work." He walks across the room to a medicine cabinet ... "Some fucking drug addict has cut my cocaine with Saniflush! Nurse! Send the boy out to fill this ?  on the double!"
     
-    Doctor Benway is operating in an auditorium filled with students: "Now, boys, you won't see this operation performed very often and there's a reason for that ... You see it has absolutely no medical value. No one knows what the purpose of it originally was or if it had a purpose at all. Personally I think it was a pure artistic creation from the beginning. Just as a bull fighter with his skill and knowledge extricates himself from danger he has himself invoked, so in this operation the surgeon deliberately endangers his patient, and then, with incredible speed and celerity, rescues him from death at the last possible split second �
+    Doctor Benway is operating in an auditorium filled with students: "Now, boys, you won't see this operation performed very often and there's a reason for that ... You see it has absolutely no medical value. No one knows what the purpose of it originally was or if it had a purpose at all. Personally I think it was a pure artistic creation from the beginning. Just as a bull fighter with his skill and knowledge extricates himself from danger he has himself invoked, so in this operation the surgeon deliberately endangers his patient, and then, with incredible speed and celerity, rescues him from death at the last possible split second ?
     
     "Did any of you ever see Doctor Tetrazzini perform? I say perform advisedly because his operations were performances. He would start by throwing a scalpel across the room into the patient and then make his entrance like a ballet dancer. His speed was incredible: 'I don't give them time to die,' he would say. Tumors put him in a frenzy of rage. 'Fucking undisciplined cells!' he would snarl, advancing on the tumor like a knife-fighter."
     
     A young man leaps down into the operating theater and, whipping out a scalpel, advances on the patient.
     
-    DR. BENWAY: "An espont�neo! Stop him before he guts my patient!"
+    DR. BENWAY: "An espont?neo! Stop him before he guts my patient!"
     
-    (Espont�neo is a bull-fighting term for a member of the audience who leaps down into the ring, pulls out a concealed cape and attempts a few passes with the bull before he is dragged out of the ring.)
+    (Espont?neo is a bull-fighting term for a member of the audience who leaps down into the ring, pulls out a concealed cape and attempts a few passes with the bull before he is dragged out of the ring.)
     
-    The orderlies scuffle with the espont�neo, who is finally ejected from the hall. The anesthetist takes advantage of the confusion to pry a large gold filling from the patient's mouth �
+    The orderlies scuffle with the espont?neo, who is finally ejected from the hall. The anesthetist takes advantage of the confusion to pry a large gold filling from the patient's mouth ?
     
     
     I am passing room 10 they moved me out of yesterday ... Maternity case I assume ... Bedpans full of blood and Kotex and nameless female substances, enough to pollute a continent ... If someone comes to visit me in my old room he will think I gave birth to a monster and the State Department is trying to hush it up ...
     
-    Music from I Am an American ... An elderly man in the striped pants and cutaway of a diplomat stands on a platform draped with the American flag. A decayed, corseted tenor bursting out of a Daniel Boone costume-is singing "The Star Spangled Banner," accompanied by a full orchestra. He sings with a slight lisp �
+    Music from I Am an American ... An elderly man in the striped pants and cutaway of a diplomat stands on a platform draped with the American flag. A decayed, corseted tenor bursting out of a Daniel Boone costume-is singing "The Star Spangled Banner," accompanied by a full orchestra. He sings with a slight lisp ?
     
-    THE DIPLOMAT (reading from a great scroll of ticker tape that keeps growing and tangling around his feet): "And we categorically deny that any male citizen of the United States of America �"
+    THE DIPLOMAT (reading from a great scroll of ticker tape that keeps growing and tangling around his feet): "And we categorically deny that any male citizen of the United States of America ?"
     
     THE TENOR: "Oh thay can you thee ..." His voice breaks and shoots up to a high falsetto.
     
-    In the control room the Technician mixes a bicarbonate of soda and belches into his hand: "God damned tenor's a brown artist!" he mutters sourly. "Mike! rumph," the shout ends in a belch. "Cut that swish fart off the air and give him his purple slip. He's through as of right now ... Put in that sex-changed Liz athlete ... She's a full-time tenor at least ... Costume? How in the fuck should I know? I'm no dress designer swish from the costume department! What's that? The entire costume department occluded as a security risk? What am I, an octopus? Let's see ... How about an Indian routine? Pocahontas or Hiawatha? ... No, that's not right. Some citizen cracks wise about giving it back to the Indians ... A Civil War uniform, the coat North and the pants South like it show they got together again? She can come on like Buffalo Bill or Paul Revere or that citizen wouldn't give up the shit, I mean the ship, or a GI or a Doughboy or the Unknown Soldier ... That's the best deal ... Cover her with a monument, that way nobody has to look at her �"
+    In the control room the Technician mixes a bicarbonate of soda and belches into his hand: "God damned tenor's a brown artist!" he mutters sourly. "Mike! rumph," the shout ends in a belch. "Cut that swish fart off the air and give him his purple slip. He's through as of right now ... Put in that sex-changed Liz athlete ... She's a full-time tenor at least ... Costume? How in the fuck should I know? I'm no dress designer swish from the costume department! What's that? The entire costume department occluded as a security risk? What am I, an octopus? Let's see ... How about an Indian routine? Pocahontas or Hiawatha? ... No, that's not right. Some citizen cracks wise about giving it back to the Indians ... A Civil War uniform, the coat North and the pants South like it show they got together again? She can come on like Buffalo Bill or Paul Revere or that citizen wouldn't give up the shit, I mean the ship, or a GI or a Doughboy or the Unknown Soldier ... That's the best deal ... Cover her with a monument, that way nobody has to look at her ?"
     
-    The Lesbian, concealed in a papier-m�ch� Arc de Triomphe, fills her great lungs and looses a tremendous bellow.
+    The Lesbian, concealed in a papier-m?ch? Arc de Triomphe, fills her great lungs and looses a tremendous bellow.
     
     "Oh say do that Star-Spangled Banner yet wave ..."
     
     A great rent rips the Arc de Triomphe from top to bottom. The Diplomat puts a hand to his forehead:..
     
-    THE DIPLOMAT: "That any male citizen of the United States has given birth in Interzone or at any other place �"
+    THE DIPLOMAT: "That any male citizen of the United States has given birth in Interzone or at any other place ?"
     
     "O'er the land of the FREEEEEEEEEEE ..."
     
@@ -722,24 +722,24 @@ module.exports =
     
     The Arc de Triomphe falls with a ripping, splintering crash, reveals the Lesbian standing on a pedestal clad only in a leopard-skin jockstrap with enormous falsie basket ... She stands there smiling stupidly and flexing her huge muscles ... The Technician is crawling around on the control room floor looking for his plate and shouting unintelligible orders: "Thess thupper thonic!! Thut ur oth thu thair!"
     
-    THE DIPLOMAT (wiping sweat from his brow): "To any creature of any type or description �"
+    THE DIPLOMAT (wiping sweat from his brow): "To any creature of any type or description ?"
     
     "And the home of the brave."
     
     The Diplomat's face is grey. He staggers, trips in the scroll, sags against the rail, blood pouring from eyes, nose and mouth, dying of cerebral hemorrhage.
     
-    THE DIPLOMAT (barely audible): "The Department denies � un-American ... It's been destroyed ... I mean it never was � Categor ..." Dies.
+    THE DIPLOMAT (barely audible): "The Department denies ? un-American ... It's been destroyed ... I mean it never was ? Categor ..." Dies.
     
-    In the Control Room instrument panels are blowing out �  Great streamers of electricity crackle through the room ... The Technician, naked, his body burned black, staggers about like a figure in G�tterdammerung, screaming: "Thubber thonic!! Oth thu thair!!!" A final blast reduces the Technician to a cinder.
+    In the Control Room instrument panels are blowing out ?  Great streamers of electricity crackle through the room ... The Technician, naked, his body burned black, staggers about like a figure in G?tterdammerung, screaming: "Thubber thonic!! Oth thu thair!!!" A final blast reduces the Technician to a cinder.
     
     "Gave proof through the night
     That our flag was still there ... "
     
     
     Habit Notes.
-    Shooting Eukodol every two hours. I have a place where I can slip my needle right into a vein, it stays open like a red festering mouth, swollen and obscene, gathers a slow drop of blood and pus after the shot �
+    Shooting Eukodol every two hours. I have a place where I can slip my needle right into a vein, it stays open like a red festering mouth, swollen and obscene, gathers a slow drop of blood and pus after the shot ?
     
-    Eukodol is a chemical variation of codeine-dihydro-oxycodeine. This stuff comes on more like C than M ... When you shoot coke in the mainline there is a rush of pure pleasure to the head ... Ten minutes later you want another shot ... The pleasure of morphine is in the viscera ... You listen down into yourself after a shot ... But intravenous C is electricity through the brain, activating cocaine pleasure connections ... There is no withdrawal syndrome with C. It is a need of the brain alone � a need without body and without feeling. Earthbound ghost need. The craving for C lasts only a few hours as long as the C channels are stimulated. Then you forget it. Eukodol is like a combination of junk and C. Trust the Germans to concoct some really evil shit. Eukodol like morphine is six times stronger than codeine. Heroin six times stronger than morphine. Dihydro-oxy-heroin should be six times stronger than heroin. Quite possible to develop a drug so habitforming that one shot would cause lifelong addiction.
+    Eukodol is a chemical variation of codeine-dihydro-oxycodeine. This stuff comes on more like C than M ... When you shoot coke in the mainline there is a rush of pure pleasure to the head ... Ten minutes later you want another shot ... The pleasure of morphine is in the viscera ... You listen down into yourself after a shot ... But intravenous C is electricity through the brain, activating cocaine pleasure connections ... There is no withdrawal syndrome with C. It is a need of the brain alone ? a need without body and without feeling. Earthbound ghost need. The craving for C lasts only a few hours as long as the C channels are stimulated. Then you forget it. Eukodol is like a combination of junk and C. Trust the Germans to concoct some really evil shit. Eukodol like morphine is six times stronger than codeine. Heroin six times stronger than morphine. Dihydro-oxy-heroin should be six times stronger than heroin. Quite possible to develop a drug so habitforming that one shot would cause lifelong addiction.
     
     Habit Notes continued.
     Picking up needle I reach spontaneously for the tie-up cord with my left hand. This I take as a sign I can hit the one useable vein in my left arm. (The movements of tying up are such that you normally tie up the arm with which you reach for the cord.) The needle slides in easily on the edge of a callus. I feel around. Suddenly a thin column of blood shoots up into the syringe, for a moment sharp and solid as a red cord.
@@ -748,19 +748,19 @@ module.exports =
     
     A red orchid bloomed at the bottom of the dropper. He hesitated for a full second, then pressed the bulb, watching the liquid rush into the vein as if sucked by the silent thirst of his blood. There was an iridescent, thin coat of blood left in the dropper, and the white paper collar was soaked through with blood like a bandage. He reached over and filled the dropper with water. As he squirted the water out, the shot hit him in the stomach, a soft sweet blow.
     
-    Look down at my filthy trousers, haven't been changed in months ... The days glide by strung on a syringe with a long thread of blood ... I am forgetting sex and all sharp pleasures of the body � a grey, junk-bound ghost. The Spanish boys call me El Hombre Invisible � the Invisible Man �
+    Look down at my filthy trousers, haven't been changed in months ... The days glide by strung on a syringe with a long thread of blood ... I am forgetting sex and all sharp pleasures of the body ? a grey, junk-bound ghost. The Spanish boys call me El Hombre Invisible ? the Invisible Man ?
     
     Twenty pushups every morning. Use of junk removes fat, leaves muscle more or less intact. The addict seems to need less tissue ... Would it be possible to isolate the fat-removing molecule of junk?
     
-    More and more static at the drugstore, mutterings of control like a telephone off the hook ... Spent all day until 6 P.M. to score for two boxes of Eukodol �
+    More and more static at the drugstore, mutterings of control like a telephone off the hook ... Spent all day until 6 P.M. to score for two boxes of Eukodol ?
     
     Running out of veins and out of money.
     
-    Keep going on the nod. Last night I woke up with someone squeezing my hand. It was my other hand ... Fall asleep reading and the words take on code significance ... Obsessed with codes ... Man contracts a series of diseases which spell out a code message � Take a shot in front of D.L. Probing for a vein in my dirty bare foot ... Junkies have no shame ... They are impervious to the repugnance of others. It is doubtful if shame can exist in the absence of sexual libido ... The junky's shame disappears with his nonsexual sociability which is also dependent on libido � The addict regards his body impersonally as an instrument to absorb the medium in which he lives, evaluates his tissue with the cold hands of a horse trader. "No use trying to hit there." Dead fish eyes flick over a ravaged vein.
+    Keep going on the nod. Last night I woke up with someone squeezing my hand. It was my other hand ... Fall asleep reading and the words take on code significance ... Obsessed with codes ... Man contracts a series of diseases which spell out a code message ? Take a shot in front of D.L. Probing for a vein in my dirty bare foot ... Junkies have no shame ... They are impervious to the repugnance of others. It is doubtful if shame can exist in the absence of sexual libido ... The junky's shame disappears with his nonsexual sociability which is also dependent on libido ? The addict regards his body impersonally as an instrument to absorb the medium in which he lives, evaluates his tissue with the cold hands of a horse trader. "No use trying to hit there." Dead fish eyes flick over a ravaged vein.
     
-    Using a new type sleeping pill called Soneryl ... You don't feel sleepy ... You shift to sleep without transition, fall abruptly into the middle of a dream ... I have been years in a prison camp suffering from malnutrition �
+    Using a new type sleeping pill called Soneryl ... You don't feel sleepy ... You shift to sleep without transition, fall abruptly into the middle of a dream ... I have been years in a prison camp suffering from malnutrition ?
     
-    The President is a junky but can't take it direct because of his position. So he gets fixed through me ... From time to time we make contact, and I recharge him. These contacts look to the casual observer like homosexual practices, but the actual excitement is not primarily sexual, and the climax is the separation when the recharge is completed. The erect penises are brought into contact � at least we used that method in the beginning, but contact points wear out like veins. Now I sometimes have to slip my penis under his left eyelid. Of course I can always fix him with an Osmosis Recharge, which corresponds to a skin shot, but that is admitting defeat. An O.R. will put the President in a bad mood for weeks, and might well precipitate an atomic shambles. And the President pays a high price for the Oblique Habit. He has sacrificed all control, and is dependent as an unborn child. The Oblique Addict suffers a whole spectrum of subjective horror, silent protoplasmic frenzy, hideous agony of the bones. Tensions build up, pure energy without emotional content finally tears through the body throwing him about like a man in contact with high tension wires. If his charge connection is cut off cold, the Oblique Addict falls into such violent electric convulsions that his bones shake loose, and he dies with the skeleton straining to climb out of his unendurable flesh and run in a straight line to the nearest cemetery.
+    The President is a junky but can't take it direct because of his position. So he gets fixed through me ... From time to time we make contact, and I recharge him. These contacts look to the casual observer like homosexual practices, but the actual excitement is not primarily sexual, and the climax is the separation when the recharge is completed. The erect penises are brought into contact ? at least we used that method in the beginning, but contact points wear out like veins. Now I sometimes have to slip my penis under his left eyelid. Of course I can always fix him with an Osmosis Recharge, which corresponds to a skin shot, but that is admitting defeat. An O.R. will put the President in a bad mood for weeks, and might well precipitate an atomic shambles. And the President pays a high price for the Oblique Habit. He has sacrificed all control, and is dependent as an unborn child. The Oblique Addict suffers a whole spectrum of subjective horror, silent protoplasmic frenzy, hideous agony of the bones. Tensions build up, pure energy without emotional content finally tears through the body throwing him about like a man in contact with high tension wires. If his charge connection is cut off cold, the Oblique Addict falls into such violent electric convulsions that his bones shake loose, and he dies with the skeleton straining to climb out of his unendurable flesh and run in a straight line to the nearest cemetery.
     
     The relation between an O.A. (Oblique Addict) and his RC. (Recharge Connection) is so intense that they can only endure each other's company for brief and infrequent intervals-! Mean aside from recharge meets, when all personal contact is eclipsed by the recharge process.
     
@@ -769,17 +769,17 @@ module.exports =
     
     Fumbling through faded tape at the pick up frontier, a languid grey area of hiatus miasmic with yawns and gaping goof holes, Lee found out that the young junky standing there in his room at 10 A.M. was back from two months skin diving in Corsica and off the junk ...
     
-    Here to show off his new body, Lee decided with a shudder of morning junk sickness. He knew that he was seeing � ah yes Miguel thank you � three months back sitting in the Metropole nodded out over a stale yellow eclair that would poison a cat two hours later, decided that the effort involved in seeing Miguel at all at 10 A.M. was enough without the intolerable chore of correcting an error ("what is this a fucking farm?") which would also entail current picture of Miguel in much used areas like some great, inconvenient beast of an object on top in the suitcase.
+    Here to show off his new body, Lee decided with a shudder of morning junk sickness. He knew that he was seeing ? ah yes Miguel thank you ? three months back sitting in the Metropole nodded out over a stale yellow eclair that would poison a cat two hours later, decided that the effort involved in seeing Miguel at all at 10 A.M. was enough without the intolerable chore of correcting an error ("what is this a fucking farm?") which would also entail current picture of Miguel in much used areas like some great, inconvenient beast of an object on top in the suitcase.
     
-    "You look marvelous," Lee said, wiping away the more obvious signs of distaste with a sloppy, casual napkin, seeing the grey ooze of junk in Miguel's face, studying patterns of shabbiness as if man and clothes had moved for years through back alleys of time with never a space station to tidy up �
+    "You look marvelous," Lee said, wiping away the more obvious signs of distaste with a sloppy, casual napkin, seeing the grey ooze of junk in Miguel's face, studying patterns of shabbiness as if man and clothes had moved for years through back alleys of time with never a space station to tidy up ?
     
     Besides by the time I could correct the error ... Lazarus go home ... Pay The Man and go home ... What I want to see your old borrowed meat for?
     
-    "Well it's great to see you off ... Do yourself a favor." Miguel was swimming around the room spearing fish with his hand �
+    "Well it's great to see you off ... Do yourself a favor." Miguel was swimming around the room spearing fish with his hand ?
     
     "When you're down there you never think about horse."
     
-    "You're better off like this," said Lee, dreamily caressing a needle scar on the back of Miguel's hand, following the whorls and patterns of smooth purple flesh in a slow twisting movement �
+    "You're better off like this," said Lee, dreamily caressing a needle scar on the back of Miguel's hand, following the whorls and patterns of smooth purple flesh in a slow twisting movement ?
     
     Miguel scratched the back of his hand ... He looked out the window ... His body moved in little, galvanized jerks as junk channels lit up ... Lee sat there waiting. "One snort never put anybody back on, kid."
     
@@ -799,7 +799,7 @@ module.exports =
     
     Lee put the packet of heroin away.
     
-    Lee lived in a permanent third-day kick, with, of course, certain uh essential intermissions to refuel the fires that burned through his yellow-pink-brown gelatinous substance and kept off the hovering flesh. In the beginning his flesh was simply soft, so soft that he was cut to the bone by dust particles, air currents and brushing overcoats while direct contact with doors and chairs seemed to occasion no discomfort. No wound healed in his soft, tentative flesh ... Long white tendrils of fungus curled round the naked bones. Mold odors of atrophied testicles quilted his body in a fuzzy grey fog �
+    Lee lived in a permanent third-day kick, with, of course, certain uh essential intermissions to refuel the fires that burned through his yellow-pink-brown gelatinous substance and kept off the hovering flesh. In the beginning his flesh was simply soft, so soft that he was cut to the bone by dust particles, air currents and brushing overcoats while direct contact with doors and chairs seemed to occasion no discomfort. No wound healed in his soft, tentative flesh ... Long white tendrils of fungus curled round the naked bones. Mold odors of atrophied testicles quilted his body in a fuzzy grey fog ?
     
     During his first severe infection the boiling thermometer flashed a quicksilver bullet into the nurse's brain and she fell dead with a mangled scream. The doctor took one look and slammed steel shutters of survival. He ordered the burning bed and its occupant immediately evicted from the hospital premises.
     
@@ -815,7 +815,7 @@ module.exports =
     
     Victims often know that they are going to die, express the fear that their penis will enter the body and kill them. Sometimes they cling to the penis in a state of shrieking hysteria calling on others for help lest the penis escape and pierce the body. Erections, such as normally occur in sleep, are considered especially dangerous and liable to bring a fatal attack ... One man devised a Rube Goldberg contraption to prevent erection during sleep. But he died of Bang-utot.
     
-    Careful autopsies of Bang-utot victims have revealed no organic reason for death. There are often signs of strangulation [caused by what?]; sometimes slight hemorrhages of pancreas and lungs � not sufficient to cause death and also of unknown origin.
+    Careful autopsies of Bang-utot victims have revealed no organic reason for death. There are often signs of strangulation [caused by what?]; sometimes slight hemorrhages of pancreas and lungs ? not sufficient to cause death and also of unknown origin.
     
     It has occurred to the author that the cause of death is a misplacement of sexual energy resulting in a lung erection with consequent strangulation ... One man who recovered said that "a little man" was sitting on his chest and strangling him. [See article by Nils Larsen M.D., "The Men with the Deadly Dream," in the Saturday Evening Post, December 3, 1955. Also article by Erle Stanley Gardner for True magazine.])
     
@@ -945,29 +945,29 @@ module.exports =
     HASSAN : "You cheap Factualist hitch! Go and never darken my rumpus room again!"
     campus of interzone university
     
-    Donkeys, camels, llamas, rickshaws, carts of merchandise pushed by straining boys, eyes protruding like strangled tongues � throbbing red with animal hate. Herds of sheep and goats and longhorned cattle pass between the students and the lecture platform.
+    Donkeys, camels, llamas, rickshaws, carts of merchandise pushed by straining boys, eyes protruding like strangled tongues ? throbbing red with animal hate. Herds of sheep and goats and longhorned cattle pass between the students and the lecture platform.
     
-    The students sit around on rusty park benches, limestone blocks, outhouse seats, packing crates, oil drums, stumps, dusty leather hassocks, moldy gym mats. They wear Levis-djellabas-hose and doublet ... drink corn from mason jars, coffee from tin cans, smoke gage (marijuana) in cigarettes made of wrapping paper and lottery tickets ... shoot junk with a safety pin and dropper, study racing forms, comic books, Mayan codices �
+    The students sit around on rusty park benches, limestone blocks, outhouse seats, packing crates, oil drums, stumps, dusty leather hassocks, moldy gym mats. They wear Levis-djellabas-hose and doublet ... drink corn from mason jars, coffee from tin cans, smoke gage (marijuana) in cigarettes made of wrapping paper and lottery tickets ... shoot junk with a safety pin and dropper, study racing forms, comic books, Mayan codices ?
     
     The Professor arrives on a bicycle carrying a string of bullheads. He mounts the platform holding his back (crane swings a bellowing cow over his head) .
     
-    PROF: "Fucked by the Sultan's Army last night. I have dislocate the back in the service of my resident queen ... Can't evict that old gash. Need a licensed brain electrician disconnect her synapse by synapse and a surgical bailiff put her guts out on the sidewalk When Ma move in on a boy bag and baggage he play Hell dispossess that Gold Star Boarder �"
+    PROF: "Fucked by the Sultan's Army last night. I have dislocate the back in the service of my resident queen ... Can't evict that old gash. Need a licensed brain electrician disconnect her synapse by synapse and a surgical bailiff put her guts out on the sidewalk When Ma move in on a boy bag and baggage he play Hell dispossess that Gold Star Boarder ?"
     
-    He looks at the bullheads, humming tunes from the 1920s. "The nostalgia fit is on me boys and will out willy silly ... boys walk down the carny midway eating pink spun sugar ... goose each other at the peep show ... jack off in the Ferris wheel � throw sperm at the moon rising red and smoky over the foundries across the river. A Nigra hangs from a cottonwood in front of The Old Court House ... whimpering women catch his sperm in vaginal teeth �
+    He looks at the bullheads, humming tunes from the 1920s. "The nostalgia fit is on me boys and will out willy silly ... boys walk down the carny midway eating pink spun sugar ... goose each other at the peep show ... jack off in the Ferris wheel ? throw sperm at the moon rising red and smoky over the foundries across the river. A Nigra hangs from a cottonwood in front of The Old Court House ... whimpering women catch his sperm in vaginal teeth ?
     
-    "(Husband looks at the little changeling with narrow eyes the color of a faded grey flannel shirt ... 'Doc, I suspect it to be a Nigra.' The Doctor shrugs: 'It's the Old Army Game, son." Pea under the shell ... Now you see it now you don't �')
+    "(Husband looks at the little changeling with narrow eyes the color of a faded grey flannel shirt ... 'Doc, I suspect it to be a Nigra.' The Doctor shrugs: 'It's the Old Army Game, son." Pea under the shell ... Now you see it now you don't ?')
     
-    "And Doc Parker in the back room in his drugstore shooting horse heroin three grains a jolt � 'Tonic,' he mutters. 'It's always spring.'
+    "And Doc Parker in the back room in his drugstore shooting horse heroin three grains a jolt ? 'Tonic,' he mutters. 'It's always spring.'
     
-    "'Hands' Benson, Town Pervert, has took up a querencia in the school privy (querencia is bullfight term ... The bull will find a spot in the ring he likes and stay there and the bullfighter has to go in and meet the bull on his bull terms or coax him out � one or the other). Sheriff A.Q. 'Flat' Larsen say 'Some way we gotta lure him outa that querencia.' ... And Old Ma Lottie sleep ten years with a dead daughter and home cured too, wakes shivering in the East Texas dawn ... vultures out over the black swamp water and cypress stumps �
+    "'Hands' Benson, Town Pervert, has took up a querencia in the school privy (querencia is bullfight term ... The bull will find a spot in the ring he likes and stay there and the bullfighter has to go in and meet the bull on his bull terms or coax him out ? one or the other). Sheriff A.Q. 'Flat' Larsen say 'Some way we gotta lure him outa that querencia.' ... And Old Ma Lottie sleep ten years with a dead daughter and home cured too, wakes shivering in the East Texas dawn ... vultures out over the black swamp water and cypress stumps ?
     
-    "And now gentlemen-I trust there are no transvestites present he he � and you are all gentlemen by Act of Congress it being only remain to establish you male humans, positively no Transitionals in either direction will be allowed in this decent hall. Gentlemen, present short arms. Now you have all been briefed on the importance of keeping your weapons well lubricated and ready for any action flank or rear guard."
+    "And now gentlemen-I trust there are no transvestites present he he ? and you are all gentlemen by Act of Congress it being only remain to establish you male humans, positively no Transitionals in either direction will be allowed in this decent hall. Gentlemen, present short arms. Now you have all been briefed on the importance of keeping your weapons well lubricated and ready for any action flank or rear guard."
     
     STUDENTS: "Hear! Hear!" They wearily unbutton their flies. One of them brandishes a huge erection.
     
     PROF: "And now, gentlemen, where was I? Oh yes, Ma Lottie ... She wake shivering in the gentle pink dawn, pink as the candles on a little girl's birthday cake, pink as spun sugar, pink as a seashell, pink as a cock pulsing in a red fucking light ... Ma Lottie ... hurumph ... if this prolixity be not cut short will succumb to the infirmities of age and join her daughter in formaldehyde.
     
-    "'The Rime of the Ancient Mariner,' by Coleridge the poet � I should like to call your attention to the symbolism of the Ancient Mariner himself."
+    "'The Rime of the Ancient Mariner,' by Coleridge the poet ? I should like to call your attention to the symbolism of the Ancient Mariner himself."
     
     STUDENTS: "Himself the man says."
     
@@ -985,24 +985,24 @@ module.exports =
     
     Frontier saloon: Fag Baboon dressed in little girl blue dress sings in resigned voice to tune of "Alice Blue Gown": "I'm the weakest baboon of them all."
     
-    A freight train separates the Prof from the juveniles ... When the train passes they have fat stomachs and responsible jobs �
+    A freight train separates the Prof from the juveniles ... When the train passes they have fat stomachs and responsible jobs ?
     
     STUDENTS: "We want Lottie!"
     
-    PROF: "That was in another country, gentlemen ... As I was saying before I was so rudely interrupted by one of my multiple personalities ... troublesome little beasts ... consider the Ancient Mariner without curare, lasso, bulbocapnine or straitjacket, albeit able to capture and hold a live audience ... What is his hrump gimmick? He he he he ... He does not, like so-called artists at this time, stop just anybody thereby inflicting unsent-for boredom and working random hardship ... He stops those who cannot choose but hear owing to already existing relation between The Mariner (however ancient) and the uh Wedding Guest �
+    PROF: "That was in another country, gentlemen ... As I was saying before I was so rudely interrupted by one of my multiple personalities ... troublesome little beasts ... consider the Ancient Mariner without curare, lasso, bulbocapnine or straitjacket, albeit able to capture and hold a live audience ... What is his hrump gimmick? He he he he ... He does not, like so-called artists at this time, stop just anybody thereby inflicting unsent-for boredom and working random hardship ... He stops those who cannot choose but hear owing to already existing relation between The Mariner (however ancient) and the uh Wedding Guest ?
     
-    "What the Mariner actually says is not important ... He may be rambling, irrelevant, even crude and rampant senile. But some thing happens to the Wedding Guest like happens in psychoanalysis when it happens if it happens. If I may be permitted a slight digression ... an analyst of my acquaintance does all the talking � patients listen patiently or not ... He reminisces ... tells dirty jokes (old ones) ... achieves counterpoints of idiocy undreamed of by The County Clerk. He is illustrating at some length that nothing can ever be accomplished on the verbal level ... He arrived at this method through observing that The Listener � The Analyst � was not reading the mind of the patient ... The patient The Talker � was reading his mind ... That is, the patient has ESP awareness of the analyst's dreams and schemes whereas the analyst contacts the patient strictly from front brain ... Many agents use this approach � they are notoriously long-winded bores and bad listeners �
+    "What the Mariner actually says is not important ... He may be rambling, irrelevant, even crude and rampant senile. But some thing happens to the Wedding Guest like happens in psychoanalysis when it happens if it happens. If I may be permitted a slight digression ... an analyst of my acquaintance does all the talking ? patients listen patiently or not ... He reminisces ... tells dirty jokes (old ones) ... achieves counterpoints of idiocy undreamed of by The County Clerk. He is illustrating at some length that nothing can ever be accomplished on the verbal level ... He arrived at this method through observing that The Listener ? The Analyst ? was not reading the mind of the patient ... The patient The Talker ? was reading his mind ... That is, the patient has ESP awareness of the analyst's dreams and schemes whereas the analyst contacts the patient strictly from front brain ... Many agents use this approach ? they are notoriously long-winded bores and bad listeners ?
     
     "Gentlemen I will slop a pearl: You can find out more about someone by talking than by listening."
     
-    Pigs rush up and the Prof pours buckets of pearls into a trough �
+    Pigs rush up and the Prof pours buckets of pearls into a trough ?
     
     "I am not worthy to eat his feet," says the fattest hog of them all.
     
     "Clay anyhoo."
     a.j. 's annual party
     
-    A.J. turns to the guests. "Cunts, pricks, fence straddlers, tonight I give you � that internationally known impresario of blue movies and short-wave TV, the one, the only, The Great Slashtubitch!"
+    A.J. turns to the guests. "Cunts, pricks, fence straddlers, tonight I give you ? that internationally known impresario of blue movies and short-wave TV, the one, the only, The Great Slashtubitch!"
     
     He points to a red velvet curtain sixty feet high. Lightning rends the curtain from top to bottom. The Great Slashtubitch stands revealed. His face is immense, immobile like a Chimu50 funeral urn. He wears full evening dress, blue cape and blue monocle. Huge grey eyes with tiny black pupils that seem to spit needles. (Only the Coordinate Factualist can meet his gaze.) When he is angered the charge of it will blow his monocle across the room. Many an ill-starred actor has felt the icy blast of Slashtubitch's displeasure: "Get out of my studio, you cheap four-flushing ham! Did you think to pass a counterfeit orgasm on me! THE GREAT SLASHTUBITCH! I could tell if you come by regard the beeg toe. Idiot! Mindless scum!! Insolent baggage!!! Go peddle thy ass and know that it takes sincerity and art, and devotion, to work for Slashtubitch. Not shoddy trickery, dubbed gasps, rubber turds and vials of milk concealed in the ear and shots of yohimbine sneaked in the wings."
     
@@ -1066,10 +1066,10 @@ module.exports =
     
     Mark drops on one knee, pulling Johnny across his back by one arm. He stands up and throws him six feet onto the bed. Johnny lands on his back and bounces. Mark jumps up and grabs Johnny's ankles, throwing his legs over his head. Mark's lips are drawn back in a tight snarl. "All right, Johnny boy." He contracts his body, slow and steady as an oiled machine, pushing his cock up Johnny's ass. Johnny gives a great sigh, squirming in ecstasy. Mark hitches his hands behind Johnny's shoulders, pulling him down onto his cock which is buried to the hilt in Johnny's ass. Great whistles through his teeth. Johnny screams like a bird. Mark is rubbing his face against Johnny's, snarl gone, face innocent and boyish as his whole liquid being spurts into Johnny's quivering body.
     
-    A train roars through him whistle blowing ... boat whistle, foghorn, sky rockets burst over oily lagoons ... penny arcades open into a maze of dirty pictures ... ceremonial cannon boom in the harbor ... a scream shoots down a white hospital corridor ... out along a wide dusty street between palm trees, whistles out across the desert like a bullet (vulture wings husk in the dry air), a thousand boys come at once in outhouses, bleak public school toilets, attics, basements, treehouses, Ferris wheels, deserted houses, limestone caves, rowboats, garages, barns, rubbly windy city outskirts behind mud walls (smell of dried excrement) � black dust blowing over lean copper bodies ... ragged pants dropped to cracked bleeding bare feet ... (place where vultures fight over fish heads) ... by jungle lagoons, vicious fish snap at white sperm floating on black water, sand flies bite the copper ass, howler monkeys like wind in the trees (a land of great brown rivers where whole trees float, bright colored snakes in the
-    branches, pensive lemurs watch the shore with sad eyes), a red plane traces arabesques in blue substance of sky, a rattlesnake strikes, a cobra rears, spreads, spits white venom, pearl and opal chips fall in a slow silent rain through air clear as glycerine. Time jumps like a broken typewriter, the boys are old men, young hips quivering and twitching in boy-spasms go slack and flabby, draped over an outhouse seat, a park bench, a stone wall in Spanish sunlight, a sagging furnished room bed (outside red brick slum in clear winter sunlight) ... twitching and shivering in dirty underwear, probing for a vein in the junk-sick morning, in an Arab cafe muttering and slobbering-the Arabs whisper "Medjoub" and edge away � (a Medjoub is a special sort of religious Moslem lunatic ... often epileptic among other disorders). "The Moslems must have blood and jissom ... See, see where Christ's blood streams in the spermament," howls the Medjoub ... He stands up screaming and black blood spurts solid from his last erection, a pale white statue standing there, as if he had stepped whole across the Great Fence, climbed it innocent and calm as a boy climbs the fence to fish in the forbidden pond in a few seconds he catches a huge catfish � The Old Man will rush out of a little black hut cursing, with a pitchfork, and the boy runs laughing across the Missouri field � he finds a beautiful pink arrowhead and snatches it up as he runs with a flowing swoop of young bone and muscle � (his bones blend into the field, he lies dead by the wooden fence a shotgun by his side, blood on frozen red clay seeps into the winter stubble of Georgia) ... The catfish billows out behind him ... He comes to the fence and throws the catfish over into blood-streaked grass � the fish lies squirming and squawking-vaults the fence. He snatches up the catfish and disappears up a flint-studded red clay road between oaks and persimmons dropping red-brown leaves in a windy fall sunset, green and dripping in summer dawn, black against a clear winter day ... the Old Man screams curses after him ... his teeth fly from his mouth and whistle over the boy's head, he strains forward, his neck-cords tight as steel hoops, black blood spurts in one solid piece over the fence and he falls a fleshless mummy by the fever grass. Thorns grow through his ribs, the windows break in his hut, dusty glass-slivers in black putty-rats run over the floor and boys jack off in the dark musty bedroom on summer afternoons and eat the berries that grow from his body and bones, mouths smeared with purple-red juices ...
+    A train roars through him whistle blowing ... boat whistle, foghorn, sky rockets burst over oily lagoons ... penny arcades open into a maze of dirty pictures ... ceremonial cannon boom in the harbor ... a scream shoots down a white hospital corridor ... out along a wide dusty street between palm trees, whistles out across the desert like a bullet (vulture wings husk in the dry air), a thousand boys come at once in outhouses, bleak public school toilets, attics, basements, treehouses, Ferris wheels, deserted houses, limestone caves, rowboats, garages, barns, rubbly windy city outskirts behind mud walls (smell of dried excrement) ? black dust blowing over lean copper bodies ... ragged pants dropped to cracked bleeding bare feet ... (place where vultures fight over fish heads) ... by jungle lagoons, vicious fish snap at white sperm floating on black water, sand flies bite the copper ass, howler monkeys like wind in the trees (a land of great brown rivers where whole trees float, bright colored snakes in the
+    branches, pensive lemurs watch the shore with sad eyes), a red plane traces arabesques in blue substance of sky, a rattlesnake strikes, a cobra rears, spreads, spits white venom, pearl and opal chips fall in a slow silent rain through air clear as glycerine. Time jumps like a broken typewriter, the boys are old men, young hips quivering and twitching in boy-spasms go slack and flabby, draped over an outhouse seat, a park bench, a stone wall in Spanish sunlight, a sagging furnished room bed (outside red brick slum in clear winter sunlight) ... twitching and shivering in dirty underwear, probing for a vein in the junk-sick morning, in an Arab cafe muttering and slobbering-the Arabs whisper "Medjoub" and edge away ? (a Medjoub is a special sort of religious Moslem lunatic ... often epileptic among other disorders). "The Moslems must have blood and jissom ... See, see where Christ's blood streams in the spermament," howls the Medjoub ... He stands up screaming and black blood spurts solid from his last erection, a pale white statue standing there, as if he had stepped whole across the Great Fence, climbed it innocent and calm as a boy climbs the fence to fish in the forbidden pond in a few seconds he catches a huge catfish ? The Old Man will rush out of a little black hut cursing, with a pitchfork, and the boy runs laughing across the Missouri field ? he finds a beautiful pink arrowhead and snatches it up as he runs with a flowing swoop of young bone and muscle ? (his bones blend into the field, he lies dead by the wooden fence a shotgun by his side, blood on frozen red clay seeps into the winter stubble of Georgia) ... The catfish billows out behind him ... He comes to the fence and throws the catfish over into blood-streaked grass ? the fish lies squirming and squawking-vaults the fence. He snatches up the catfish and disappears up a flint-studded red clay road between oaks and persimmons dropping red-brown leaves in a windy fall sunset, green and dripping in summer dawn, black against a clear winter day ... the Old Man screams curses after him ... his teeth fly from his mouth and whistle over the boy's head, he strains forward, his neck-cords tight as steel hoops, black blood spurts in one solid piece over the fence and he falls a fleshless mummy by the fever grass. Thorns grow through his ribs, the windows break in his hut, dusty glass-slivers in black putty-rats run over the floor and boys jack off in the dark musty bedroom on summer afternoons and eat the berries that grow from his body and bones, mouths smeared with purple-red juices ...
     
-    The old junky has found a vein ... blood blossoms in the dropper like a Chinese flower ... he pushes home the heroin and the boy who jacked off fifty years ago shines immaculate through the ravaged flesh, filling the outhouse with the sweet nutty smell of young male lust �
+    The old junky has found a vein ... blood blossoms in the dropper like a Chinese flower ... he pushes home the heroin and the boy who jacked off fifty years ago shines immaculate through the ravaged flesh, filling the outhouse with the sweet nutty smell of young male lust ?
     
     How many years threaded on a needle of blood? Hands slack on lap he sits looking out at the winter dawn with the cancelled eyes of junk.
     
@@ -1090,7 +1090,7 @@ module.exports =
     
     "Well, here you go." Mark starts to push Johnny off the platform.
     
-    MARY: "No, let me." She locks her hands behind Johnny's buttocks, puts her forehead against him, smiling into his eyes she moves back, pulling him off the platform into space ... His face swells with blood ... Mark reaches up with one lithe movement and snaps Johnny's� neck ... sound like a stick broken in wet towels. A shudder runs down Johnny's body ... one foot flutters like a trapped bird ... Mark has draped himself over a swing and mimics Johnny's twitches, closes his eyes and sticks his tongue out ... Johnny's cock springs up and Mary guides it up her cunt, writhing against him in a fluid belly dance, groaning and shrieking with delight ... sweat pours down her body, hair hangs over her face in wet strands. "Cut him down, Mark," she screams. Mark reaches over with a snap knife and cuts the rope, catching Johnny as he falls, easing him onto his back with Mary still impaled and writhing ... She bites away Johnny's lips and nose and sucks out his eyes with a pop ... She tears off great hunks of cheek � Now she lunches on his prick ... Mark walks over to her and she looks up from Johnny's half-eaten genitals, her face covered with blood, eyes phosphorescent ... Mark puts his foot on her shoulder and kicks her over on her back ... He leaps on her, fucking her insanely ... they roll from one end of the room to the other, pinwheel end-over-end and leap high in the air like great hooked fish.
+    MARY: "No, let me." She locks her hands behind Johnny's buttocks, puts her forehead against him, smiling into his eyes she moves back, pulling him off the platform into space ... His face swells with blood ... Mark reaches up with one lithe movement and snaps Johnny's? neck ... sound like a stick broken in wet towels. A shudder runs down Johnny's body ... one foot flutters like a trapped bird ... Mark has draped himself over a swing and mimics Johnny's twitches, closes his eyes and sticks his tongue out ... Johnny's cock springs up and Mary guides it up her cunt, writhing against him in a fluid belly dance, groaning and shrieking with delight ... sweat pours down her body, hair hangs over her face in wet strands. "Cut him down, Mark," she screams. Mark reaches over with a snap knife and cuts the rope, catching Johnny as he falls, easing him onto his back with Mary still impaled and writhing ... She bites away Johnny's lips and nose and sucks out his eyes with a pop ... She tears off great hunks of cheek ? Now she lunches on his prick ... Mark walks over to her and she looks up from Johnny's half-eaten genitals, her face covered with blood, eyes phosphorescent ... Mark puts his foot on her shoulder and kicks her over on her back ... He leaps on her, fucking her insanely ... they roll from one end of the room to the other, pinwheel end-over-end and leap high in the air like great hooked fish.
     
     "Let me hang you, Mark ... Let me hang you ... Please, Mark, let me hang you!"
     
@@ -1102,7 +1102,7 @@ module.exports =
     
     Johnny dowses Mary with gasoline from an obscene Chimu jar of white jade ... He anoints his own body ... They embrace, fall to the floor and roll under a great magnifying glass set in the roof ... burst into flame with a cry that shatters the glass wall, roll into space, fucking and screaming through the air, burst in blood and flames and soot on brown rocks under a desert sun. Johnny leaps about the room in agony. With a scream that shatters the glass wall he stands spread-eagle to the rising sun, blood spurting out his cock ... a white marble god, he plummets through epileptic explosions into the old Medjoub writhe in shit and rubbish by a mud wall under a sun that scars and grabs the flesh into goose pimples ... He is a boy sleeping against the mosque wall, ejaculates wet dreaming into a thousand cunts pink and smooth as sea-shells, feeling the delight of prickly pubic hairs slide up his cock.
     
-    Johnny and Mary in hotel room (music of "East St. Louis Toodleoo"). Warm spring wind blows faded pink curtains in through open window ... Frogs croak in vacant lots where corn grows and boys catch little green garter snakes under broken limestone stelae stained with shit and threaded with rusty barbed wire � (Neon-chlorophyll green, purple, orange-flashes on and off.) Johnny extracts a candiru from Mary's cunt with his calipers ... He drops it into a bottle of mescal where it turns into a maguey worm53 ... He gives her a douche of jungle bone-softener, her vaginal teeth flow out mixed with blood and cysts ... Her cunt shines fresh and sweet as spring grass ... Johnny licks Mary's cunt, slow at first, with rising excitement parts the lips and licks inside feeling the prickle of pubic hairs on his tumescent tongue ... Arms thrown back, breasts pointing straight up, Mary lies transfixed with neon nails ... Johnny moves up her body, his cock with a shining round opal of lubricant at the open slit, slides through her pubic hairs and enters her cunt to the hilt, drawn in by a suction of hungry flesh ... His face swells with blood, green lights burst behind his eyes and he falls with a scenic railway through screaming girls � Damp hairs on the back of his balls dry to grass in the warm spring wind. High jungle valley, vines creep in the window. Johnny's cock swells, great rank buds burst out. A long tuber root creeps from Mary's cunt, feels for the earth. The bodies disintegrate in green explosions. The hut falls in ruins of broken stone. The boy is a limestone statue, a plant sprouting from his cock, lips parted in the half-smile of a junky on the nod.
+    Johnny and Mary in hotel room (music of "East St. Louis Toodleoo"). Warm spring wind blows faded pink curtains in through open window ... Frogs croak in vacant lots where corn grows and boys catch little green garter snakes under broken limestone stelae stained with shit and threaded with rusty barbed wire ? (Neon-chlorophyll green, purple, orange-flashes on and off.) Johnny extracts a candiru from Mary's cunt with his calipers ... He drops it into a bottle of mescal where it turns into a maguey worm53 ... He gives her a douche of jungle bone-softener, her vaginal teeth flow out mixed with blood and cysts ... Her cunt shines fresh and sweet as spring grass ... Johnny licks Mary's cunt, slow at first, with rising excitement parts the lips and licks inside feeling the prickle of pubic hairs on his tumescent tongue ... Arms thrown back, breasts pointing straight up, Mary lies transfixed with neon nails ... Johnny moves up her body, his cock with a shining round opal of lubricant at the open slit, slides through her pubic hairs and enters her cunt to the hilt, drawn in by a suction of hungry flesh ... His face swells with blood, green lights burst behind his eyes and he falls with a scenic railway through screaming girls ? Damp hairs on the back of his balls dry to grass in the warm spring wind. High jungle valley, vines creep in the window. Johnny's cock swells, great rank buds burst out. A long tuber root creeps from Mary's cunt, feels for the earth. The bodies disintegrate in green explosions. The hut falls in ruins of broken stone. The boy is a limestone statue, a plant sprouting from his cock, lips parted in the half-smile of a junky on the nod.
     
     * * *
     
@@ -1114,21 +1114,21 @@ module.exports =
     
     Toothless and strictly from the long hunger, ribs you could wash your filthy overalls on, that corrugate, they quaver down from the outrigger in Easter Island and stalk ashore on legs stiff and brittle as stilts ... they nod in club windows ... fallen into the fat of lack-need to sell a slim body.
     
-    The date palms have died of meet lack, the well filled with dried shit and mosaic of a thousand newspapers: "Russia denies � The Home Secretary views with pathic alarm �"
+    The date palms have died of meet lack, the well filled with dried shit and mosaic of a thousand newspapers: "Russia denies ? The Home Secretary views with pathic alarm ?"
     
-    The trap was sprung at 12:02. At 12:30 the doctor went out to eat oysters, returned at 2:00 to clap the hanged man jovially on the back. "What? Aren't you dead yet? Guess I'll have to pull your leg. Haw haw! Can't let you choke at this rate � I'd get a warning from the President. And what a disgrace if the dead wagon cart you out alive. My balls would drop off with the shame of it and I apprenticed myself to an experienced ox. One two three pull."
+    The trap was sprung at 12:02. At 12:30 the doctor went out to eat oysters, returned at 2:00 to clap the hanged man jovially on the back. "What? Aren't you dead yet? Guess I'll have to pull your leg. Haw haw! Can't let you choke at this rate ? I'd get a warning from the President. And what a disgrace if the dead wagon cart you out alive. My balls would drop off with the shame of it and I apprenticed myself to an experienced ox. One two three pull."
     
     The sail plane falls silent as erection, silent as greased glass broken by the young thief with old-woman hands and cancelled eyes of junk ... In a noiseless explosion he penetrates the broken house, stepping over the greased crystals, a clock ticks loud in the kitchen, hot air ruffles his hair, his head disintegrates in a heavy duck load ... The Old Man flips out a red shell and pirouettes around his shotgun. "Aw, shucks, fellers; tweren't nothing ... Fish in the barrel ... Money in the bank ... round-heeled boy, one greased shot brain goose and he flop in an obscene position ... Can you hear me from where you are, boy?
     
-    "I was young myself once and heard the siren call of easy money and women and tight boy-ass and land's sake don't get my blood up I am subject to tell a tale make your cock stand up and yip for the pink pearly way of young cunt or the lovely brown mucus-covered palpitating tune of the young boy-ass play your cock like a recorder ... and when you hit the prostate pearl sharp diamonds gather in the golden lad balls inexorable as a kidney stone ... Sorry I had to kill you ... The old grey mare ain't what she used to be ... Can't run down an audience ... got to bring down that house on the wing, run or sit ... Like an old lion took bad with cavities he need that Amident toothpaste keep a feller biting fresh at all times . ... Them old lions shit sure turn boy-eater ... And who can blame them, boys being so sweet so cold so fair in St. James Infirmary?? Now, son, don't you get rigor mortis on me. Show respect for the aging prick ... You may be a tedious old fuck yourself some day ... Oh, uh; I guess not � You have, like Housman's barefoot shameless catamite The Congealed Shropshire Ingenue set your fleet foot on the silo of change ... But you can't kill those Shropshire boys ... been hanged so often he resist it like a gonococcus54 half castrate with penicillin rallies to a hideous strength and multiplies geometric ... So leave us cast a vote for decent acquittal and put an end to those beastly exhibitions for which the sheriff levy a pound of flesh."
+    "I was young myself once and heard the siren call of easy money and women and tight boy-ass and land's sake don't get my blood up I am subject to tell a tale make your cock stand up and yip for the pink pearly way of young cunt or the lovely brown mucus-covered palpitating tune of the young boy-ass play your cock like a recorder ... and when you hit the prostate pearl sharp diamonds gather in the golden lad balls inexorable as a kidney stone ... Sorry I had to kill you ... The old grey mare ain't what she used to be ... Can't run down an audience ... got to bring down that house on the wing, run or sit ... Like an old lion took bad with cavities he need that Amident toothpaste keep a feller biting fresh at all times . ... Them old lions shit sure turn boy-eater ... And who can blame them, boys being so sweet so cold so fair in St. James Infirmary?? Now, son, don't you get rigor mortis on me. Show respect for the aging prick ... You may be a tedious old fuck yourself some day ... Oh, uh; I guess not ? You have, like Housman's barefoot shameless catamite The Congealed Shropshire Ingenue set your fleet foot on the silo of change ... But you can't kill those Shropshire boys ... been hanged so often he resist it like a gonococcus54 half castrate with penicillin rallies to a hideous strength and multiplies geometric ... So leave us cast a vote for decent acquittal and put an end to those beastly exhibitions for which the sheriff levy a pound of flesh."
     
-    SHERIFF: "I'll lower his pants for a pound, folks. Step right up. A serious and scientific exhibit concerning the locality of the Life Center. This character has nine inches, ladies and gentlemen, measure them yourself inside. Only one pound, one queer three dollar bill to see a young boy come three times at least! Never demean myself to process a eunuch � completely against his will. When his neck snaps sharp, this character will shit � sure come to rhythmic attention and spurt it out all over you."
+    SHERIFF: "I'll lower his pants for a pound, folks. Step right up. A serious and scientific exhibit concerning the locality of the Life Center. This character has nine inches, ladies and gentlemen, measure them yourself inside. Only one pound, one queer three dollar bill to see a young boy come three times at least! Never demean myself to process a eunuch ? completely against his will. When his neck snaps sharp, this character will shit ? sure come to rhythmic attention and spurt it out all over you."
     
     The boy stands on the trap shifting his weight from one leg to the other: "Gawd! What a boy hasta put up with in this business. Sure as shit some horrible old character get physical."
     
     Trap falls, rope sings like wind in wire, neck snaps loud and clear as a Chinese gong.
     
-    The boy cuts himself down with a switchblade, chases a screaming fag down the midway. The faggot dives through the glass of a penny arcade peep-show and rims a grinning Negro �
+    The boy cuts himself down with a switchblade, chases a screaming fag down the midway. The faggot dives through the glass of a penny arcade peep-show and rims a grinning Negro ?
     
     Fade Out.
     
@@ -1167,15 +1167,15 @@ module.exports =
     
     "Order in the Court!"
     
-    D.A.: "Gentlemen of the jury, these 'learned gentlemen' claim that the innocent human creature they have so wantonly slain suddenly turned himself into a huge black centipede and it was their duty to the human race' to destroy this monster before it could, by any means at its disposal, perpetrate its kind �
+    D.A.: "Gentlemen of the jury, these 'learned gentlemen' claim that the innocent human creature they have so wantonly slain suddenly turned himself into a huge black centipede and it was their duty to the human race' to destroy this monster before it could, by any means at its disposal, perpetrate its kind ?
     
     "Are we to gulp down this tissue of horse shit? Are we to take these glib lies like a greased and nameless asshole? Where is this wondrous centipede?
     
-    '"We have destroyed it,' they say smugly ... And I would like to remind you, Gentlemen and Hermaphrodites of the Jury, that this Great Beast" � he points to Doctor Schafer � "has, on several previous occasions, appeared in this court charged with the unspeakable crime of brain rape ... In plain English" � he pounds the rail of the jury box, his voice rises to a scream � "in plain English, Gentlemen, forcible lobotomy..."
+    '"We have destroyed it,' they say smugly ... And I would like to remind you, Gentlemen and Hermaphrodites of the Jury, that this Great Beast" ? he points to Doctor Schafer ? "has, on several previous occasions, appeared in this court charged with the unspeakable crime of brain rape ... In plain English" ? he pounds the rail of the jury box, his voice rises to a scream ? "in plain English, Gentlemen, forcible lobotomy..."
     
     The Jury gasps ... One dies of a heart attack ... Three fall to the floor writhing in orgasms of prurience...
     
-    The D.A. points dramatically: "He it is � he and no other � who has reduced whole provinces of our fair land to a state bordering on the far side of idiocy ... He it is who has filled great warehouses with row on row, tier on tier of helpless creatures who must have their every want attended ... 'The Drones' he calls them with a cynical leer of pure educated evil ... Gentlemen, I say to you that the wanton murder of Clarence Cowie must not go unavenged! This foul crime shrieks like a wounded faggot for justice at least!"
+    The D.A. points dramatically: "He it is ? he and no other ? who has reduced whole provinces of our fair land to a state bordering on the far side of idiocy ... He it is who has filled great warehouses with row on row, tier on tier of helpless creatures who must have their every want attended ... 'The Drones' he calls them with a cynical leer of pure educated evil ... Gentlemen, I say to you that the wanton murder of Clarence Cowie must not go unavenged! This foul crime shrieks like a wounded faggot for justice at least!"
     
     The centipede is rushing about in agitation.
     
@@ -1193,15 +1193,15 @@ module.exports =
     
     Behind them, through open doors, tables and booths and bars and kitchens and baths, copulating couples on rows of brass beds, crisscross of a thousand hammocks, junkies tying up for a shot, opium smokers, hashish smokers, people eating talking bathing, back into a haze of smoke and steam.
     
-    Gaming tables where the games are played for incredible stakes. From time to time a player leaps up with a despairing cry, having lost his youth to an old man or become Latah to his opponent. But there are higher stakes than youth or Latah, games where only two players in the world know what the stakes are. All houses in the City are joined. Houses of sod � high mountain Mongols blink in smoky doorways � houses of bamboo and teak, houses of adobe, stone and red brick, South Pacific and Maori houses, houses in trees and river boats, wood houses one hundred feet long sheltering entire tribes, houses of boxes and corrugated iron where old men sit in rotten rags cooking down canned heat, great rusty iron racks rising two hundred feet in the air from swamps and rubbish with perilous partitions built on multi-leveled platforms, and hammocks swinging over the void.
+    Gaming tables where the games are played for incredible stakes. From time to time a player leaps up with a despairing cry, having lost his youth to an old man or become Latah to his opponent. But there are higher stakes than youth or Latah, games where only two players in the world know what the stakes are. All houses in the City are joined. Houses of sod ? high mountain Mongols blink in smoky doorways ? houses of bamboo and teak, houses of adobe, stone and red brick, South Pacific and Maori houses, houses in trees and river boats, wood houses one hundred feet long sheltering entire tribes, houses of boxes and corrugated iron where old men sit in rotten rags cooking down canned heat, great rusty iron racks rising two hundred feet in the air from swamps and rubbish with perilous partitions built on multi-leveled platforms, and hammocks swinging over the void.
     
     Expeditions leave for unknown places with unknown purposes. Strangers arrive on rafts of old packing crates tied together with rotten rope, they stagger in out of the jungle their eyes swollen shut from insect bites, they come down the mountain trails on cracked bleeding feet through the dusty windy outskirts of the city, where people defecate in rows along adobe walls and vultures fight over fish heads. They drop down into parks in patched parachutes ... They are escorted by a drunken cop to register in a vast public lavatory. The data taken down is put on pegs to be used as toilet paper.
     
     Cooking smells of all countries hang over the City, a haze of opium, hashish, the resinous red smoke of yage, smell of the jungle and salt water and the rotting river and dried excrement and sweat and genitals.
     
-    High mountain flutes, jazz and bebop, one-stringed Mongol instruments, gypsy xylophones, African drums, Arab bagpipes � The City is visited by epidemics of violence, and the untended dead are eaten by vultures in the streets. Albinos blink in the sun. Boys sit in trees, languidly masturbate. People eaten by unknown diseases watch the passerby with evil, knowing eyes.
+    High mountain flutes, jazz and bebop, one-stringed Mongol instruments, gypsy xylophones, African drums, Arab bagpipes ? The City is visited by epidemics of violence, and the untended dead are eaten by vultures in the streets. Albinos blink in the sun. Boys sit in trees, languidly masturbate. People eaten by unknown diseases watch the passerby with evil, knowing eyes.
     
-    In the City Market is the Meet Cafe. Followers of obsolete, unthinkable trades doodling in Etruscan, addicts of drugs not yet synthesized, pushers of souped-up harmine, junk reduced to pure habit offering precarious vegetable serenity, liquids to induce Latah, Tithonian longevity serums, black marketeers of World War III, excisors of telepathic sensitivity, osteopaths of the spirit, investigators of infractions denounced by bland paranoid chess players, servers of fragmentary warrants taken down in hebephrenic shorthand charging unspeakable mutilations of the spirit, bureaucrats of spectral departments, officials of unconstituted police states, a Lesbian dwarf who has perfected operation Bang-utot, the lung erection that strangles a sleeping enemy, sellers of orgone tanks and relaxing machines, brokers of exquisite dreams and memories tested on the sensitized cells of junk sickness and bartered for raw materials of the will, doctors skilled in the treatment of diseases dormant in the black dust of ruined cities, gathering virulence in the white blood of eyeless worms feeling slowly to the surface and the human host, maladies of the ocean floor and the stratosphere, maladies of the laboratory and atomic war ... A place where the unknown past and the emergent future meet in a vibrating soundless hum ... Larval entities waiting for a Live One �
+    In the City Market is the Meet Cafe. Followers of obsolete, unthinkable trades doodling in Etruscan, addicts of drugs not yet synthesized, pushers of souped-up harmine, junk reduced to pure habit offering precarious vegetable serenity, liquids to induce Latah, Tithonian longevity serums, black marketeers of World War III, excisors of telepathic sensitivity, osteopaths of the spirit, investigators of infractions denounced by bland paranoid chess players, servers of fragmentary warrants taken down in hebephrenic shorthand charging unspeakable mutilations of the spirit, bureaucrats of spectral departments, officials of unconstituted police states, a Lesbian dwarf who has perfected operation Bang-utot, the lung erection that strangles a sleeping enemy, sellers of orgone tanks and relaxing machines, brokers of exquisite dreams and memories tested on the sensitized cells of junk sickness and bartered for raw materials of the will, doctors skilled in the treatment of diseases dormant in the black dust of ruined cities, gathering virulence in the white blood of eyeless worms feeling slowly to the surface and the human host, maladies of the ocean floor and the stratosphere, maladies of the laboratory and atomic war ... A place where the unknown past and the emergent future meet in a vibrating soundless hum ... Larval entities waiting for a Live One ?
     
     (Section describing The City and the Meet Cafe written in state of yage intoxication ...yage, ayahuasca, pilde, nateema are Indian names for Banisteriopsis caapi, a fast-growing vine indigenous to the Amazon region. See discussion of yage in Appendix.)
     
@@ -1210,25 +1210,25 @@ module.exports =
     
     The room takes on aspect of Near East whorehouse with blue walls and red tasseled lamps ... I feel myself turning into a Negress, the black color silently invading my flesh ... Convulsions of lust ... My legs take on a well-rounded Polynesian substance ... Everything stirs with a writhing furtive life ... The room is Near East, Negro, South Pacific, in some familiar place I cannot locate ... Yage is space-time travel ... The room seems to shake and vibrate with motion ... The blood and substance of many races, Negro, Polynesian, Mountain Mongol, Desert Nomad, Polyglot Near East, Indian, races as yet unconceived and unborn, passes through the body ... Migrations, incredible journeys through deserts and jungles and mountains (stasis and death in closed mountain valley where plants grow out of genitals, vast crustaceans hatch inside and break the shell of body) across the Pacific in an outrigger canoe to Easter Island, ...
     
-    (It occurs to me that preliminary yage nausea is motion sickness of transport to yage state �)
+    (It occurs to me that preliminary yage nausea is motion sickness of transport to yage state ?)
     
     All medicine men use it in their practice to foretell the future, locate lost or stolen objects, to diagnose and treat illness, to name the perpetrator of a crime.
     
-    Since the Indian (straitjacket for Herr Boas - trade joke � nothing so maddens an anthropologist as Primitive Man, referring to them contemptuously as "our naked cousins") does not regard any death as accidental, and they are unacquainted with their own self-destructive trends or perhaps feeling that these trends above all are subject to the manipulation of alien and hostile wills, any death is murder. The medicine man takes yage and the identity of the murderer is revealed to him. As you may imagine, the deliberations of the medicine man during one of these jungle inquests give rise to certain feelings of uneasiness among his constituents.
+    Since the Indian (straitjacket for Herr Boas - trade joke ? nothing so maddens an anthropologist as Primitive Man, referring to them contemptuously as "our naked cousins") does not regard any death as accidental, and they are unacquainted with their own self-destructive trends or perhaps feeling that these trends above all are subject to the manipulation of alien and hostile wills, any death is murder. The medicine man takes yage and the identity of the murderer is revealed to him. As you may imagine, the deliberations of the medicine man during one of these jungle inquests give rise to certain feelings of uneasiness among his constituents.
     
     "Let's hope Old Xiuptutol don't wig and name one of the boys."
     
     "Take a curare and relax. We got the fix in ..."
     
-    "But if he wig? Picking up on that nateema all the time he don't touch the ground in twenty years ... I tell you, Boss, nobody can hit the stuff like that ... It cooks the brains �"
+    "But if he wig? Picking up on that nateema all the time he don't touch the ground in twenty years ... I tell you, Boss, nobody can hit the stuff like that ... It cooks the brains ?"
     
     "So we declare him incompetent ..."
     
-    So Xiuptutol reels out of the jungle and says the boys in the Lower Tzpino territory done it, which surprises no one ... Take it from an old brujo, dearie, they don't like surprises �
+    So Xiuptutol reels out of the jungle and says the boys in the Lower Tzpino territory done it, which surprises no one ... Take it from an old brujo, dearie, they don't like surprises ?
     
-    A funeral passes through the Market. Black coffin � Arabic inscriptions in filigreed silver-carried by four pallbearers. Procession of mourners singing the funeral song ... Clem and Jody fall in beside them carrying a coffin, the corpse of a hog bursts out of it ... The hog is dressed in a djellaba, a keif pipe juts from its mouth, one hoof holds a packet of feelthy pictures, a mezuzzoth57 hangs about its neck ... Inscribed on the coffin: "This was the noblest Arab of them all." They sing hideous parody of the funeral song in false Arabic.
+    A funeral passes through the Market. Black coffin ? Arabic inscriptions in filigreed silver-carried by four pallbearers. Procession of mourners singing the funeral song ... Clem and Jody fall in beside them carrying a coffin, the corpse of a hog bursts out of it ... The hog is dressed in a djellaba, a keif pipe juts from its mouth, one hoof holds a packet of feelthy pictures, a mezuzzoth57 hangs about its neck ... Inscribed on the coffin: "This was the noblest Arab of them all." They sing hideous parody of the funeral song in false Arabic.
     
-    Jody can do a fake Chinese spiel that'll just kill you � like an hysterical ventriloquist's dummy. In fact, he precipitated an antiforeign riot in Shanghai that claimed 3,000 casualties.
+    Jody can do a fake Chinese spiel that'll just kill you ? like an hysterical ventriloquist's dummy. In fact, he precipitated an antiforeign riot in Shanghai that claimed 3,000 casualties.
     
     "Stand up, Gertie, and show respect for the local gooks."
     
@@ -1238,11 +1238,11 @@ module.exports =
     
     "Ever make sex in no gravity? Your jissom just floats out in the air like lovely ectoplasm, and female guests are subject to immaculate or at least indirect conception ... Reminds me of an old friend of mine, one of the handsomest men I have ever known and one of the maddest and absolutely ruined by wealth. He used to go about with a water pistol shooting jissom up career women at parties. Won all his paternity suits hands down. Never use his own jissom you understand."
     
-    Fadeout �
+    Fadeout ?
     
     "Order in the Court!"
     
-    Attoney for A.J.: "Conclusive tests have established that my client has no uh personal connection with the uh little accident of the charming plaintiff ... Perhaps she is preparing to emulate the Virgin Mary and conceive immaculately, naming my client as a hurumph ghostly pander ... I am reminded of a case in fifteenth-century Holland where a young woman accused an elderly and respectable sorcerer of conjuring up a succubus who then had uh carnal knowledge of the young person in question with the under the circumstances regrettable result of pregnancy. So the sorcerer was indicted as an accomplice and rampant voyeur before during and after the fact. However, gentlemen of the jury, we no longer credit such uh legends; and a young woman attributing her uh interesting condition to the attentions of a succubus would be accounted, in these enlightened days, a romanticist or in plain English a God damned liar hehe hehe heh �"
+    Attoney for A.J.: "Conclusive tests have established that my client has no uh personal connection with the uh little accident of the charming plaintiff ... Perhaps she is preparing to emulate the Virgin Mary and conceive immaculately, naming my client as a hurumph ghostly pander ... I am reminded of a case in fifteenth-century Holland where a young woman accused an elderly and respectable sorcerer of conjuring up a succubus who then had uh carnal knowledge of the young person in question with the under the circumstances regrettable result of pregnancy. So the sorcerer was indicted as an accomplice and rampant voyeur before during and after the fact. However, gentlemen of the jury, we no longer credit such uh legends; and a young woman attributing her uh interesting condition to the attentions of a succubus would be accounted, in these enlightened days, a romanticist or in plain English a God damned liar hehe hehe heh ?"
     
     
     And now The Prophet's Hour:
@@ -1251,18 +1251,18 @@ module.exports =
     
     "'Eye Eye, Captain,' he said, squirting his eyes out on the deck ... And who would put on the chains tonight? It is indicate to observe some caution in the upwind approach, the downwind having failed to turn up anything worth a rusty load ... Senoritas are the wear this season in Hell, and I am tired with the long climb to a pulsing Vesuvius of alien pricks."
     
-    Need Orient Express out of here to no hide place(r) mines are frequent in the area ... Every day dig a little it takes up the time �
+    Need Orient Express out of here to no hide place(r) mines are frequent in the area ... Every day dig a little it takes up the time ?
     
-    Jack off phantoms whisper hot into the bone ear �
+    Jack off phantoms whisper hot into the bone ear ?
     
     Shoot your way to freedom.
     
     
     "Christ?'' sneers the vicious, fruity old Saint applying pancake from an alabaster bowl ... "That cheap ham! You think I'd demean myself to commit a miracle? ... That one should have stood in carny ...
     
-    '"Step right up, Marquesses and Marks, and bring the little Marks too. Good for young and old, man and beast ... The one and only legit Son of Man will cure a young boy's clap with one hand � by contact alone, folks � create marijuana with the other, whilst walking on water and squirting wine out his ass ... Now keep your distance, folks, you is subject to be irradiated by the sheer charge of this character.'
+    '"Step right up, Marquesses and Marks, and bring the little Marks too. Good for young and old, man and beast ... The one and only legit Son of Man will cure a young boy's clap with one hand ? by contact alone, folks ? create marijuana with the other, whilst walking on water and squirting wine out his ass ... Now keep your distance, folks, you is subject to be irradiated by the sheer charge of this character.'
     
-    "And I knew him when, dearie ... I recall we was doing an Impersonation Act � very high class too � in Sodom, and that is one cheap town ... Strictly from hunger ... Well, this citizen, this fucking Philistine wandered in from Podunk Baal or some place, called me a fuckin fruit right on the floor. And I said to him: 'Three thousand years in show business and I always keep my nose clean. Besides I don't hafta take any shit off any uncircumcised cocksucker' ... Later he come to my dressing room and made an apology ... Turns out he is a big physician. And he was a lovely fellah, too �
+    "And I knew him when, dearie ... I recall we was doing an Impersonation Act ? very high class too ? in Sodom, and that is one cheap town ... Strictly from hunger ... Well, this citizen, this fucking Philistine wandered in from Podunk Baal or some place, called me a fuckin fruit right on the floor. And I said to him: 'Three thousand years in show business and I always keep my nose clean. Besides I don't hafta take any shit off any uncircumcised cocksucker' ... Later he come to my dressing room and made an apology ... Turns out he is a big physician. And he was a lovely fellah, too ?
     
     "Buddha? A notorious metabolic junky ... Makes his own you dig. In India, where they got no sense of time, The Man is often a month late ... 'Now let me see, is that the second or the third monsoon? I got like a meet in Ketchupore about more or less.'
     
@@ -1294,11 +1294,11 @@ module.exports =
     
     '"I'll fix your wagon good, you unbelieving cocksucker. l'll close you up tight and dry as a junky's asshole. I'll by Allah dry up the Peninsula.'
     
-    '"It's a continent already �'
+    '"It's a continent already ?'
     
-    "Leave what Confucius say stand with Little Audrey and the shaggy dogs. Lao-Tze? They scratch him already ... And enough of these gooey saints with a look of pathic dismay as if they getting fucked up the ass and try not to pay it any mind. And why should we let some old brokendown ham tell us what wisdom is? 'Three thousand years in show business and I always keep my nose clean �'
+    "Leave what Confucius say stand with Little Audrey and the shaggy dogs. Lao-Tze? They scratch him already ... And enough of these gooey saints with a look of pathic dismay as if they getting fucked up the ass and try not to pay it any mind. And why should we let some old brokendown ham tell us what wisdom is? 'Three thousand years in show business and I always keep my nose clean ?'
     
-    "First, every Fact is incarcerate along with the male hustlers and those who desecrate the gods of commerce by playing ball in the streets, and some old white-haired fuck staggers out to give us the benefits of his ripe idiocy. Are we never to be free of this grey-beard loon lurking on every mountain top in Tibet, subject to drag himself out of a hut in the Amazon, waylay one in the Bowery? 'I've been expecting you, my son,' and he make with a silo full of corn. 'Life is a school where every pupil must learn a different lesson. And now I will unlock my Word Hoard �'
+    "First, every Fact is incarcerate along with the male hustlers and those who desecrate the gods of commerce by playing ball in the streets, and some old white-haired fuck staggers out to give us the benefits of his ripe idiocy. Are we never to be free of this grey-beard loon lurking on every mountain top in Tibet, subject to drag himself out of a hut in the Amazon, waylay one in the Bowery? 'I've been expecting you, my son,' and he make with a silo full of corn. 'Life is a school where every pupil must learn a different lesson. And now I will unlock my Word Hoard ?'
     
     '"I do fear it much.'
     
@@ -1310,12 +1310,12 @@ module.exports =
     
     "So I got an exclusive why don't I make with the live word?
     
-    The word cannot be expressed direct ... It can perhaps be indicated by mosaic of juxtaposition like articles abandoned in a hotel drawer, defined by negatives and absence �
+    The word cannot be expressed direct ... It can perhaps be indicated by mosaic of juxtaposition like articles abandoned in a hotel drawer, defined by negatives and absence ?
     
     "Think I'll have my stomach tucked ... I may be old, but I'm still desirable."
     
     (The Stomach Tuck is surgical intervention to remove stomach fat at the same time making a tuck in the abdominal wall, thus creating a flesh corset, which is, however, subject to break and spurt your horrible old guts across the floor ... The slim and shapely F.C. models are, of course, the most dangerous. In fact, some ex
-    treme models are known as O.N.S. - One Night Stands � in the industry.
+    treme models are known as O.N.S. - One Night Stands ? in the industry.
     
     Doctor "Doodles" Rindfest states bluntly: "Bed is the most dangerous place for an F.C. Man."
     
@@ -1326,9 +1326,9 @@ module.exports =
     
     Silver guard rail ... chasm a thousand feet down into the glittering sunlight. Little green plots of cabbage and lettuce. Brown youths with adzes spied by the old queen across a sewage canal.
     
-    "Oh dear, I wonder if they fertilize with human excrement � Maybe they'll do it right now."
+    "Oh dear, I wonder if they fertilize with human excrement ? Maybe they'll do it right now."
     
-    He flips out mother of pearl opera glasses � Aztec mosaic in the sun.
+    He flips out mother of pearl opera glasses ? Aztec mosaic in the sun.
     
     Long line of Greek lads march up with alabaster bowls of shit, empty into the limestone marl hole.
     
@@ -1342,25 +1342,25 @@ module.exports =
     
     "Well ... ... Yeah."
     
-    On a ruined straw mattress the Mexican pulled him up on all fours � Negro boy dance around them beating out the strokes � sun through a knot hole pink spot lights his cock.
+    On a ruined straw mattress the Mexican pulled him up on all fours ? Negro boy dance around them beating out the strokes ? sun through a knot hole pink spot lights his cock.
     
     A waste of raw pink shame to the pastel blue horizon where vast iron mesas crash into the shattered sky,
     
-    "It's all right." The God screams through you three thousand year rusty load �
+    "It's all right." The God screams through you three thousand year rusty load ?
     
-    Hail of crystal skulls shattered the greenhouse to slivers in the winter moon �
+    Hail of crystal skulls shattered the greenhouse to slivers in the winter moon ?
     
     The American woman has left a whiff of poison behind in the dank St. Louis garden party.
     
     Pool covered with green slime in a ruined French garden. Huge pathic frog rises slowly from the water on a mud platform playing the clavichord.
     
-    A Sollubi rushes into the bar and starts polishing The Saint's shoes with the oil on his nose ... The Saint kicks him petulantly in the mouth. The Sollubi screams, whirls around and shits on The Saint's pants. Then he dashes into the street. A pimp looks after him speculatively �
+    A Sollubi rushes into the bar and starts polishing The Saint's shoes with the oil on his nose ... The Saint kicks him petulantly in the mouth. The Sollubi screams, whirls around and shits on The Saint's pants. Then he dashes into the street. A pimp looks after him speculatively ?
     
-    The Saint calls the manager: "Jesus, AI, what kinda creep joint you running here? My brand new fishskin d�gag�es �"
+    The Saint calls the manager: "Jesus, AI, what kinda creep joint you running here? My brand new fishskin d?gag?es ?"
     
     "I'm sorry, Saint. He slipped by me."
     
-    (The Sollubi are an untouchable caste in Arabia noted for their abject vileness. De luxe cafes are equipped with Sollubi who rim the guests while they eat � holes in the seating benches being provided for this purpose. Citizens who want to be utterly humiliated and degraded � so many people do, nowadays, hoping to jump the gun � offer themselves up for passive homosexual intercourse to an encampment of Sollubis ... Nothing like it, they tell me ... In fact, the Sollubi are subject to become wealthy and arrogant and lose their native vileness. What is origin of untouchable? Perhaps a fallen priest caste. In fact, untouchables perform a priestly function in taking on themselves all human vileness.)
+    (The Sollubi are an untouchable caste in Arabia noted for their abject vileness. De luxe cafes are equipped with Sollubi who rim the guests while they eat ? holes in the seating benches being provided for this purpose. Citizens who want to be utterly humiliated and degraded ? so many people do, nowadays, hoping to jump the gun ? offer themselves up for passive homosexual intercourse to an encampment of Sollubis ... Nothing like it, they tell me ... In fact, the Sollubi are subject to become wealthy and arrogant and lose their native vileness. What is origin of untouchable? Perhaps a fallen priest caste. In fact, untouchables perform a priestly function in taking on themselves all human vileness.)
     
     
     A.J. strolls through the Market in black cape with a vulture perched on one shoulder. He stands by a table of agents.
@@ -1381,13 +1381,13 @@ module.exports =
     
     Another installment in the adventures of Clem Snide the Private Ass Hole: "So I walk in the joint, and this female hustler sit at the bar, and I think, 'Oh God you're poule de luxe already.' I mean it's like I see the gash before. So I don't pay her no mind at first, then I dig she is rubbing her legs together and working her feet up behind her head shoves it down to give herself a douche job with a gadget sticks out of her nose the way a body can't help but notice."
     
-    Iris � half Chinese and half Negro � addicted to dihydro-oxyheroin � takes a shot every fifteen minutes to which end she leaves droppers and needles sticking out all over her. The needles rust in her dry flesh, which, here and there, has grown completely over a joint to form a smooth green brown wen. On the table in front of her is a samovar of tea and a twenty-pound hamper of brown sugar. No one has ever seen her eat anything else. It is only just before a shot that she hears what anyone says or talks herself. Then she makes some flat, factual statement relative to her own person.
+    Iris ? half Chinese and half Negro ? addicted to dihydro-oxyheroin ? takes a shot every fifteen minutes to which end she leaves droppers and needles sticking out all over her. The needles rust in her dry flesh, which, here and there, has grown completely over a joint to form a smooth green brown wen. On the table in front of her is a samovar of tea and a twenty-pound hamper of brown sugar. No one has ever seen her eat anything else. It is only just before a shot that she hears what anyone says or talks herself. Then she makes some flat, factual statement relative to her own person.
     
     "My asshole is occluding."
     
     "My cunt got terrible green juices."
     
-    Iris is one of Benway's projects. "The human body can run on sugar alone, God damn it ... I am aware that certain of my learned colleagues, who are attempting to belittle my genius work, claim that I put vitamins and proteins into Iris's sugar clandestinely � I challenge these nameless assholes to crawl up out of their latrines and run a spot analysis on Iris's sugar and her tea. Iris is a wholesome American cunt. I deny categorically that she nourishes herself on semen. And let me take this opportunity to state that I am a reputable scientist, not a charlatan, a lunatic, or a pretended worker of miracles ... I never claimed that Iris could subsist exclusive on photosynthesis ... I did not say she could breathe in carbon dioxide and give off oxygen � I confess I have been tempted to experiment being of course restrained by my medical ethics ... In short, the vile slanders of my creeping opponents will inevitably fall back onto them and come to roost like a homing stool pigeon."
+    Iris is one of Benway's projects. "The human body can run on sugar alone, God damn it ... I am aware that certain of my learned colleagues, who are attempting to belittle my genius work, claim that I put vitamins and proteins into Iris's sugar clandestinely ? I challenge these nameless assholes to crawl up out of their latrines and run a spot analysis on Iris's sugar and her tea. Iris is a wholesome American cunt. I deny categorically that she nourishes herself on semen. And let me take this opportunity to state that I am a reputable scientist, not a charlatan, a lunatic, or a pretended worker of miracles ... I never claimed that Iris could subsist exclusive on photosynthesis ... I did not say she could breathe in carbon dioxide and give off oxygen ? I confess I have been tempted to experiment being of course restrained by my medical ethics ... In short, the vile slanders of my creeping opponents will inevitably fall back onto them and come to roost like a homing stool pigeon."
     ordinary men and women
     
     
@@ -1403,13 +1403,13 @@ module.exports =
     
     A rout of Mullahs and Muftis and Muezzins and Caids and Glaouis and Sheiks and Sultans and Holy Men and representatives of every conceivable Arab party make up the rank and file and attend the actual meetings from which the higher-ups prudently abstain. Though the delegates are carefully searched at the door, these gatherings invariably culminate in riots. Speakers are often doused with gasoline and burned to death, or some uncouth desert Sheik opens up on his opponents with a machine gun he had concealed in the belly of a pet sheep. Nationalist martyrs with grenades up the ass mingle with the assembled conferents and suddenly explode, occasioning heavy casualties ... And there was the occasion when President Ra threw the British Prime Minister to the ground and forcibly sodomized him, the spectacle being televised to the entire Arab World. Wild yips of joy were heard in Stockholm. Interzone has an ordinance forbidding a meeting of Islam Inc. within five miles of the city limits.
     
-    A.J. � he is actually of obscure Near East extraction � had at one time come on like an English gentleman. His English accent waned with the British Empire, and after World War II he became an American by Act of Congress. A.J. is an agent like me, but for whom or for what no one has ever been able to discover. It is rumored that he represents a trust of giant insects from another galaxy ... I believe he is on the Factualist side (which I also represent); of course he could be a Liquefaction Agent (the Liquefaction program involves the eventual merging of everyone into One Man by a process of protoplasmic absorption). You can never be sure of anyone in the industry.
+    A.J. ? he is actually of obscure Near East extraction ? had at one time come on like an English gentleman. His English accent waned with the British Empire, and after World War II he became an American by Act of Congress. A.J. is an agent like me, but for whom or for what no one has ever been able to discover. It is rumored that he represents a trust of giant insects from another galaxy ... I believe he is on the Factualist side (which I also represent); of course he could be a Liquefaction Agent (the Liquefaction program involves the eventual merging of everyone into One Man by a process of protoplasmic absorption). You can never be sure of anyone in the industry.
     
-    A.J.'s cover story? An international playboy and harmless practical joker. It was A.J. who put the piranha fish in Lady SuttonSmith's swimming pool, and dosed the punch with a mixture of yage, hashish and yohimbine during a Fourth of July reception at the U.S. Embassy, precipitating an orgy. Ten prominent citizens � American, of course � subsequently died of shame. Dying of shame is an accomplishment peculiar to Kwakiutl Indians and Americans � others simply say "Zut alors" or "Son casas de la vida" or "Allah fucked me, the All Powerful..."
+    A.J.'s cover story? An international playboy and harmless practical joker. It was A.J. who put the piranha fish in Lady SuttonSmith's swimming pool, and dosed the punch with a mixture of yage, hashish and yohimbine during a Fourth of July reception at the U.S. Embassy, precipitating an orgy. Ten prominent citizens ? American, of course ? subsequently died of shame. Dying of shame is an accomplishment peculiar to Kwakiutl Indians and Americans ? others simply say "Zut alors" or "Son casas de la vida" or "Allah fucked me, the All Powerful..."
     
     And when the Cincinnati Anti-Fluoride Society met to toast their victory in pure spring water, all their teeth dropped out on the spot. "And I say unto you, brothers and sisters of the Anti-Fluoride movement, we have this day struck such a blow for purity as will never call a retreat ... Out, I say, with the filthy foreign fluorides! We will sweep this fair land sweet and clean as a young boy's tensed flank ... I will now lead you in our theme song, 'The Old Oaken Bucket."'
     
-    A well head is lighted by fluorescent lights that play over it in hideous jukebox colors. The Anti-Fluorides file past the well singing as each dips up a drink from the oaken bucket �
+    A well head is lighted by fluorescent lights that play over it in hideous jukebox colors. The Anti-Fluorides file past the well singing as each dips up a drink from the oaken bucket ?
     
     The old oaken bucket, the gold oaken bucket
     The glublthulunnubbeth ...
@@ -1440,7 +1440,7 @@ module.exports =
     The After-Birth Supreme de Boeuf cooked in drained crank case oil,
     served with a piquant sauce of rotten egg yolks and crushed bed bugs
     The Limburger Cheese sugar cured in diabetic urine,
-    doused in Canned Heat Flamboyant �
+    doused in Canned Heat Flamboyant ?
     
     So the clients are quietly dying of botulism ... Then A.J. returns with an entourage of Arab refugees from the Middle East. He takes one mouthful and screams:
     
@@ -1459,7 +1459,7 @@ module.exports =
     
     "Enough to turn a body to stone."
     
-    Paul spoke wiser than he knew � being a really evil old shit when he talk about men lying with men doing that which is inconvenient. Inconvenient is the word. So who want to trip over a cock on the way to a cunt, and when a citizen get the yen to hump a gash, some evil stranger rush in and do that which is inconvenient to his ass.
+    Paul spoke wiser than he knew ? being a really evil old shit when he talk about men lying with men doing that which is inconvenient. Inconvenient is the word. So who want to trip over a cock on the way to a cunt, and when a citizen get the yen to hump a gash, some evil stranger rush in and do that which is inconvenient to his ass.
     
     A.J. rushes across San Marco slashing at pigeons with a cutlass: "Bastards ! Sons of bitches!" he screams ... He staggers aboard his barge, a monstrous construction in gilt and pink and blue with sails of purple velvet. He is dressed in a preposterous naval uniform covered with braid and ribbons and medals, dirty and torn, the coat buttoned in the wrong holes ... A.J. walks to a huge reproduction of a Greek urn topped by a gold statue of a boy with an erection. He twists the boy's balls and a jet of champagne spurts into his mouth. He wipes his mouth and looks around.
     
@@ -1477,7 +1477,7 @@ module.exports =
     
     "Gardenia? Sandalwood?"
     
-    "Naw. Ambrosia." �
+    "Naw. Ambrosia." ?
     
     Mr. Hyslop presses another button and a thick cloud of perfume settles over the barge.
     
@@ -1498,7 +1498,7 @@ module.exports =
     Fadeout to Mambo music.
     
     
-    The inauguration of Escuela Amigo, a school for delinquent boys of Latin American origin, endowed by A.J. � faculty, boys, and press attending. A.J. staggers out onto a platform draped with American flags. "In the immortal words of Father Flanagan there is no such thing as a bad boy ... Where's the statuary, God damn it?"
+    The inauguration of Escuela Amigo, a school for delinquent boys of Latin American origin, endowed by A.J. ? faculty, boys, and press attending. A.J. staggers out onto a platform draped with American flags. "In the immortal words of Father Flanagan there is no such thing as a bad boy ... Where's the statuary, God damn it?"
     
     TECHNICIAN: "You want it now?"
     
@@ -1516,7 +1516,7 @@ module.exports =
     
     Chorus of whistles from the boys.
     
-    A monumental creation in shiny pink stone stands revealed as the dust settles. A naked boy is bending over a sleeping comrade with evident intention to waken him with a flute. One hand is holding the flute, the other reaching for a piece of cloth draped over the sleeper's middle. The cloth bulges suggestively. Both boys wear a flower behind the ear, identical expressions, dreamy and brutal, depraved and innocent. This creation tops a limestone pyramid on which is inscribed in letters of porcelain mosaic � pink and blue and gold-the school motto: " With it and for it."
+    A monumental creation in shiny pink stone stands revealed as the dust settles. A naked boy is bending over a sleeping comrade with evident intention to waken him with a flute. One hand is holding the flute, the other reaching for a piece of cloth draped over the sleeper's middle. The cloth bulges suggestively. Both boys wear a flower behind the ear, identical expressions, dreamy and brutal, depraved and innocent. This creation tops a limestone pyramid on which is inscribed in letters of porcelain mosaic ? pink and blue and gold-the school motto: " With it and for it."
     
     A.J. lurches forward and breaks a champagne bottle across the boy's taut buttocks.
     
@@ -1555,7 +1555,7 @@ module.exports =
     
     A.J.: "Sorry, lady. Discipline you know."
     
-    In a frenzy he whips the baboon from one end of the bar to the other. The baboon, screaming and snarling and shitting with terror, climbs over the clients, runs up and down on top of the bar, swings from drapes and chandeliers �
+    In a frenzy he whips the baboon from one end of the bar to the other. The baboon, screaming and snarling and shitting with terror, climbs over the clients, runs up and down on top of the bar, swings from drapes and chandeliers ?
     
     A.J. : "You'll straighten up and shit right or you won't be inna condition to shit one way or the other."
     
@@ -1564,17 +1564,17 @@ module.exports =
     A.J.: "Ingrates! Every one of them ingrates! Take it from an old queen."
     
     
-    Of course no one believes this cover story. A.J. claims to be an "independent," which is to say: "Mind your own business." There are no independents any more ... The Zone swarms with every variety of dupe but there are no neutrals there. A neutral at A.J.'s level is of course unthinkable �
+    Of course no one believes this cover story. A.J. claims to be an "independent," which is to say: "Mind your own business." There are no independents any more ... The Zone swarms with every variety of dupe but there are no neutrals there. A neutral at A.J.'s level is of course unthinkable ?
     
-    Hassan is a notorious Liquefactionist and suspect to be a secret Sender � "Shucks, boys," he says with a disarming grin, "I'm just a blooming old cancer and I gotta proliferate." He picks up a Texas accent associating with Dry Hole Dutton, the Dallas wildcatter, and he wears cowboy boots and ten-gallon hat at all times indoors and out ... His eyes are invisible behind black glasses, his face smooth and blank as wax, above a well-cut suit made entirely from immature high-denomination bank notes. (Bank notes are in fact currency, but they must mature before they can be negotiated ... Bank notes run a s high as one million clams a note.)
+    Hassan is a notorious Liquefactionist and suspect to be a secret Sender ? "Shucks, boys," he says with a disarming grin, "I'm just a blooming old cancer and I gotta proliferate." He picks up a Texas accent associating with Dry Hole Dutton, the Dallas wildcatter, and he wears cowboy boots and ten-gallon hat at all times indoors and out ... His eyes are invisible behind black glasses, his face smooth and blank as wax, above a well-cut suit made entirely from immature high-denomination bank notes. (Bank notes are in fact currency, but they must mature before they can be negotiated ... Bank notes run a s high as one million clams a note.)
     
-    "They keep hatching out all over me," he says shyly ... "It's like, gee, I don't know how to say it. It's like I was a Mummy scorpion carrying those little baby notes around on my warm body and feeling them grow ... Gosh I hope I don't bore you with all this." Salvador, known as Sally to his friends � he always keeps a few "friends" around and pays them by the hour � got cured in the slunk business in World War II. (To get cured means to get rich. Expression used by Texas oil men.) The Pure Food and Drug Department have his picture in their files, a heavy-faced man with an embalmed look as if paraffin had been injected under the skin, which is smooth, shiny and poreless. One eye is dead grey color, round as a marble, with flaws and opaque spots. The other is black and shiny, an old undreaming insect eye. His eyes are normally invisible behind black glasses. He looks sinister and enigmatic � gestures and mannerisms are not yet comprehensible � like the secret police of a larval state.
+    "They keep hatching out all over me," he says shyly ... "It's like, gee, I don't know how to say it. It's like I was a Mummy scorpion carrying those little baby notes around on my warm body and feeling them grow ... Gosh I hope I don't bore you with all this." Salvador, known as Sally to his friends ? he always keeps a few "friends" around and pays them by the hour ? got cured in the slunk business in World War II. (To get cured means to get rich. Expression used by Texas oil men.) The Pure Food and Drug Department have his picture in their files, a heavy-faced man with an embalmed look as if paraffin had been injected under the skin, which is smooth, shiny and poreless. One eye is dead grey color, round as a marble, with flaws and opaque spots. The other is black and shiny, an old undreaming insect eye. His eyes are normally invisible behind black glasses. He looks sinister and enigmatic ? gestures and mannerisms are not yet comprehensible ? like the secret police of a larval state.
      
     In moments of excitement Salvador is apt to lapse into broken English. His accent at such moments suggests an Italian origin. He reads and speaks Etruscan.
     
-    A squad of accountant investigators have made a life work of Sal's international dossier ... His operations extend through the world in an inextricable, shifting web of subsidiaries, front companies, and aliases. He has held 23 passports and been deported 49 times � deportation proceedings pending in Cuba, Pakistan, Hong Kong and Yokohama.
+    A squad of accountant investigators have made a life work of Sal's international dossier ... His operations extend through the world in an inextricable, shifting web of subsidiaries, front companies, and aliases. He has held 23 passports and been deported 49 times ? deportation proceedings pending in Cuba, Pakistan, Hong Kong and Yokohama.
     
-    Salvador Hassan O'Leary, alias The Shoe Store Kid, alias Wrong Way Marv, alias After Birth Leary, alias Slunky Pete, alias Placenta Juan, alias K.Y. Ahmed, alias El Chinche, alias El Culito, etc., etc. for fifteen solid pages of dossier, first tangled with the law in NYC where he was traveling with a character known to the Brooklyn police as Blubber Wilson, who hustled his goof ball money shaking down fetishists in shoe stores. Hassan was charged with third degree extortion and conspiracy to impersonate a police officer. He had learnt the shake man's Number One rule: D. T. Ditch Tin � which corresponds to the pilot's K.F.S. � Keep Flying Speed ... As The Vigilante puts it: "If you get a rumble, kid, ditch your piece of tin if you have to swallow it." So they didn't bust him with a queer badge. Hassan testified against Wilson, who drew Pen lndef (longest term possible under New York law for a misdemeanor conviction. Nominally an indefinite sentence, it means three years in Riker's Island). Hassan's case was nolle prossed. "I'd have drawn a nickel," Hassan said, "if I hadn't met a decent cop." Hassan met a decent cop every time he took a fall. His dossier contains three pages of monikers indicating his proclivity for cooperating with the law, "playing ball" the cops call it. Others call it something else: Abe the Fuzz Lover, Pinky Marv, The Crooning Hebe, Ali the Stool, Wrongo Sal, The Wailing Spic, The Sheeny Soprano, The Bronx Opera House, The Copper's Djinn, The Answering Service, The Squeaking Syrian, The Cooing Cocksucker, The Musical Fruit, The Wrong Ass Hole, The Fairy Fink, Leary the Nark, The Lilting Leprechaun ... Grassy Gert.
+    Salvador Hassan O'Leary, alias The Shoe Store Kid, alias Wrong Way Marv, alias After Birth Leary, alias Slunky Pete, alias Placenta Juan, alias K.Y. Ahmed, alias El Chinche, alias El Culito, etc., etc. for fifteen solid pages of dossier, first tangled with the law in NYC where he was traveling with a character known to the Brooklyn police as Blubber Wilson, who hustled his goof ball money shaking down fetishists in shoe stores. Hassan was charged with third degree extortion and conspiracy to impersonate a police officer. He had learnt the shake man's Number One rule: D. T. Ditch Tin ? which corresponds to the pilot's K.F.S. ? Keep Flying Speed ... As The Vigilante puts it: "If you get a rumble, kid, ditch your piece of tin if you have to swallow it." So they didn't bust him with a queer badge. Hassan testified against Wilson, who drew Pen lndef (longest term possible under New York law for a misdemeanor conviction. Nominally an indefinite sentence, it means three years in Riker's Island). Hassan's case was nolle prossed. "I'd have drawn a nickel," Hassan said, "if I hadn't met a decent cop." Hassan met a decent cop every time he took a fall. His dossier contains three pages of monikers indicating his proclivity for cooperating with the law, "playing ball" the cops call it. Others call it something else: Abe the Fuzz Lover, Pinky Marv, The Crooning Hebe, Ali the Stool, Wrongo Sal, The Wailing Spic, The Sheeny Soprano, The Bronx Opera House, The Copper's Djinn, The Answering Service, The Squeaking Syrian, The Cooing Cocksucker, The Musical Fruit, The Wrong Ass Hole, The Fairy Fink, Leary the Nark, The Lilting Leprechaun ... Grassy Gert.
     
     He opened a sex shop in Yokohama, pushed junk in Beirut, pimped in Panama. During World War II he shifted into high, took over a dairy in Holland and cut the butter with used axle grease, cornered the K.Y. market in North Africa, and finally hit the jackpot with slunks. He prospered and proliferated, flooding the world with cut medicines and cheap counterfeit goods of every variety. Adulterated shark repellent, cut antibiotics, condemned parachutes, stale antivenin, inactive serums and vaccines, leaking lifeboats.
     
@@ -1597,9 +1597,9 @@ module.exports =
     
     "Thirty years in show business and I never handle such a routine like this. I gotta dispossess a bidonville, give myself a bang of H, piss on the Black Stone, make with the Prayer Call whilst dressed in my hog suit, cancel Lend-Lease and get fucked up the ass simultaneous ... What am I an octopus already?" Clem complains.
     
-    They are conspiring to kidnap the Black Stone with a helicopter and substitute a hog pen, the hogs trained to give the Bronx cheer when the pilgrims show. "We try to train them squealing bastards to sing: 'Three cheers for the Red White and Blue,' but it can't be done �"
+    They are conspiring to kidnap the Black Stone with a helicopter and substitute a hog pen, the hogs trained to give the Bronx cheer when the pilgrims show. "We try to train them squealing bastards to sing: 'Three cheers for the Red White and Blue,' but it can't be done ?"
     
-    "We connect for that wheat with Ali Wong Chapultepec in Panama. He tells us it is a high grade of shit this Finnish skipper die inna local jump joint and leave this cargo to the madam � 'She was like a mother to me,' he says and those were his last words ... So we buy it in good faith off the old gash. Laid ten pieces of H on her."
+    "We connect for that wheat with Ali Wong Chapultepec in Panama. He tells us it is a high grade of shit this Finnish skipper die inna local jump joint and leave this cargo to the madam ? 'She was like a mother to me,' he says and those were his last words ... So we buy it in good faith off the old gash. Laid ten pieces of H on her."
     
     "Good H too. Good Aleppo H."
     
@@ -1635,7 +1635,7 @@ module.exports =
     
     (Ergot is a fungus disease grows on bad wheat. During the Middle Ages Europe was periodically decimated by outbreaks of ergotism, which was called St. Anthony's Fire. Gangrene frequently supervene.., the legs turn black and drop off.)
     
-    They unload a shipment of condemned parachutes on the Ecuadoran Air Force. Maneuvers: boys plummet streaming 'chutes like broken condoms, splash young blood over potbellied generals ... shattering wake of sound as Clem and Jody disappear over the Andes in jet getaway �
+    They unload a shipment of condemned parachutes on the Ecuadoran Air Force. Maneuvers: boys plummet streaming 'chutes like broken condoms, splash young blood over potbellied generals ... shattering wake of sound as Clem and Jody disappear over the Andes in jet getaway ?
     
     
     The exact objectives of Islam Inc. are obscure. Needless to say everyone involved has a different angle, and they all intend to cross each other up somewhere along the line.
@@ -1659,7 +1659,7 @@ module.exports =
     One push and down it sink
     Hey, Maw, get ready my veil.
     
-    "Well, these citizens have engaged the services of a Brooklyn Jew who passes himself off as the second coming of Mohammed ... In fact Doctor Benway delivered him by Caesarean section from a Holy Man in Mecca �
+    "Well, these citizens have engaged the services of a Brooklyn Jew who passes himself off as the second coming of Mohammed ... In fact Doctor Benway delivered him by Caesarean section from a Holy Man in Mecca ?
     
     "If Ahmed won't come out ... We'll go in and get him."
     
@@ -1672,9 +1672,9 @@ module.exports =
     
     Now a word about the parties of Interzone ...
     
-    It will be immediately clear that the Liquefaction Party is, except for one man, entirely composed of dupes, it not being clear until the final absorption who is whose dupe ... The Liquefactionists are much given to every form of perversion, especially sadomasochistic practices �
+    It will be immediately clear that the Liquefaction Party is, except for one man, entirely composed of dupes, it not being clear until the final absorption who is whose dupe ... The Liquefactionists are much given to every form of perversion, especially sadomasochistic practices ?
     
-    Liquefactionists in general know what the score is. The Senders, on the other hand, are notorious for their ignorance of the nature and terminal state of sending, for barbarous and self-righteous manners, and for rabid fear of any fact. It was only the intervention of the Factualists that prevented the Senders from putting Einstein in an institution and destroying his theory. It may be said that only a very few Senders know what they are doing and these top Senders are the most dangerous and evil men in the world �
+    Liquefactionists in general know what the score is. The Senders, on the other hand, are notorious for their ignorance of the nature and terminal state of sending, for barbarous and self-righteous manners, and for rabid fear of any fact. It was only the intervention of the Factualists that prevented the Senders from putting Einstein in an institution and destroying his theory. It may be said that only a very few Senders know what they are doing and these top Senders are the most dangerous and evil men in the world ?
     
     Techniques of Sending were crude at first. Fadeout to the National Electronic Conference in Chicago. The Conferents are putting on their overcoats ...The speaker tallks in a flat shopgirl voice:
     
@@ -1686,10 +1686,10 @@ module.exports =
     
     Dust settles through the windless air of a vast empty hall-smell of hot iron and steam; a radiator sings in the distance ... The Speaker shuffles his notes and blows dust off them ...
     
-    "The biocontrol apparatus is prototype of one-way telepathic control. The subject could be rendered susceptible to the transmitter by drugs or other processing without installing any apparatus. Ultimately the Senders will use telepathic transmitting exclusively60 ... Ever dig the Mayan codices? I figure it like this: the priests-about one percent of population � made with one-way telepathic broadcasts instructing the workers what to feel and when ... A telepathic sender has to send all the time. He can never receive, because if he receives that means someone else has feelings of his own could louse up his continuity. The Sender has to send all the time, but he can't ever recharge himself by contact. Sooner or later he's got no feelings to send. You can't have feelings alone. Not alone like the Sender is alone � and you dig there can only be one Sender at one place-time ... Finally the screen goes dead ... The Sender has turned into a huge centipede ... So the workers come in on the beam and burn the centipede and elect a new Sender by consensus of the general will ... The Mayans were limited by isolation ... Now one Sender could control the planet ... You see control can never be a means to any practical end ... It can never be a means to anything but more control ... Like junk �"
+    "The biocontrol apparatus is prototype of one-way telepathic control. The subject could be rendered susceptible to the transmitter by drugs or other processing without installing any apparatus. Ultimately the Senders will use telepathic transmitting exclusively60 ... Ever dig the Mayan codices? I figure it like this: the priests-about one percent of population ? made with one-way telepathic broadcasts instructing the workers what to feel and when ... A telepathic sender has to send all the time. He can never receive, because if he receives that means someone else has feelings of his own could louse up his continuity. The Sender has to send all the time, but he can't ever recharge himself by contact. Sooner or later he's got no feelings to send. You can't have feelings alone. Not alone like the Sender is alone ? and you dig there can only be one Sender at one place-time ... Finally the screen goes dead ... The Sender has turned into a huge centipede ... So the workers come in on the beam and burn the centipede and elect a new Sender by consensus of the general will ... The Mayans were limited by isolation ... Now one Sender could control the planet ... You see control can never be a means to any practical end ... It can never be a means to anything but more control ... Like junk ?"
     
     
-    The Divisionists occupy a midway position, could in fact be termed moderates ... They are called Divisionists because they literally divide. They cut off tiny bits of their flesh and grow exact replicas of themselves in embryo jelly. It seems probable, unless the process of division is halted, that eventually there will be only one replica of one sex on the planet: that is, one person in the world with millions of separate bodies ... Are these bodies actually independent, and could they in time develop varied characteristics? I doubt it. Replicas must periodically recharge with the Mother Cell. This is an article of faith with the Divisionists, who live in fear of a replica revolution ... Some Divisionists think that the process can be halted short of the eventual monopoly of one replica. They say: "Just let me plant a few more replicas all over so I won't be lonely when I travel ... And we must strictly control the division of Undesirables ..." Every replica but your own is eventually an "Undesirable." Of course if someone starts inundating an area with Identical Replicas, everyone knows what is going on. The other citizens are subject to declare a "Schluppit" (wholesale massacre of all identifiable replicas). To avoid extermination of their replicas, citizens dye, distort, and alter them with face and� body molds. Only the most abandoned and shameless characters venture to manufacture I.R.s � Identical Replicas.
+    The Divisionists occupy a midway position, could in fact be termed moderates ... They are called Divisionists because they literally divide. They cut off tiny bits of their flesh and grow exact replicas of themselves in embryo jelly. It seems probable, unless the process of division is halted, that eventually there will be only one replica of one sex on the planet: that is, one person in the world with millions of separate bodies ... Are these bodies actually independent, and could they in time develop varied characteristics? I doubt it. Replicas must periodically recharge with the Mother Cell. This is an article of faith with the Divisionists, who live in fear of a replica revolution ... Some Divisionists think that the process can be halted short of the eventual monopoly of one replica. They say: "Just let me plant a few more replicas all over so I won't be lonely when I travel ... And we must strictly control the division of Undesirables ..." Every replica but your own is eventually an "Undesirable." Of course if someone starts inundating an area with Identical Replicas, everyone knows what is going on. The other citizens are subject to declare a "Schluppit" (wholesale massacre of all identifiable replicas). To avoid extermination of their replicas, citizens dye, distort, and alter them with face and? body molds. Only the most abandoned and shameless characters venture to manufacture I.R.s ? Identical Replicas.
     
     A cretinous albino Caid, product of a long line of recessive genes (tiny toothless mouth lined with black hairs, body of a huge crab, claws instead of arms, eyes projected on stalks), accumulated 20,000 I.R.s.
     
@@ -1697,26 +1697,26 @@ module.exports =
     
     "I don't have to skulk around like a nameless asshole growing replicas in my cesspool and sneaking them out disguised as plumbers and delivery men ... My replicas don't have their dazzling beauty marred by plastic surgery and barbarous dye and bleach processes. They stand forth naked in the sun for all to see, in their incandescent loveliness of body, face and soul. I have made them in my image and enjoined them to increase and multiply geometric for they shall inherit the earth."
     
-    A professional witch was called in to make Sheik Arakmid's replica cultures forever sterile ... As the witch was preparing to loose a blast of anti-orgones, Benway told him: "Don't knock yourself out. Friedrich's ataxia will clean out that replica nest. I studied neurology under Professor Fingerbottom in Vienna � and he knew every nerve in your body. Magnificent old thing � Came to a sticky end ... His falling piles blew out the Duc de Ventre's Hispano Suiza and wrapped around the rear wheel. He was completely gutted, leaving an empty shell sitting there on the giraffe skin upholstery ... Even the eyes and brain went, with a horrible schlupping sound. The Duc de Ventre says he will carry that ghastly schlup to his mausoleum."
+    A professional witch was called in to make Sheik Arakmid's replica cultures forever sterile ... As the witch was preparing to loose a blast of anti-orgones, Benway told him: "Don't knock yourself out. Friedrich's ataxia will clean out that replica nest. I studied neurology under Professor Fingerbottom in Vienna ? and he knew every nerve in your body. Magnificent old thing ? Came to a sticky end ... His falling piles blew out the Duc de Ventre's Hispano Suiza and wrapped around the rear wheel. He was completely gutted, leaving an empty shell sitting there on the giraffe skin upholstery ... Even the eyes and brain went, with a horrible schlupping sound. The Duc de Ventre says he will carry that ghastly schlup to his mausoleum."
     
     Since there is no sure way to detect a disguised replica (though every Divisionist has some method he considers infallible) the Divisionists are hysterically paranoid. If some citizen ventures to express a liberal opinion, another citizen invariably snarls: "What are you? Some stinking nigger's bleached-out replica?"
     
-    The casualties in barroom fights are staggering. In fact the fear of Negro replicas � which may be blond and blue-eyed � has depopulated whole regions. The Divisionists are all latent or overt homosexuals. Evil old queens tell the young boys: "If you go with a woman your replicas won't grow." And citizens are forever putting the hex on someone else's replica cultures. Cries of: "Hex my culture will you, Biddy Blair!"-followed by sound effects of mayhem � continually ring through the quarter ... The Divisionists are much given to the practice of black magic in general, and they have innumerable formulas of varying efficacy for destroying the Mother Cell, also known as the Protoplasm Daddy, by torturing or killing a captured replica ... The authorities have finally given up the attempt to control, among the Divisionists, the crimes of murder and unlicensed production of replicas. But they do stage pre-election raids and destroy vast replica cultures in the mountainous regions of the Zone where replica moonshiners hole up.
+    The casualties in barroom fights are staggering. In fact the fear of Negro replicas ? which may be blond and blue-eyed ? has depopulated whole regions. The Divisionists are all latent or overt homosexuals. Evil old queens tell the young boys: "If you go with a woman your replicas won't grow." And citizens are forever putting the hex on someone else's replica cultures. Cries of: "Hex my culture will you, Biddy Blair!"-followed by sound effects of mayhem ? continually ring through the quarter ... The Divisionists are much given to the practice of black magic in general, and they have innumerable formulas of varying efficacy for destroying the Mother Cell, also known as the Protoplasm Daddy, by torturing or killing a captured replica ... The authorities have finally given up the attempt to control, among the Divisionists, the crimes of murder and unlicensed production of replicas. But they do stage pre-election raids and destroy vast replica cultures in the mountainous regions of the Zone where replica moonshiners hole up.
     
-    Sex with a replica is strictly forbidden and almost universally practiced. There are queer bars where shameless citizens openly consort with their replicas. House detectives stick their heads into hotel rooms saying: "Have you got a replica in here?" Bars subject to be inundated by low class replica lovers put up signs in ditto marks � � �'s will not be served here �
+    Sex with a replica is strictly forbidden and almost universally practiced. There are queer bars where shameless citizens openly consort with their replicas. House detectives stick their heads into hotel rooms saying: "Have you got a replica in here?" Bars subject to be inundated by low class replica lovers put up signs in ditto marks ? ? ?'s will not be served here ?
     
     It may be said that the average Divisionist lives in a continual crisis of fear and rage, unable to achieve either the self-righteous complacency of the Senders or the relaxed depravity of the Liquefactionists ... However the parties are not in practice separate but blend in all combinations.
     
     
     The Factualists are Anti-Liquefactionist, Anti-Divisionist, and above all Anti-Sender.
     
-    Bulletin of the Coordinate Factualist on the subject of replicas: "We must reject the facile solution of flooding the planet with 'desirable replicas.' It is highly doubtful if there are any desirable replicas, such creatures constituting an attempt to circumvent process and change. Even the most intelligent and genetically perfect replicas would in all probability constitute an unspeakable menace to life on this planet �"
+    Bulletin of the Coordinate Factualist on the subject of replicas: "We must reject the facile solution of flooding the planet with 'desirable replicas.' It is highly doubtful if there are any desirable replicas, such creatures constituting an attempt to circumvent process and change. Even the most intelligent and genetically perfect replicas would in all probability constitute an unspeakable menace to life on this planet ?"
     
-    T.B. � Tentative Bulletin-Liquefaction: "We must not reject or deny our protoplasmic core, striving at all times to maintain a maximum of flexibility without falling into the morass of liquefaction �"
+    T.B. ? Tentative Bulletin-Liquefaction: "We must not reject or deny our protoplasmic core, striving at all times to maintain a maximum of flexibility without falling into the morass of liquefaction ?"
     
-    Tentative and Incomplete Bulletin: "Emphatically we do not oppose telepathic research. In fact, telepathy properly used and understood could be the ultimate defense against any form of organized coercion or tyranny on the part of pressure groups or individual control addicts. We oppose, as we oppose atomic war, the use of such knowledge to control, coerce, debase, exploit or annihilate the individuality of another living creature. Telepathy is not, by its nature, a one-way process. To attempt to set up a one-way telepathic broadcast must be regarded as an unqualified evil �"
+    Tentative and Incomplete Bulletin: "Emphatically we do not oppose telepathic research. In fact, telepathy properly used and understood could be the ultimate defense against any form of organized coercion or tyranny on the part of pressure groups or individual control addicts. We oppose, as we oppose atomic war, the use of such knowledge to control, coerce, debase, exploit or annihilate the individuality of another living creature. Telepathy is not, by its nature, a one-way process. To attempt to set up a one-way telepathic broadcast must be regarded as an unqualified evil ?"
     
-    D.B. � Definitive Bulletin: "The Sender will be defined by negatives. A low pressure area, a sucking emptiness. He will be portentously anonymous, faceless, colorless. He will � probably � be born with smooth disks of skin instead of eyes. He always knows where he is going, like a virus knows. He doesn't need eyes."
+    D.B. ? Definitive Bulletin: "The Sender will be defined by negatives. A low pressure area, a sucking emptiness. He will be portentously anonymous, faceless, colorless. He will ? probably ? be born with smooth disks of skin instead of eyes. He always knows where he is going, like a virus knows. He doesn't need eyes."
     
     "Couldn't there be more than one Sender?"
     
@@ -1732,7 +1732,7 @@ module.exports =
     
     Aracknid is a worthless chauffeur, barely able to drive. On one occasion he ran down a pregnant woman in from the mountains with a load of charcoal on her back, and she miscarried a bloody, dead baby in the street, and Keif got out and sat on the curb stirring the blood with a stick while the police questioned Aracknid and finally arrested the woman for a violation of the Sanitary Code. Aracknid is a grimly unattractive young man with a long face of a strange, slate-blue color. He has a big nose and great yellow teeth like a horse. Anybody can find an attractive chauffeur, but only Andrew Keif could have found Aracknid; Keif the brilliant, decadent young novelist who lives in a remodeled pissoir in the red-light district of the Native Quarter.
     
-    The Zone is a single, vast building. The rooms are made of a plastic cement that bulges to accommodate people, but when too many crowd into one room there is a soft plop and someone squeezes through the wall right into the next house � the next bed that is, since the rooms are mostly bed where the business of the Zone is transacted. A hum of sex and commerce shakes the Zone like a vast hive:
+    The Zone is a single, vast building. The rooms are made of a plastic cement that bulges to accommodate people, but when too many crowd into one room there is a soft plop and someone squeezes through the wall right into the next house ? the next bed that is, since the rooms are mostly bed where the business of the Zone is transacted. A hum of sex and commerce shakes the Zone like a vast hive:
     
     "Two thirds of one percent. I won't budge from that figure; not even for my snookums."
     
@@ -1790,7 +1790,7 @@ module.exports =
     
     The Expeditor had not yet been paid, and Marvie was faced by the prospect of stalling him for eleven months until the check cleared. The Expeditor was said to have been born on the Ferry between the Zone and the Island. His profession was to expedite the delivery of merchandise. No one knew for sure whether his services were of any use or not, and to mention his name always precipitated an argument. Cases were cited to prove his miraculous efficiency and utter worthlessness.
     
-    The Island was a British Military and Naval station directly opposite the Zone. England holds the Island on yearly rent-free lease, and every year the Lease and Permit of Residence is formally renewed. The entire population turns out-attendance is compulsory � and gathers at the municipal dump. The President of the Island is required by custom to crawl across the garbage on his stomach and deliver the Permit of Residence and Renewal of the Lease, signed by every citizen of the Island, to The Resident Governor who stands resplendent in dress uniform. The Governor takes the permit and shoves it into his coat pocket: "Well," he says with a tight smile, "so you've decided to let us stay another year have you? Very good of you. And everyone is happy about it? ... Is there anyone who isn't happy about it?" Soldiers in jeeps sweep mounted machine guns back and forth across the crowd with a slow, searching movement.
+    The Island was a British Military and Naval station directly opposite the Zone. England holds the Island on yearly rent-free lease, and every year the Lease and Permit of Residence is formally renewed. The entire population turns out-attendance is compulsory ? and gathers at the municipal dump. The President of the Island is required by custom to crawl across the garbage on his stomach and deliver the Permit of Residence and Renewal of the Lease, signed by every citizen of the Island, to The Resident Governor who stands resplendent in dress uniform. The Governor takes the permit and shoves it into his coat pocket: "Well," he says with a tight smile, "so you've decided to let us stay another year have you? Very good of you. And everyone is happy about it? ... Is there anyone who isn't happy about it?" Soldiers in jeeps sweep mounted machine guns back and forth across the crowd with a slow, searching movement.
     
     "Everybody happy. Well that's fine." He turns jovially to the prostrate President. "I'll keep your papers in case I get caught short. Haw haw haw." His loud, metallic laugh rings out across the dump, and the crowd laughs with him under the searching guns.
     
@@ -1798,7 +1798,7 @@ module.exports =
     
     The post of President is always forced on some particularly noxious and unpopular citizen. To be elected President is the greatest misfortune and disgrace that can befall an Islander. The humiliations and ignominy are such that few Presidents live out their full term of office, usually dying of a broken spirit after a year or two. The Expeditor had once been President and served the full five years of his term. Subsequently he changed his name and underwent plastic surgery, to blot out, as far as possible, the memory of his disgrace.
     
-    "Yes of course ... we'll pay you," Marvie was saying to the Expeditor. "But take it easy. It may be a little while yet �"
+    "Yes of course ... we'll pay you," Marvie was saying to the Expeditor. "But take it easy. It may be a little while yet ?"
     
     "Take it easy? A little while!"
     
@@ -1829,25 +1829,25 @@ module.exports =
     Hand in hand they skip away into the mist that covers the Zone in the winter months like a cold Turkish Bath.
     have you seen pantopon rose?
     
-    "Have you seen Pantopon Rose?" said the old junky ... "Time to cosq,"62 put on a black overcoat and made the square ... Down Skid Row to Market Street museum shows all kinds masturbation and self-abuse. Young boys need it special � The gangster in concrete rolls down the river channel ... They cowboyed him in the steam room ... Is this Cherry Ass Gio the Towel Boy or Mother Gillig, Old Auntie of Westminster Place?? Only dead fingers talk in Braille ...
+    "Have you seen Pantopon Rose?" said the old junky ... "Time to cosq,"62 put on a black overcoat and made the square ... Down Skid Row to Market Street museum shows all kinds masturbation and self-abuse. Young boys need it special ? The gangster in concrete rolls down the river channel ... They cowboyed him in the steam room ... Is this Cherry Ass Gio the Towel Boy or Mother Gillig, Old Auntie of Westminster Place?? Only dead fingers talk in Braille ...
     
-    The Mississippi rolls great limestone boulders down the silent alley �
+    The Mississippi rolls great limestone boulders down the silent alley ?
     
-    "Clutter the glind!"63 screamed the Captain of Moving Land � Distant rumble of stomachs ... Poisoned pigeons rain from the Northern Lights ... The reservoirs are empty ... Brass statues crash through the hungry squares and alleys of the gaping city ...
+    "Clutter the glind!"63 screamed the Captain of Moving Land ? Distant rumble of stomachs ... Poisoned pigeons rain from the Northern Lights ... The reservoirs are empty ... Brass statues crash through the hungry squares and alleys of the gaping city ...
     
     Probing for a vein in the junk-sick morning ...
     
-    Strictly from cough syrup �
+    Strictly from cough syrup ?
     
-    A thousand junkies storm the crystal spine clinics, cook down the Grey Ladies �
+    A thousand junkies storm the crystal spine clinics, cook down the Grey Ladies ?
     
     In the limestone cave met a man with Medusa's head in a hat box and said, "Be careful," to the Customs Inspector ... Freeze forever hand an inch from the false bottom ...
     
-    Window dressers scream through the station, beat the cashiers with the fairy hype ... (The Hype is a short change con� Also known as The Bill... )
+    Window dressers scream through the station, beat the cashiers with the fairy hype ... (The Hype is a short change con? Also known as The Bill... )
     
     "Multiple fracture," said the big physician ... "I'm very technical..."
     
-    Conspicuous consumption is rampant in the porticos slippery with Koch spit�
+    Conspicuous consumption is rampant in the porticos slippery with Koch spit?
     
     The centipede nuzzles the iron door rusted to thin black paper by the urine of a million fairies...
     
@@ -1860,7 +1860,7 @@ module.exports =
     
     "The trap hasn't been aired since the Exterminator fumigated for coke bugs," said the Sailor apologetically.
     
-    The boy's peeled senses darted about in frenzied exploration. Tenement flat, railroad flat vibrating with silent motion. Along one wall of the kitchen a metal trough � or was it metal, exactly? � ran into a sort of aquarium or tank half filled with translucent green fluid. Moldy objects, worn out in unknown service, littered the floor: a jockstrap designed to protect some delicate organ of flat, fan shape; multi-leveled trusses, supports and bandages; a large U-shaped yoke of porous pink stone; little lead tubes cut open at one end. Currents of movement from the two bodies stirred stagnant odor pools; atrophied boy-smell of dusty locker rooms, swimming pool chlorine, dried semen. Other smells curled through pink convolutions, touching unknown doors.
+    The boy's peeled senses darted about in frenzied exploration. Tenement flat, railroad flat vibrating with silent motion. Along one wall of the kitchen a metal trough ? or was it metal, exactly? ? ran into a sort of aquarium or tank half filled with translucent green fluid. Moldy objects, worn out in unknown service, littered the floor: a jockstrap designed to protect some delicate organ of flat, fan shape; multi-leveled trusses, supports and bandages; a large U-shaped yoke of porous pink stone; little lead tubes cut open at one end. Currents of movement from the two bodies stirred stagnant odor pools; atrophied boy-smell of dusty locker rooms, swimming pool chlorine, dried semen. Other smells curled through pink convolutions, touching unknown doors.
     
     The Sailor reached under the washstand and extracted a package in wrapping paper that shredded and fell from his fingers in yellow dust. He laid out dropper, needle and spoon on a table covered with dirty dishes. But no roach antennae felt for the crumbs of darkness.
     
@@ -1908,24 +1908,24 @@ module.exports =
     
     They call me the Exterminator. At one brief point of intersection I did exercise that function and witnessed the belly dance of roaches suffocating in yellow pyrethrum powder ("Hard to get now, lady ... war on. Let you have a little ... Two dollars.") Sluiced fat bedbugs from rose wall paper in shabby theatrical hotels on North Clark and poisoned the purposeful Rat, occasional eater of human babies. Wouldn't you?
     
-    My present assignment: Find the live ones and exterminate. Not the bodies but the "molds," you understand � but I forget that you cannot understand. We have all but a very few. But even one could upset our food tray. The danger, as always, comes from defecting agents: A.J., the Vigilante, the Black Armadillo (carrier of Chagas vectors, hasn't taken a bath since the Argentine epidemic of '35; remember?), and Lee and the Sailor and Benway. And I know some agent is out there in the darkness looking for me. Because all Agents defect and all Resisters sell out ...
+    My present assignment: Find the live ones and exterminate. Not the bodies but the "molds," you understand ? but I forget that you cannot understand. We have all but a very few. But even one could upset our food tray. The danger, as always, comes from defecting agents: A.J., the Vigilante, the Black Armadillo (carrier of Chagas vectors, hasn't taken a bath since the Argentine epidemic of '35; remember?), and Lee and the Sailor and Benway. And I know some agent is out there in the darkness looking for me. Because all Agents defect and all Resisters sell out ...
     the algebra of need
     
     "Fats" Terminal came from The City Pressure Tanks where open life jets spurt a million forms, immediately eaten, the eaters canceled by black time fuzz ...
     
     Few reach the Plaza, a point where The Tanks empty a tidal river, carrying forms of survival armed with defenses of poison slime, black flesh-rotting fungus, and green odors that sear the lungs and grab the stomach in twisted knots ...
     
-    Because Fats' nerves were raw and peeled to feel the death spasms of a million cold kicks ... Fats learned The Algebra of Need and survived �
+    Because Fats' nerves were raw and peeled to feel the death spasms of a million cold kicks ... Fats learned The Algebra of Need and survived ?
     
     One Friday Fats siphoned himself into The Plaza, a translucent-grey foetal monkey, suckers on his little soft, purple-grey hands, and a lamprey disk mouth of cold, grey gristle lined with hollow black erectile teeth, feeling for the scar patterns of junk ...
     
     And a rich man passed and stared at the monster and Fats rolled pissing and shitting in terror and ate his shit and the man was moved by this tribute to his potent gaze and clicked a coin out of his Friday cane (Friday is Moslem Sunday when the rich are supposed to distribute alms) .
     
-    So Fats learned to serve The Black Meat and grew a fat aquarium of body �
+    So Fats learned to serve The Black Meat and grew a fat aquarium of body ?
     
     And his blank periscope eyes swept the world's surface ... In his wake of addicts translucent-grey monkeys flashed like fish spears to the junk Mark and hung there sucking and it all drained back into Fats so his substance grew and grew, filling plazas, restaurants and waiting rooms of the world with grey junk ooze.
     
-    Bulletins from Party Headquarters are spelled out in obscene charades by hebephrenics and Latahs and apes. Sollubis fart code, Negroes open and shut mouth to flash messages on gold teeth, Arab rioters send smoke signals by throwing great buttery eunuchs � they make the best smoke, hangs black and shit � solid in the air-onto gasoline fires in a rubbish heap, mosaic of melodies, sad Panpipes of humpbacked beggar, cold wind sweeps down from postcard of Chimborazo, flutes of Ramadan, piano music down a windy street, mutilated police calls, advertising leaflet synchronize with street fight spell SOS.
+    Bulletins from Party Headquarters are spelled out in obscene charades by hebephrenics and Latahs and apes. Sollubis fart code, Negroes open and shut mouth to flash messages on gold teeth, Arab rioters send smoke signals by throwing great buttery eunuchs ? they make the best smoke, hangs black and shit ? solid in the air-onto gasoline fires in a rubbish heap, mosaic of melodies, sad Panpipes of humpbacked beggar, cold wind sweeps down from postcard of Chimborazo, flutes of Ramadan, piano music down a windy street, mutilated police calls, advertising leaflet synchronize with street fight spell SOS.
     
     Two agents have identified themselves each to each by choice of sex practices foiling alien microphones, fuck atomic secrets back and forth in code so complex only two physicists in the world pretend to understand it and each categorically denies the other. Later the receiving agent will be hanged, convict of the guilty possession of a nervous system, and play back the message in orgasmal spasms transmitted from electrodes attached to the penis.
     
@@ -1947,7 +1947,7 @@ module.exports =
     
     Giggling rioters copulate to the screams of a burning Nigra. Lonely librarians unite in soul kiss halitosis.
     
-    That grippy feeling, brother? Sore throat persistent and disquieting as the hot afternoon wind? Welcome to the International Syphilis Lodge � "Methodith Epithcopal God damn ith." (Phrase used to test for speech impairment typical of paresis) � or the first touch of chancre makes you a member in good standing.
+    That grippy feeling, brother? Sore throat persistent and disquieting as the hot afternoon wind? Welcome to the International Syphilis Lodge ? "Methodith Epithcopal God damn ith." (Phrase used to test for speech impairment typical of paresis) ? or the first touch of chancre makes you a member in good standing.
     
     The vibrating soundless hum of deep forest and orgone accumulators, the sudden silence of cities when the junky cops and even The Commuter buzzes clogged lines of cholesterol for contact. Signal flares of orgasm burst over the world. A tea head leaps up screaming "I got the fear!" and runs into Mexican night bringing down back brains of the world. The Executioner shits in terror at sight of the condemned man. The Torturer screams in the ear of his implacable victim. Knife fighters embrace in adrenaline. Cancer is at the door with a Singing Telegram ...
     hauser and o'brien
@@ -2068,18 +2068,18 @@ module.exports =
     I took a taxi to Washington Square, got out and wallwd
     along 4th Street till I spotted Nick on a corner. You can always
     find the pusher. Your need conjures him up like a ghost.
-    ��Listen, Nick," I said, ��rm leaving town. I want to pick up a
+    ??Listen, Nick," I said, ??rm leaving town. I want to pick up a
     piece of H. Can you make it right now?"
     We were walking along 4th Street. Nick's voice seemed to drift
     into my consciousness from no particular place. An eerie, disembodied
     voice.
-    ��Yes, I think I can make it. I'll have to make a run uptown."
-    ��we can take a cab."
-    ��o.K., but I can't take you in to the guy, you understand."
-    ��I understand. Let's go."
+    ??Yes, I think I can make it. I'll have to make a run uptown."
+    ??we can take a cab."
+    ??o.K., but I can't take you in to the guy, you understand."
+    ??I understand. Let's go."
     We were in the cab heading North. Nick was talking in his flat,
     dead voice.
-    ��some funny stuff we're getting lately. It's not weak exactly ...
+    ??some funny stuff we're getting lately. It's not weak exactly ...
     I don't know ... It's different. Maybe they're putting some synthetic
     shit in it ... Dollies or something ..."
     "What!!!? Already?"
@@ -2192,7 +2192,7 @@ module.exports =
     
     I am not American Express ... If one of my people is seen in New York walking around in citizen clothes and next sentence Timbuktu putting down lad talk on a gazelle-eyed youth, we may assume that he (the party non-resident of Timbuktu) transported himself there by the usual methods of communication ...
     
-    Lee The Agent (a double-four-eight-sixteen) is taking the junk cure ... space-time trip portentously familiar as junk meet comers to the addict ... cures past and future shuttle pictures through his spectral substance vibrating in silent winds of accelerated Time � Pick a shot ... Any shot ...
+    Lee The Agent (a double-four-eight-sixteen) is taking the junk cure ... space-time trip portentously familiar as junk meet comers to the addict ... cures past and future shuttle pictures through his spectral substance vibrating in silent winds of accelerated Time ? Pick a shot ... Any shot ...
     
     Formal knuckle biting, floor rolling shots in a precinct cell ...
     
@@ -2200,43 +2200,43 @@ module.exports =
     
     "Haw haw haw."
     
-    Tentative half impressions that dissolve in light ... pockets of rotten ectoplasm swept out by an old junky coughing and spitting in the sick morning �
+    Tentative half impressions that dissolve in light ... pockets of rotten ectoplasm swept out by an old junky coughing and spitting in the sick morning ?
     
     Old violet brown photos that curl and crack like mud in the sun: Panama City ... Bill Gains putting down the paregoric con on a Chinese druggist.
     
-    "I've got these racing dogs ... pedigree greyhounds ... All sick with the dysentery ... tropical climate ... the shits ... you sabe shit? ... My Whippets Are Dying!" he screamed ... His eyes lit up with blue fire ... The flame went out ... smell of burning metal ... "Administer with an eye dropper ... Wouldn't you? ... Menstral cramps ... my wife ... Kotex ... Aged mother ... Piles ... raw ... bleeding ..." He nodded out against the counter ... The druggist took a toothpick out of his mouth and looked at the end of it and shook his head �
+    "I've got these racing dogs ... pedigree greyhounds ... All sick with the dysentery ... tropical climate ... the shits ... you sabe shit? ... My Whippets Are Dying!" he screamed ... His eyes lit up with blue fire ... The flame went out ... smell of burning metal ... "Administer with an eye dropper ... Wouldn't you? ... Menstral cramps ... my wife ... Kotex ... Aged mother ... Piles ... raw ... bleeding ..." He nodded out against the counter ... The druggist took a toothpick out of his mouth and looked at the end of it and shook his head ?
     
-    Gains and Lee burned down the Republic of Panama from David to Darien on paregoric ...They flew apart with a schlupping sound ... Junkies tend to run together into one body ... You have to be careful especially in hot places ... Gains back to Mexico City � Desperate skeleton grin of chronic junk lack glazed over with codeine and goof balls ... cigarette holes in his bathrobe ... coffee stains on the floor ... smoky kerosene stove ... rusty orange flame ...
+    Gains and Lee burned down the Republic of Panama from David to Darien on paregoric ...They flew apart with a schlupping sound ... Junkies tend to run together into one body ... You have to be careful especially in hot places ... Gains back to Mexico City ? Desperate skeleton grin of chronic junk lack glazed over with codeine and goof balls ... cigarette holes in his bathrobe ... coffee stains on the floor ... smoky kerosene stove ... rusty orange flame ...
     
-    The Embassy would give no details other than place of burial in the American Cemetery �
+    The Embassy would give no details other than place of burial in the American Cemetery ?
     
-    And Lee back to sex and pain and time and yage, bitter Soul Vine of the Amazon �
+    And Lee back to sex and pain and time and yage, bitter Soul Vine of the Amazon ?
     
     I recall once after an overdose of majoun (this is cannabis dried and finely powdered to consistency of green powdered sugar and mixed with some confection or other usually tasting like gritty plum pudding, but the choice of confection is arbitrary ...) . I am returning from The Lulu or Johnny or Little Boy's Room (stink of atrophied infancy and toilet training) look across the living room of that villa outside Tanger and suddenly don't know where I am. Perhaps I have opened the wrong door and at any moment The Man In Possession, The Owner Who Got There First will rush in and scream:
     
     "What Are You Doing Here? Who Are You?"
     
-    And I don't know what I am doing there nor who I am. I decide to play it cool and maybe I will get the orientation before the Owner shows ... So instead of yelling "Where Am I?" cool it and look around and you will find out approximately ... You were not there for The Beginning. You will not be there for The End ... Your knowledge of what is going on can only be superficial and relative ... What do I know of this yellow blighted young junky face subsisting on raw opium? I tried to tell him: "Some morning you will wake up with your liver in your lap" and how to process raw opium so it is not plain poison. But his eyes glaze over and he don't want to know. Junkies are like that most of them they don't want to know ... and you can't tell them anything ... A smoker doesn't want to know anything but smoke � And a heroin junky same way ... Strictly the spike and any other route is Farina �
+    And I don't know what I am doing there nor who I am. I decide to play it cool and maybe I will get the orientation before the Owner shows ... So instead of yelling "Where Am I?" cool it and look around and you will find out approximately ... You were not there for The Beginning. You will not be there for The End ... Your knowledge of what is going on can only be superficial and relative ... What do I know of this yellow blighted young junky face subsisting on raw opium? I tried to tell him: "Some morning you will wake up with your liver in your lap" and how to process raw opium so it is not plain poison. But his eyes glaze over and he don't want to know. Junkies are like that most of them they don't want to know ... and you can't tell them anything ... A smoker doesn't want to know anything but smoke ? And a heroin junky same way ... Strictly the spike and any other route is Farina ?
     
-    So I guess he is still sitting there in his 1920 Spanish villa outside Tanger eating that raw opium full of shit and stones and straw ... the whole lot for fear he might lose something � There is only one thing a writer can write about: what is in front of his senses at the moment of writing ... I am a recording instrument ... I do not presume to impose "story" "plot" "continuity" ... Insofar as I succeed in Direct recording of certain areas of psychic process I may have limited function ... I am not an entertainer �
+    So I guess he is still sitting there in his 1920 Spanish villa outside Tanger eating that raw opium full of shit and stones and straw ... the whole lot for fear he might lose something ? There is only one thing a writer can write about: what is in front of his senses at the moment of writing ... I am a recording instrument ... I do not presume to impose "story" "plot" "continuity" ... Insofar as I succeed in Direct recording of certain areas of psychic process I may have limited function ... I am not an entertainer ?
     
-    "Possession" they call it ... Sometimes an entity jumps in the body � outlines waver in yellow orange jelly-and hands move to disembowel the passing whore or strangle the nabor child in hope of alleviating a chronic housing shortage. As if I was usually there but subject to goof now and again ... Wrong! I am never here � Never that is fully in possession, but somehow in a position to forestall ill-advised moves ... Patrolling is, in fact, my principal occupation ... No matter how tight Security, I am always somewhere Outside giving orders and Inside this straitjacket of jelly that gives and stretches but always reforms ahead of every movement, thought, impulse, stamped with the seal of alien inspection ...
+    "Possession" they call it ... Sometimes an entity jumps in the body ? outlines waver in yellow orange jelly-and hands move to disembowel the passing whore or strangle the nabor child in hope of alleviating a chronic housing shortage. As if I was usually there but subject to goof now and again ... Wrong! I am never here ? Never that is fully in possession, but somehow in a position to forestall ill-advised moves ... Patrolling is, in fact, my principal occupation ... No matter how tight Security, I am always somewhere Outside giving orders and Inside this straitjacket of jelly that gives and stretches but always reforms ahead of every movement, thought, impulse, stamped with the seal of alien inspection ...
     
     Writers talk about the sweet-sick smell of death whereas any junky can tell you that death has no smell ... at the same time a smell that shuts off breath and stops blood ... colorless no-smell of death ... no one can breathe and smell it through pink convolutions and black blood filters of flesh ... the death smell is unmistakably a smell and complete absence of smell ... smell absence hits the nose first because all organic life has smell ... stopping of smell is felt like darkness to the eyes, silence to the ears, stress and weightlessness to the balance and location sense ...
     
-    You always smell it and give it out for others to smell during junk withdrawal ... A kicking junky can make a whole apartment unlivable with his death smell ... but a good airing will stink the place up again so a body can breathe ... You also smell it during one of those oil burner habits that suddenly starts jumping geometric like a topping forest fire �
+    You always smell it and give it out for others to smell during junk withdrawal ... A kicking junky can make a whole apartment unlivable with his death smell ... but a good airing will stink the place up again so a body can breathe ... You also smell it during one of those oil burner habits that suddenly starts jumping geometric like a topping forest fire ?
     
     Cure is always: Let Go! lump!
     
-    A friend of mine found himself naked in a Marrakech hotel room second floor ... (He is after processing by a Texas mother who dressed him in girl's clothes as a child ... Crude but effective against infant protoplasm ...) The other occupants are Arabs, three Arabs ... knives in hand ... watching him ... glint of metal and points of light in dark eyes ... pieces of murder falling slow as opal chips through glycerine ... Slower animal reactions allow him a full second to decide: Straight through the window and down into the crowded street like a falling star his wake of glass glittering in the sun ... sustained a broken ankle and a chipped shoulder ... clad in a diaphanous pink curtain, with a curtain-rod staff, hobbled away to the Commissariat de Police �
+    A friend of mine found himself naked in a Marrakech hotel room second floor ... (He is after processing by a Texas mother who dressed him in girl's clothes as a child ... Crude but effective against infant protoplasm ...) The other occupants are Arabs, three Arabs ... knives in hand ... watching him ... glint of metal and points of light in dark eyes ... pieces of murder falling slow as opal chips through glycerine ... Slower animal reactions allow him a full second to decide: Straight through the window and down into the crowded street like a falling star his wake of glass glittering in the sun ... sustained a broken ankle and a chipped shoulder ... clad in a diaphanous pink curtain, with a curtain-rod staff, hobbled away to the Commissariat de Police ?
     
-    Sooner or later The Vigilante, The Rube, Lee The Agent, A.J., Clem and Jody The Ergot Twins, Hassan O'Leary the After Birth Tycoon, The Sailor, The Exterminator, Andrew Keif, "Fats" Terminal, Doc Benway, "Fingers" Schafer are subject to say the same thing in the same words, to occupy, at that intersection point, the same position in space-time. Using a common vocal apparatus complete with all metabolic appliances � that is, to be the same person � a most inaccurate way of expressing Recognition: The junky naked in sunlight �
+    Sooner or later The Vigilante, The Rube, Lee The Agent, A.J., Clem and Jody The Ergot Twins, Hassan O'Leary the After Birth Tycoon, The Sailor, The Exterminator, Andrew Keif, "Fats" Terminal, Doc Benway, "Fingers" Schafer are subject to say the same thing in the same words, to occupy, at that intersection point, the same position in space-time. Using a common vocal apparatus complete with all metabolic appliances ? that is, to be the same person ? a most inaccurate way of expressing Recognition: The junky naked in sunlight ?
     
-    The writer sees himself reading to the mirror as always ... He must check now and again to reassure himself that The Crime Of Separate Action has not, is not, cannot occur � Anyone who has ever looked into a mirror knows what this crime is and what it means in terms of lost control when the reflection no longer obeys ... Too late to dial P o l i c e �
+    The writer sees himself reading to the mirror as always ... He must check now and again to reassure himself that The Crime Of Separate Action has not, is not, cannot occur ? Anyone who has ever looked into a mirror knows what this crime is and what it means in terms of lost control when the reflection no longer obeys ... Too late to dial P o l i c e ?
     
-    I personally wish to terminate my services as of now in that I cannot continue to sell the raw materials of death ... Yours, sir, is a hopeless case and a noisome one �
+    I personally wish to terminate my services as of now in that I cannot continue to sell the raw materials of death ... Yours, sir, is a hopeless case and a noisome one ?
     
-    "Defense is meaningless in the present state of our knowledge," said The Defense looking up from an electron microscope �
+    "Defense is meaningless in the present state of our knowledge," said The Defense looking up from an electron microscope ?
     
     Take your business to Walgreen's
     
@@ -2246,31 +2246,31 @@ module.exports =
     
     I don't know how to return it to the white reader
     
-    You can write or yell or croon about it ... paint about it � act about it ... shit it out in mobiles ... So long as you don't go and do it �
+    You can write or yell or croon about it ... paint about it ? act about it ... shit it out in mobiles ... So long as you don't go and do it ?
     
-    Senators leap up and bray for the Death Penalty with inflexible authority of virus yen ... Death for dope fiends, death for sex queens (I mean fiends), death for the psychopath who offends the cowed and graceless flesh with broken animal innocence of lithe movement �
+    Senators leap up and bray for the Death Penalty with inflexible authority of virus yen ... Death for dope fiends, death for sex queens (I mean fiends), death for the psychopath who offends the cowed and graceless flesh with broken animal innocence of lithe movement ?
     
-    The black wind sock of death undulates over the land, feeling, smelling for the crime of separate life, movers of the fearfrozen flesh shivering under a vast probability curve �
+    The black wind sock of death undulates over the land, feeling, smelling for the crime of separate life, movers of the fearfrozen flesh shivering under a vast probability curve ?
     
-    Population blocks disappear in a checker game of genocide ... Any number can play �
+    Population blocks disappear in a checker game of genocide ... Any number can play ?
     
-    The Liberal Press and The Press Not So Liberal and The Press Reactionary scream approval: "Above all the myth of other-level experience must be eradicated ..." And speak darkly of certain harsh realities ... cows with the aftosa ... prophylaxis �
+    The Liberal Press and The Press Not So Liberal and The Press Reactionary scream approval: "Above all the myth of other-level experience must be eradicated ..." And speak darkly of certain harsh realities ... cows with the aftosa ... prophylaxis ?
     
-    Power groups of the world frantically cut lines of connection �
+    Power groups of the world frantically cut lines of connection ?
     
-    The Planet drifts to random insect doom �
+    The Planet drifts to random insect doom ?
     
-    Thermodynamics has won at a crawl ... Orgone balked at the post ... Christ bled ... Time ran out �
+    Thermodynamics has won at a crawl ... Orgone balked at the post ... Christ bled ... Time ran out ?
     
     You can cut into Naked Lunch at any intersection point ... I have written many prefaces. They atrophy and amputate spontaneous like the little toe amputates in a West African disease confined to the Negro race and the passing blonde shows her brass ankle as a manicured toe bounces across the club terrace, retrieved and laid at her feet by her Afghan hound ...
     
-    Naked Lunch is a blueprint, a How-To Book ... Black insect lusts open into vast other-planet landscapes ... Abstract concepts, bare as algebra, narrow down to a black turd or a pair of aging cojones �
+    Naked Lunch is a blueprint, a How-To Book ... Black insect lusts open into vast other-planet landscapes ... Abstract concepts, bare as algebra, narrow down to a black turd or a pair of aging cojones ?
     
-    How-To extend levels of experience by opening the door at the end of a long hall ... Doors that only open in Silence ... Naked Lunch demands Silence from The Reader. Otherwise he is taking his own pulse �
+    How-To extend levels of experience by opening the door at the end of a long hall ... Doors that only open in Silence ... Naked Lunch demands Silence from The Reader. Otherwise he is taking his own pulse ?
     
     Robert Christie66 knew The Answering Service ... Kill the old cunts ... keep pubic hairs in his locket ... wouldn't you?
     
-    Robert Christie, mass strangler of women � sounds like a daisy chain � hanged in 1953.
+    Robert Christie, mass strangler of women ? sounds like a daisy chain ? hanged in 1953.
     
     Jack The Ripper, Literal Swordsman of the 1890s and never caught with his pants down ... wrote a letter to The Press:
     
@@ -2284,23 +2284,23 @@ module.exports =
     
     The sheriff in black vest types out a death warrant: "Gotta make it legal and exempt narcotic ... "
     
-    Violation Public Health Law 334 ... Procuring an orgasm by the use of fraud �
+    Violation Public Health Law 334 ... Procuring an orgasm by the use of fraud ?
     
-    Johnny on all fours and Mary sucking him and running her fingers down the thigh backs and light over the outfields of the ball park �
+    Johnny on all fours and Mary sucking him and running her fingers down the thigh backs and light over the outfields of the ball park ?
     
-    Over the broken chair and out through the tool-house window whitewash whipping in a cold spring wind on a limestone cliff over the river ... piece of moon smoke hangs in china blue sky ... out on a long line of jissom across the dusty floor �
+    Over the broken chair and out through the tool-house window whitewash whipping in a cold spring wind on a limestone cliff over the river ... piece of moon smoke hangs in china blue sky ... out on a long line of jissom across the dusty floor ?
     
-    Motel ... Motel ... Motel ... broken neon arabesque ... loneliness moans across the continent like fog horns over still oily water of tidal rivers �
+    Motel ... Motel ... Motel ... broken neon arabesque ... loneliness moans across the continent like fog horns over still oily water of tidal rivers ?
     
-    Ball squeezed dry lemon rinderpest rims the ass with a knife cut off a piece of hash for the water pipe � bubble bubble � indicate what used to be me �
+    Ball squeezed dry lemon rinderpest rims the ass with a knife cut off a piece of hash for the water pipe ? bubble bubble ? indicate what used to be me ?
     
     "The river is served, sir."
     
-    Dead leaves fill the fountain and geraniums run wild with mint, spill a vending machine route across the lawn �
+    Dead leaves fill the fountain and geraniums run wild with mint, spill a vending machine route across the lawn ?
     
-    The aging playboy dons his 1920 autograph slicker, feeds his screaming wife down the garbage-disposal unit ... Hair, shit and blood spurt out 1963 on the wall ... "Yes sir, boys, the shit really hit the fan in '63," said the tiresome old prophet can bore the piss out of you in any space-time direction �
+    The aging playboy dons his 1920 autograph slicker, feeds his screaming wife down the garbage-disposal unit ... Hair, shit and blood spurt out 1963 on the wall ... "Yes sir, boys, the shit really hit the fan in '63," said the tiresome old prophet can bore the piss out of you in any space-time direction ?
     
-    "Now I happen to remember because it was just two year before that a strain of human aftosa developed in a Bolivian lavatory got loose through the medium of a chinchilla coat fixed an income tax case in Kansas City ... And a Liz claimed Immaculate Conception and give birth to a six-ounce spider monkey through the navel ... They say the croaker was party to that caper had the monkey on his back all the time �"
+    "Now I happen to remember because it was just two year before that a strain of human aftosa developed in a Bolivian lavatory got loose through the medium of a chinchilla coat fixed an income tax case in Kansas City ... And a Liz claimed Immaculate Conception and give birth to a six-ounce spider monkey through the navel ... They say the croaker was party to that caper had the monkey on his back all the time ?"
     
     I, William Seward, captain of this lushed up hash-head subway, will quell the Loch Ness monster with rotenone and cowboy the white whale. I will reduce Satan to Automatic Obedience, and sublimate subsidiary fiends. I will banish the candiru from your swimming pools.
     
@@ -2308,7 +2308,7 @@ module.exports =
     
     "The oftener a thing happens the more uniquely wonderful it is," said the pretentious young Nordic on the trapeze studying his Masonic homework.
     
-    "The Jews don't believe in Christ, Clem ... All they want to do is doodle a Christian girl �"
+    "The Jews don't believe in Christ, Clem ... All they want to do is doodle a Christian girl ?"
     
     Adolescent angels sing on shithouse walls of the world.
     
@@ -2322,7 +2322,7 @@ module.exports =
     
     So where is the statuary and the percentage? Who can say? I don't have The Word ... Home in my douche bag ... The King is loose with a flame thrower and the king killer, tortured in effigy of a thousand bums, slides down Skid Row to shit in the limestone ball court.
     
-    Young Dillinger walked straight out of the house and never looked back �
+    Young Dillinger walked straight out of the house and never looked back ?
     
     "Don't ever look back, kid ... You turn into some old cow's salt lick."
     
@@ -2334,7 +2334,7 @@ module.exports =
     
     Crabs frolicked through his forest ... wrestling with the angel hard-on all night, thrown in the homo fall of valor, take a back road to the rusty limestone cave.
     
-    Black Yen ejaculates over the salt marshes where nothing grows not even a mandrake �
+    Black Yen ejaculates over the salt marshes where nothing grows not even a mandrake ?
     
     Law of averages ... A few chickens ... Only way to live ...
     
@@ -2354,17 +2354,17 @@ module.exports =
     
     "Ixnay, you wouldn't be inna condition."
      
-    Three times around ... wake up shivering sick in warm spring wind through the window, water burns the eyes like acid �
+    Three times around ... wake up shivering sick in warm spring wind through the window, water burns the eyes like acid ?
     
-    She gets out of bed naked ... Stash in the cobra lamp ... Cooks up �
+    She gets out of bed naked ... Stash in the cobra lamp ... Cooks up ?
     
     "Turn over ... I'll give it to you in the ass."
     
-    She slides the needle in deep, pulls it out and massages the cheek �
+    She slides the needle in deep, pulls it out and massages the cheek ?
     
     She licks a drop of blood off her finger.
     
-    He rolls over with a hard-on dissolving in the grey ooze of junk. In a vale of cocaine and innocence sad-eyed youths yodel for a lost Danny Boy �
+    He rolls over with a hard-on dissolving in the grey ooze of junk. In a vale of cocaine and innocence sad-eyed youths yodel for a lost Danny Boy ?
     
     We sniffed all night and made it four times ... fingers down the blackboard ... scrape the white bone. Home is the heroin home from the sea and the hustler home from The Bill ...
     
@@ -2373,9 +2373,9 @@ module.exports =
     
     The Word is divided into units which be all in one piece and should be so taken, but the pieces can be had in any order being tied up back and forth in and out fore and aft like an innaresting sex arrangement. This book spill off the page in all directions, kaleidoscope of vistas, medley of tunes and street noises, farts and riot yips and the slamming steel shutters of commerce, screams of pain and pathos and screams plain pathic, copulating cats and outraged squawk of the displaced bullhead, prophetic mutterings of brujo in nutmeg trance, snapping necks and screaming mandrakes, sigh of orgasm, heroin silent as dawn in the thirsty cells, Radio Cairo screaming like a berserk tobacco auction, and flutes of Ramadan fanning the sick junky like a gentle lush worker in the grey subway dawn feeling with delicate fingers for the green folding crackle ...
     
-    This is Revelation and Prophecy of what I can pick up without FM on my 1920 crystal set with antennae of jissom ... Gentle reader, we see God through our assholes in the flash bulb of orgasm ... Through these orifices transmute your body ... The way OUT is the way IN �
+    This is Revelation and Prophecy of what I can pick up without FM on my 1920 crystal set with antennae of jissom ... Gentle reader, we see God through our assholes in the flash bulb of orgasm ... Through these orifices transmute your body ... The way OUT is the way IN ?
      
-    Now I, William Seward, will unlock my word hoard ... My Viking heart fares over the great brown river where motors put put in jungle twilight and whole trees float with huge snakes in the branches and sad-eyed lemurs watch the shore, across the Missouri field (The Boy finds a pink arrowhead) out along distant train whistles, comes back to me hungry as a street boy don't know to peddle the ass God gave him ... Gentle Reader, The Word will leap on you with leopard man iron claws, it will cut off fingers and toes like an opportunist land crab, it will hang you and catch your jissom like a scrutable dog, it will coil round your thighs like a bushmaster and inject a shot glass of rancid ectoplasm �
+    Now I, William Seward, will unlock my word hoard ... My Viking heart fares over the great brown river where motors put put in jungle twilight and whole trees float with huge snakes in the branches and sad-eyed lemurs watch the shore, across the Missouri field (The Boy finds a pink arrowhead) out along distant train whistles, comes back to me hungry as a street boy don't know to peddle the ass God gave him ... Gentle Reader, The Word will leap on you with leopard man iron claws, it will cut off fingers and toes like an opportunist land crab, it will hang you and catch your jissom like a scrutable dog, it will coil round your thighs like a bushmaster and inject a shot glass of rancid ectoplasm ?
     
     And why a scrutable dog?
     
@@ -2383,9 +2383,9 @@ module.exports =
     
     So I dub the yaller dog Scrutable ... And let me say in passing, and I am always passing like a sincere Spade, that the Inscrutable East need a heap of salt to get it down ... Your Reporter bang thirty grains of M a day and sit eight hours inscrutable as a turd.
     
-    "What are you thinking?" says the squirming American Tourist �
+    "What are you thinking?" says the squirming American Tourist ?
     
-    To which I reply: "Morphine having depressed my hypothalamus, seat of libido and emotion, and since the front brain acts only at second hand with back-brain titillation, being a vicarious type citizen can only get his kicks from behind, I must report virtual absence of cerebral event. I am aware of your presence, but since it has for me no affective connotation, my affect having been disconnect by the junk man for the nonpayment, I am not innarested in your doings ... Go or come, shit or fuck yourself with a rasp or an asp � 'tis well done and fitting for a queen � but The Dead and The Junky don't care ..." They are Inscrutable.
+    To which I reply: "Morphine having depressed my hypothalamus, seat of libido and emotion, and since the front brain acts only at second hand with back-brain titillation, being a vicarious type citizen can only get his kicks from behind, I must report virtual absence of cerebral event. I am aware of your presence, but since it has for me no affective connotation, my affect having been disconnect by the junk man for the nonpayment, I am not innarested in your doings ... Go or come, shit or fuck yourself with a rasp or an asp ? 'tis well done and fitting for a queen ? but The Dead and The Junky don't care ..." They are Inscrutable.
     
     "Which is the way down the aisle to the water closet?" I asked the blonde usherette.
     
@@ -2397,15 +2397,15 @@ module.exports =
     
     A horse down with the aftosa need a sight of heroin to ease his pain and maybe some of that heroin take off across the lonesome prairie and whinny in Washington Square ... Junkies rush up yelling: "Heigh oOO Silver."
     
-    "But where is the statuary?" This archetype bit of pathos screeched out in tea-room cocktail lounge with bamboo decorations, Calle Juarez, M�xico, D.F .... Lost back there with a meatball rape rap ... a cunt claw your pants down and you up for rape that's statutory, brother �
+    "But where is the statuary?" This archetype bit of pathos screeched out in tea-room cocktail lounge with bamboo decorations, Calle Juarez, M?xico, D.F .... Lost back there with a meatball rape rap ... a cunt claw your pants down and you up for rape that's statutory, brother ?
     
-    Chicago calling ... come in please ... Chicago calling ... come in please ... What you think I got the rubber on for, galoshes in Puyo? A mighty wet place, reader �
+    Chicago calling ... come in please ... Chicago calling ... come in please ... What you think I got the rubber on for, galoshes in Puyo? A mighty wet place, reader ?
     
     "Take it off! Take it off!"
     
-    The old queen meets himself coming round the other way in burlesque of adolescence, gets the knee from his phantom of the Old Howard ... down Skid Row to Market Street museum shows all kinds masturbation and self-abuse ... young boys need it special �
+    The old queen meets himself coming round the other way in burlesque of adolescence, gets the knee from his phantom of the Old Howard ... down Skid Row to Market Street museum shows all kinds masturbation and self-abuse ... young boys need it special ?
     
-    They was ripe for the plucking forgot way back yonder in the cornhole ... lost in little scraps of delight and burning scrolls �
+    They was ripe for the plucking forgot way back yonder in the cornhole ... lost in little scraps of delight and burning scrolls ?
     
     Read the metastasis with blind fingers.
     
@@ -2413,11 +2413,11 @@ module.exports =
     
     "Selling is more of a habit than using."
     
-    � Lola La Chata, M�xico, D.F.							
+    ? Lola La Chata, M?xico, D.F.							
     
     * * *
     
-    Sucking terror from needle scars, underwater scream mouthing numb nerve warnings of the yen to come, throbbing bite site of rabies �
+    Sucking terror from needle scars, underwater scream mouthing numb nerve warnings of the yen to come, throbbing bite site of rabies ?
     
     "If God made anything better he kept it for himself," the Sailor used to say, his transmission slowed down with twenty goof balls.
     
@@ -2427,13 +2427,13 @@ module.exports =
     
     Pushing in a small way to keep up our habit ...
     
-    "And use that alcohol," I say slamming a spirit lamp down on the table. "You fucking can't � wait hungry junkies all the time black up my spoons with matches ... That's all I need for Pen Indef, the heat rumbles a black spoon in the trap ..."
+    "And use that alcohol," I say slamming a spirit lamp down on the table. "You fucking can't ? wait hungry junkies all the time black up my spoons with matches ... That's all I need for Pen Indef, the heat rumbles a black spoon in the trap ..."
     
     "I thought you was quitting ... Wouldn't feel right fucking up your cure."
     
     "Takes a lot of guts to kick a habit, kid."
     
-    Looking for veins in the thawing flesh. Hourglass of junk spills its last black grains into the kidneys �
+    Looking for veins in the thawing flesh. Hourglass of junk spills its last black grains into the kidneys ?
     
     "Heavily infected area," he muttered, shifting the tie-up.
     
@@ -2449,18 +2449,18 @@ module.exports =
     
     "What are you one of these goof-ball artists?"
     
-    Yellow smells of Skid Row sherry and occluding liver drifted out of his clothes when he made the junky gesture, throwing the hand out palm up to cop �
+    Yellow smells of Skid Row sherry and occluding liver drifted out of his clothes when he made the junky gesture, throwing the hand out palm up to cop ?
         smell of chili houses and dank overcoats
-            and atrophied testicles �
+            and atrophied testicles ?
     
     He looked at me through the tentative, ectoplasmic flesh of cure ... thirty pounds materialized in a month when you kick ... soft pink putty that fades at the first silent touch of junk ... I saw it happen ... ten pounds lost in ten minutes ... standing there with the syringe in one hand ... holding his pants up with the other sharp reek of diseased metal.
     
-    Walking in a rubbish heap to the sky ... scattered gasoline fires ... smoke hangs black and solid as excrement in the motionless air ... smudging the white film of noon heat ... D.L. Walks beside me ... a reflection of my toothless gums and hairless skull ... flesh smeared over the rotting phosphorescent bones consumed by slow cold fires ... He carries an open can of gasoline and the smell of gasoline envelops him ... Coming over a hill of rusty iron we meet a group of Natives ... flat two-dimension faces of scavenger fish �
+    Walking in a rubbish heap to the sky ... scattered gasoline fires ... smoke hangs black and solid as excrement in the motionless air ... smudging the white film of noon heat ... D.L. Walks beside me ... a reflection of my toothless gums and hairless skull ... flesh smeared over the rotting phosphorescent bones consumed by slow cold fires ... He carries an open can of gasoline and the smell of gasoline envelops him ... Coming over a hill of rusty iron we meet a group of Natives ... flat two-dimension faces of scavenger fish ?
     
     "Throw the gasoline on them and light it ..."
     quick...
     
-    white flash ... mangled insect screams �
+    white flash ... mangled insect screams ?
     
     I woke up with the taste of metal in my mouth back from the dead
     
@@ -2474,9 +2474,9 @@ module.exports =
     
     He stood there in a 1920 straw hat somebody gave him ... soft mendicant words falling like dead birds in the dark street ...
     
-    "No ... No more ... No m�s �"
+    "No ... No more ... No m?s ?"
     
-    A heaving sea of air hammers in the purple brown dusk tainted with rotten metal smell of sewer gas ... young worker faces vibrating out of focus in yellow halos of carbide lanterns ... broken pipes exposed �
+    A heaving sea of air hammers in the purple brown dusk tainted with rotten metal smell of sewer gas ... young worker faces vibrating out of focus in yellow halos of carbide lanterns ... broken pipes exposed ?
     
     "They are rebuilding the City."
     
