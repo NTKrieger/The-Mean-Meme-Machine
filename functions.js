@@ -82,19 +82,45 @@ setSearchTerm = function(){
 exports.setSearchTerm = setSearchTerm
 
 cleanText = function(){
+    console.log("CleanText in: " + photoData.text)
     var sentence = Rita.RiString(photoData.text)
-    
+    var wordArray = sentence.words()
+    var posArray = sentence.pos()
     //set maximum character limit
     if(sentence.length() > photoData.maxChar){
         generateText()
         setSearchTerm()
         cleanText()
     }
+    
 
     //if sentence ends with a space in the elipses, remove the space.
     if(sentence.charAt(sentence.length()-1) == sentence.charAt(sentence.length()-2))
         sentence.removeChar(sentence.length()-3)
     
+    //check for appropriate punctuation
+    var wordArray = sentence.words()
+    var posArray = sentence.pos()
+
+    if( wordArray[0] == "Who"  ||
+        wordArray[0] == "What" ||
+        wordArray[0] == "Where"||
+        wordArray[0] == "When" ||
+        wordArray[0] == "Why"  ||
+        wordArray[0] == "How"  ||
+        wordArray[0] == "Which"||
+        wordArray[0] == "Who"  ||
+        wordArray[0] == "Whose"||
+        wordArray[0] == "Whom" ){
+        if(sentence.charAt(sentence.length()-1) == `.`)
+            sentence.replaceChar((sentence.length()-1),`?`)
+    }else if((posArray[1] == "prp" || posArray[1] == "prp$") && posArray[0] == "md"){
+        if(sentence.charAt(sentence.length()-1) == `.`)
+            sentence.replaceChar((sentence.length()-1),`?`)
+    }else if(sentence.charAt(sentence.length()-1) == `?`){
+        sentence.replaceChar((sentence.length()-1),`.`)
+    }
+
     //remove numerals and complete quotations
     var quoteMarks = 0
     for(i = 0; i < sentence.length(); ++i){
@@ -107,7 +133,7 @@ cleanText = function(){
            sentence.charAt(i) == "6" ||
            sentence.charAt(i) == "7" ||
            sentence.charAt(i) == "8" ||
-           sentence.charAt(i) == "9"){            
+           sentence.charAt(i) == "9" ){            
              
             sentence.removeChar(i)
              --i
@@ -123,7 +149,7 @@ cleanText = function(){
     }
 
     photoData.text = sentence
-    console.log("cleanText out " + photoData.text)
+    console.log("cleanText out: " + photoData.text)
     console.log("cleanText done")
 }
 exports.cleanText = cleanText
@@ -144,7 +170,7 @@ exports.writeOnPicture = function(){
             return Jimp.loadFont(photoData.font)
         })
         .then(function (font) {
-            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text, photoData.xwrap)
+            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text)
                        .write("./meme.png")
         })
         .catch(function (err) {
