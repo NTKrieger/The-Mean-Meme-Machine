@@ -86,22 +86,19 @@ cleanText = function(){
     var sentence = Rita.RiString(photoData.text)
     var wordArray = sentence.words()
     var posArray = sentence.pos()
+    
     //set maximum character limit
     if(sentence.length() > photoData.maxChar){
         generateText()
         setSearchTerm()
         cleanText()
     }
-    
 
     //if sentence ends with a space in the elipses, remove the space.
     if(sentence.charAt(sentence.length()-1) == sentence.charAt(sentence.length()-2))
         sentence.removeChar(sentence.length()-3)
     
     //check for appropriate punctuation
-    var wordArray = sentence.words()
-    var posArray = sentence.pos()
-
     if( wordArray[0] == "Who"  ||
         wordArray[0] == "What" ||
         wordArray[0] == "Where"||
@@ -155,10 +152,11 @@ cleanText = function(){
 exports.cleanText = cleanText
 
 exports.setJimpParams = function(){
-    photoData.font = Jimp.FONT_SANS_64_WHITE
-    photoData.xstart = 10
-    photoData.xwrap = photoData.width - 10
-    photoData.ystart = (photoData.height / 2) + 100
+
+    photoData.font = "./fonts/ADDLER_64.fnt"
+    photoData.xstart = 25
+    photoData.xwrap = 1000
+    photoData.ystart = 500
     console.log("setJimpParams done") 
 }
 
@@ -170,7 +168,7 @@ exports.writeOnPicture = function(){
             return Jimp.loadFont(photoData.font)
         })
         .then(function (font) {
-            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text)
+            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text, photoData.xwrap)
                        .write("./meme.png")
         })
         .catch(function (err) {
