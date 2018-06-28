@@ -10,19 +10,15 @@ const ritaConfig = require("./config/ritaConfig")
 const unsplashConfig = require("./config/unsplashConfig")
 // data files
 let photoData = require("./photoData.js")
-const testData = require("./testData.js")
-
-//TODO: Add API call to like photos I use on Unsplash
 
 generateText = function(){
     var MarkovLunch = Rita.RiMarkov(4, true, false)	
     MarkovLunch.loadText(ritaConfig.text)
     photoData.text = MarkovLunch.generateSentence()
-    console.log("generateText done")
 }
 exports.generateText = generateText
 
-exports.generatePhotoData = async function(){
+generatePhotoData = async function(){
     const config = {
         headers : {"Authorization" : "Bearer " + unsplashConfig.token}
     }
@@ -33,34 +29,27 @@ exports.generatePhotoData = async function(){
         }
         else {
           rI = Math.floor(Math.random() * response.data.results.length)
+          photoData.height = response.data.results[rI].urls.regular
           photoData.url = response.data.results[rI].urls.regular
-          photoData.height = response.data.results[rI].height
-          photoData.width = response.data.results[rI].width
-          photoData.id = response.data.results[rI].id
           photoData.photographer = response.data.results[rI].user.name
-          photoData.photographerIG = response.data.results[rI].user.instagram_username
         }
       }
     catch (error){
           console.log(error)
       }
-    console.log("generatePhotoData done")
   }
+exports.generatePhotoData = generatePhotoData
 
 getRandomPhoto = async function(){
     try{
         let response = await axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
-        photoData.url = response.data.urls.raw
         photoData.height = response.data.height
-        photoData.width = response.data.width
-        photoData.width = response.data.id
-        photoData.photographer = response.data.user.name
-        photoData.photographerIG = response.data.user.instagram_username    
+        photoData.url = response.data.urls.raw
+        photoData.photographer = response.data.user.name   
     }
     catch (error){
         console.log(error)
     }
-    console.log("getRandomPhoto done")
 }
 exports.getRandomPhoto = getRandomPhoto
 
@@ -77,27 +66,30 @@ setSearchTerm = function(){
             }
         }				
     }
-    console.log("setSearchTerm done")
 }
 exports.setSearchTerm = setSearchTerm
 
 cleanText = function(){
-    console.log("CleanText in: " + photoData.text)
+    
     var sentence = Rita.RiString(photoData.text)
     var wordArray = sentence.words()
     var posArray = sentence.pos()
-    
-    //set maximum character limit
-    if(sentence.length() > photoData.maxChar){
-        generateText()
-        setSearchTerm()
-        cleanText()
-    }
 
+    console.log("cleanText in: " + photoData.text)
+
+    //truncate sentences with commas or semi-colons
+    //Fix: "Robert, he lets out a bellow of rage like a wounded elephant, runs to the kitchen and arms himself with a meat cleaver. .."
+    for(i = 0; i < sentence.length(); ++i){
+        if(sentence.charAt(i) == `,` || sentence.charAt(i) == `;`){
+            sentence.replaceChar(i ,`.`)
+            sentence = Rita.RiString(sentence.slice(0, i+1))
+            break
+        }
+    }
     //if sentence ends with a space in the elipses, remove the space.
     if(sentence.charAt(sentence.length()-1) == sentence.charAt(sentence.length()-2))
         sentence.removeChar(sentence.length()-3)
-    
+
     //check for appropriate punctuation
     if( wordArray[0] == "Who"  ||
         wordArray[0] == "What" ||
@@ -117,8 +109,7 @@ cleanText = function(){
     }else if(sentence.charAt(sentence.length()-1) == `?`){
         sentence.replaceChar((sentence.length()-1),`.`)
     }
-
-    //remove numerals and complete quotations
+    //remove unwanted characters, complete quotations, convert from RiString to string
     var quoteMarks = 0
     for(i = 0; i < sentence.length(); ++i){
         if(sentence.charAt(i) == "0" ||
@@ -130,8 +121,9 @@ cleanText = function(){
            sentence.charAt(i) == "6" ||
            sentence.charAt(i) == "7" ||
            sentence.charAt(i) == "8" ||
-           sentence.charAt(i) == "9" ){            
-             
+           sentence.charAt(i) == "9" ||
+           sentence.charAt(i) == "(" ||
+           sentence.charAt(i) == ")" ){                
             sentence.removeChar(i)
              --i
            }
@@ -144,23 +136,17 @@ cleanText = function(){
     } else {
         sentence = sentence.text()
     }
-
     photoData.text = sentence
     console.log("cleanText out: " + photoData.text)
     console.log("cleanText done")
 }
 exports.cleanText = cleanText
 
-exports.setJimpParams = function(){
-
-    photoData.font = "./fonts/ADDLER_64.fnt"
-    photoData.xstart = 25
-    photoData.xwrap = 1000
-    photoData.ystart = 500
-    console.log("setJimpParams done") 
+determineYStart = function(){
+    f
 }
-
-exports.writeOnPicture = function(){
+exports.determineYStart = determineYStart
+writeOnPicture = function(){
     var loadedImage
     Jimp.read(photoData.url)
         .then(function (image) {
@@ -168,7 +154,8 @@ exports.writeOnPicture = function(){
             return Jimp.loadFont(photoData.font)
         })
         .then(function (font) {
-            loadedImage.print(font, photoData.xstart, photoData.ystart, photoData.text, photoData.xwrap)
+            loadedImage.resize(photoData.width, Jimp.AUTO)
+                       .print(font, photoData.xstart, photoData.ystart, photoData.text + " " + photoData.photographer, photoData.xwrap)
                        .write("./meme.png")
         })
         .catch(function (err) {
@@ -176,24 +163,9 @@ exports.writeOnPicture = function(){
         })
         console.log("writeOnPicture done")
 }
+exports.writeOnPicture = writeOnPicture
 
-exports.loadTestData = function(){
-    photoData.font=testData.font,
-    photoData.height=testData.height,
-    photoData.photographer=testData.photographer,
-    photoData.photographerIG=testData.photographer,
-    photoData.photoID=testData.photoID,
-    photoData.searchTerm=testData.searchTerm,
-    photoData.text=testData.text,
-    photoData.url=testData.url,
-    photoData.width=testData.width,
-    photoData.xstart=testData.xstart
-    photoData.ystart=testData.ystart
-    photoData.xwrap=testData.xwrap
-    console.log("loadTestData done")
-}
-
-exports.tweet = function(){
+tweet = function(){
     var Twitter = new Twit(twitterConfig)
     var b64content = fs.readFileSync("./meme.png", { encoding: 'base64' })
     var photoCredit =  "Photographer: " + photoData.photographer
@@ -207,7 +179,9 @@ exports.tweet = function(){
                 Twitter.post('statuses/update', params, function (err, data, response) {
                     console.log(data)
                 })
-            }
-        }) 
-    })
+            } else
+                console.log(err)
+        })
+    }) 
 }
+exports.tweet = tweet

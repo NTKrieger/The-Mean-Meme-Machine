@@ -1,15 +1,14 @@
 module.exports={
-    font: "",
-    height: 0,
+    font: "./fonts/ADDLER_64.fnt",
+    height: "",
     photographer: "",
-    photographerIG: "",
-    photoID: "",
     searchTerm: "",
     text: "",
     url: "",
-    width: 0,
-    xstart: 10,
-    ystart: 10,
-    xwrap: 1000,
-    maxChar: 100,
+    width: 1080,
+    xstart: 25, 
+    xwrap: 1055,
+    ystart: 200,  
 }
+
+
