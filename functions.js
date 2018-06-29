@@ -29,7 +29,8 @@ generatePhotoData = async function(){
         }
         else {
           rI = Math.floor(Math.random() * response.data.results.length)
-          photoData.height = response.data.results[rI].urls.regular
+          photoData.height = response.data.results[rI].height
+          photoData.width = response.data.results[rI].width
           photoData.url = response.data.results[rI].urls.regular
           photoData.photographer = response.data.results[rI].user.name
         }
@@ -44,6 +45,7 @@ getRandomPhoto = async function(){
     try{
         let response = await axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
         photoData.height = response.data.height
+        photoData.width = response.data.width
         photoData.url = response.data.urls.raw
         photoData.photographer = response.data.user.name   
     }
@@ -78,11 +80,15 @@ cleanText = function(){
     console.log("cleanText in: " + photoData.text)
 
     //truncate sentences with commas or semi-colons
-    //Fix: "Robert, he lets out a bellow of rage like a wounded elephant, runs to the kitchen and arms himself with a meat cleaver. .."
+   
     for(i = 0; i < sentence.length(); ++i){
         if(sentence.charAt(i) == `,` || sentence.charAt(i) == `;`){
-            sentence.replaceChar(i ,`.`)
-            sentence = Rita.RiString(sentence.slice(0, i+1))
+            if(sentence.charAt(i) == `;`){
+                sentence.replaceChar(i ,`.`)
+                sentence = Rita.RiString(sentence.slice(0, i+1))
+            } else {
+                //TODO: deal with commas seperately here.
+            }
             break
         }
     }
@@ -109,8 +115,9 @@ cleanText = function(){
     }else if(sentence.charAt(sentence.length()-1) == `?`){
         sentence.replaceChar((sentence.length()-1),`.`)
     }
-    //remove unwanted characters, complete quotations, convert from RiString to string
+    //remove numerals, complete quotations, check for incomplete parentheticals, and convert from RiString to string
     var quoteMarks = 0
+    var parentheses = 0
     for(i = 0; i < sentence.length(); ++i){
         if(sentence.charAt(i) == "0" ||
            sentence.charAt(i) == "1" ||
@@ -121,15 +128,19 @@ cleanText = function(){
            sentence.charAt(i) == "6" ||
            sentence.charAt(i) == "7" ||
            sentence.charAt(i) == "8" ||
-           sentence.charAt(i) == "9" ||
-           sentence.charAt(i) == "(" ||
-           sentence.charAt(i) == ")" ){                
+           sentence.charAt(i) == "9" ){                
             sentence.removeChar(i)
              --i
            }
         if(sentence.charAt(i) == `"`)
-            ++ quoteMarks   
+            ++ quoteMarks
+        if(sentence.charAt(i) == `(` || sentence.charAt(i) == `)`){
+            ++ parentheses
+            var parIndex = i   
+        }       
     } 
+    if(parentheses == 1)
+        sentence.removeChar(parIndex)
     if(quoteMarks == 1){
         sentence = sentence.text()
         sentence += `"`
@@ -138,14 +149,78 @@ cleanText = function(){
     }
     photoData.text = sentence
     console.log("cleanText out: " + photoData.text)
-    console.log("cleanText done")
 }
 exports.cleanText = cleanText
 
-determineYStart = function(){
-    f
+setResizeHeight = ()=> {
+    var ratio = photoData.resizeWidth / photoData.width
+    photoData.resizeHeight = Math.round(photoData.height * ratio)
 }
-exports.determineYStart = determineYStart
+exports.setResizeHeight = setResizeHeight
+
+setJimpParams = ()=>{  
+    if(photoData.text.length < 25)
+        if(Math.random() > .5){
+            photoData.resizeWidth = 1080
+            photoData.ystart = 200
+        }else{
+            photoData.resizeWidth = 1080 
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 100)
+        }
+    if(photoData.text.length > 25 && photoData.text.length <= 50)
+        if(Math.random() > .5){
+            photoData.resizeWidth = 1080
+            photoData.ystart = 100
+        }else{
+            photoData.resizeWidth = 1080
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 200)
+    }
+    if(photoData.text.length > 50 && photoData.text.length <= 75)
+        if(Math.random() > .5){
+            photoData.resizeWidth = 1080
+            photoData.ystart = 10
+        }else{
+            photoData.resizeWidth = 1080
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 300)
+    }
+    if(photoData.text.length > 75 && photoData.text.length <= 100)
+        if(Math.random() > .5){
+            photoData.ystart = 200
+            photoData.resizeWidth = 1600
+        }else{
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 400)
+    }
+    if(photoData.text.length > 100 && photoData.text.length <= 150)
+        if(Math.random() > .5){
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight/2) - 200
+        }else{
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 400)
+    }
+    if(photoData.text.length > 150)
+        if(Math.random() > .5){
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight/2) - 300
+        }else{
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 500)
+    }
+    photoData.xwrap = photoData.resizeWidth - 25
+    console.log(photoData.ystart)
+}
+exports.setJimpParams = setJimpParams
+
+
 writeOnPicture = function(){
     var loadedImage
     Jimp.read(photoData.url)
@@ -154,14 +229,13 @@ writeOnPicture = function(){
             return Jimp.loadFont(photoData.font)
         })
         .then(function (font) {
-            loadedImage.resize(photoData.width, Jimp.AUTO)
-                       .print(font, photoData.xstart, photoData.ystart, photoData.text + " " + photoData.photographer, photoData.xwrap)
+            loadedImage.resize(photoData.resizeWidth, Jimp.AUTO)
+                       .print(font, photoData.xstart, photoData.ystart, photoData.text, photoData.xwrap)
                        .write("./meme.png")
         })
         .catch(function (err) {
             console.error(err)
         })
-        console.log("writeOnPicture done")
 }
 exports.writeOnPicture = writeOnPicture
 
