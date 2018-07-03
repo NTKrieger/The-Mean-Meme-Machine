@@ -1,7 +1,8 @@
 const Methods = require("./functions.js");
 
 async function main() {
-    //Methods.tweet() 
+    Methods.postTumblr()
+    Methods.postTweet() 
     Methods.generateText()
     Methods.setSearchTerm()
     Methods.cleanText()
@@ -9,7 +10,6 @@ async function main() {
     Methods.setJimpParams()
     Methods.writeOnPicture()  
 }
-
 //setInterval(main,60000)
-main()
 
+Methods.postTumblr()

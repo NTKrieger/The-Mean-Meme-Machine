@@ -4,14 +4,16 @@ const Jimp = require("jimp")
 const Twit = require("twit")
 const axios = require("axios")
 const fs = require("fs")
+const tumblr = require("tumblr.js")
 // config files
 const twitterConfig = require("./config/twitterConfig.js")
 const ritaConfig = require("./config/ritaConfig")
 const unsplashConfig = require("./config/unsplashConfig")
+const tumblrConfig = require("./config/tumblrConfig")
 // data files
 let photoData = require("./photoData.js")
 
-generateText = function(){
+generateText =()=>{
     var MarkovLunch = Rita.RiMarkov(4, true, false)	
     MarkovLunch.loadText(ritaConfig.text)
     photoData.text = MarkovLunch.generateSentence()
@@ -41,7 +43,7 @@ generatePhotoData = async function(){
   }
 exports.generatePhotoData = generatePhotoData
 
-getRandomPhoto = async function(){
+getRandomPhoto = async ()=>{
     try{
         let response = await axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
         photoData.height = response.data.height
@@ -55,8 +57,7 @@ getRandomPhoto = async function(){
 }
 exports.getRandomPhoto = getRandomPhoto
 
-
-setSearchTerm = function(){
+setSearchTerm =()=>{
     var wordString = Rita.RiString(photoData.text)
     var posArray = wordString.pos()
     for(i = 0; i < posArray.length; ++i ){
@@ -71,7 +72,7 @@ setSearchTerm = function(){
 }
 exports.setSearchTerm = setSearchTerm
 
-cleanText = function(){
+cleanText =()=>{
     
     var sentence = Rita.RiString(photoData.text)
     var wordArray = sentence.words()
@@ -220,8 +221,7 @@ setJimpParams = ()=>{
 }
 exports.setJimpParams = setJimpParams
 
-
-writeOnPicture = function(){
+writeOnPicture =()=>{
     var loadedImage
     Jimp.read(photoData.url)
         .then(function (image) {
@@ -239,7 +239,7 @@ writeOnPicture = function(){
 }
 exports.writeOnPicture = writeOnPicture
 
-tweet = function(){
+postTweet =()=>{
     var Twitter = new Twit(twitterConfig)
     var b64content = fs.readFileSync("./meme.png", { encoding: 'base64' })
     var photoCredit =  "Photographer: " + photoData.photographer
@@ -258,4 +258,29 @@ tweet = function(){
         })
     }) 
 }
-exports.tweet = tweet
+exports.postTweet = postTweet
+
+postTumblr =()=>{
+    var client = tumblr.createClient(
+        {
+          consumerKey: tumblrConfig.consumerKey,
+          consumerSecret: tumblrConfig.consumerSecret,
+          accessToken: tumblrConfig.accessToken,
+          accessSecret: tumblrConfig.accessSecret,
+        }
+    )
+    var b64content = fs.readFileSync("./meme.png", { encoding: 'base64' })
+    var params = {
+        caption: "Photograph by: " + photoData.photographer,
+        width: photoData.resizeWidth,
+        height: photoData.resizeHeight,
+        data:  b64content,
+    }
+    client.createPhotoPost(tumblrConfig.blogName, params, function(err, json){
+        if(!err)
+            console.log(json)
+        else
+            console.log(err)
+    })
+}
+exports.postTumblr = postTumblr
