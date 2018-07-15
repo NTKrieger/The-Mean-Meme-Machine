@@ -13,10 +13,14 @@ const tumblrConfig = require("./config/tumblrConfig")
 // data files
 let photoData = require("./photoData.js")
 
+loadText =()=>{
+    photoData.markovLunch = Rita.RiMarkov(4, true, false)	
+    photoData.markovLunch.loadText(ritaConfig.text) 
+}
+exports.loadText = loadText
+
 generateText =()=>{
-    var MarkovLunch = Rita.RiMarkov(4, true, false)	
-    MarkovLunch.loadText(ritaConfig.text)
-    photoData.text = MarkovLunch.generateSentence()
+    photoData.text = photoData.markovLunch.generateSentence()
 }
 exports.generateText = generateText
 
@@ -30,11 +34,19 @@ generatePhotoData = async function(){
             await getRandomPhoto()
         }
         else {
-          rI = Math.floor(Math.random() * response.data.results.length)
-          photoData.height = response.data.results[rI].height
-          photoData.width = response.data.results[rI].width
-          photoData.url = response.data.results[rI].urls.regular
-          photoData.photographer = response.data.results[rI].user.name
+          var rI = Math.floor(Math.random() * response.data.results.length)
+
+          for(var i=0; i < response.data.results.length; ++i){
+              if(response.data.results[rI % 10].height > response.data.results[rI % 10].width)
+                rI++ 
+              else
+                break    
+          }
+ 
+          photoData.height = response.data.results[rI % 10].height
+          photoData.width = response.data.results[rI % 10].width
+          photoData.url = response.data.results[rI % 10].urls.regular
+          photoData.photographer = response.data.results[rI % 10].user.name
         }
       }
     catch (error){
@@ -73,15 +85,19 @@ setSearchTerm =()=>{
 exports.setSearchTerm = setSearchTerm
 
 cleanText =()=>{
-    
     var sentence = Rita.RiString(photoData.text)
     var wordArray = sentence.words()
     var posArray = sentence.pos()
+    
+    if (sentence.length > 100){
+        Methods.generateText()
+        Methods.setSearchTerm()
+        Methods.cleanText()
+    }
 
     console.log("cleanText in: " + photoData.text)
 
     //truncate sentences with commas or semi-colons
-   
     for(i = 0; i < sentence.length(); ++i){
         if(sentence.charAt(i) == `,` || sentence.charAt(i) == `;`){
             if(sentence.charAt(i) == `;`){
@@ -163,7 +179,7 @@ setJimpParams = ()=>{
     if(photoData.text.length < 25)
         if(Math.random() > .5){
             photoData.resizeWidth = 1080
-            photoData.ystart = 200
+            photoData.ystart = 25
         }else{
             photoData.resizeWidth = 1080 
             setResizeHeight()
@@ -172,7 +188,7 @@ setJimpParams = ()=>{
     if(photoData.text.length > 25 && photoData.text.length <= 50)
         if(Math.random() > .5){
             photoData.resizeWidth = 1080
-            photoData.ystart = 100
+            photoData.ystart = 25
         }else{
             photoData.resizeWidth = 1080
             setResizeHeight()
@@ -180,41 +196,21 @@ setJimpParams = ()=>{
     }
     if(photoData.text.length > 50 && photoData.text.length <= 75)
         if(Math.random() > .5){
-            photoData.resizeWidth = 1080
-            photoData.ystart = 10
+            photoData.resizeWidth = 1600
+            photoData.ystart = 25
         }else{
-            photoData.resizeWidth = 1080
+            photoData.resizeWidth = 1600
+            setResizeHeight()
+            photoData.ystart = (photoData.resizeHeight - 200)
+    }
+    if(photoData.text.length > 75)
+        if(Math.random() > .5){
+            photoData.ystart = 25
+            photoData.resizeWidth = 1600
+        }else{
+            photoData.resizeWidth = 1600
             setResizeHeight()
             photoData.ystart = (photoData.resizeHeight - 300)
-    }
-    if(photoData.text.length > 75 && photoData.text.length <= 100)
-        if(Math.random() > .5){
-            photoData.ystart = 200
-            photoData.resizeWidth = 1600
-        }else{
-            photoData.resizeWidth = 1600
-            setResizeHeight()
-            photoData.ystart = (photoData.resizeHeight - 400)
-    }
-    if(photoData.text.length > 100 && photoData.text.length <= 150)
-        if(Math.random() > .5){
-            photoData.resizeWidth = 1600
-            setResizeHeight()
-            photoData.ystart = (photoData.resizeHeight/2) - 200
-        }else{
-            photoData.resizeWidth = 1600
-            setResizeHeight()
-            photoData.ystart = (photoData.resizeHeight - 400)
-    }
-    if(photoData.text.length > 150)
-        if(Math.random() > .5){
-            photoData.resizeWidth = 1600
-            setResizeHeight()
-            photoData.ystart = (photoData.resizeHeight/2) - 300
-        }else{
-            photoData.resizeWidth = 1600
-            setResizeHeight()
-            photoData.ystart = (photoData.resizeHeight - 500)
     }
     photoData.xwrap = photoData.resizeWidth - 25
     console.log(photoData.ystart)
@@ -284,3 +280,4 @@ postTumblr =()=>{
     })
 }
 exports.postTumblr = postTumblr
+//tumblr functionality not used

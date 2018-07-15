@@ -3,7 +3,7 @@ module.exports={
     height: 0,
     photographer: "",
     searchTerm: "",
-    text: "",
+    text: "Naked Lunch(remix)",
     url: "",
     width: 0,
     resizeWidth: 0,
@@ -11,6 +11,7 @@ module.exports={
     xstart: 25, 
     xwrap: 1055,
     ystart: 10,  
+    markovLunch: "",
 }
 
 
