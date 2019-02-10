@@ -24,7 +24,7 @@ generateText =()=>{
 }
 exports.generateText = generateText
 
-generatePhotoData = async function(){
+generatePhotoData = async()=>{
     const config = {
         headers : {"Authorization" : "Bearer " + unsplashConfig.token}
     }
@@ -35,14 +35,12 @@ generatePhotoData = async function(){
         }
         else {
           var rI = Math.floor(Math.random() * response.data.results.length)
-
           for(var i=0; i < response.data.results.length; ++i){
               if(response.data.results[rI % 10].height > response.data.results[rI % 10].width)
                 rI++ 
               else
                 break    
           }
- 
           photoData.height = response.data.results[rI % 10].height
           photoData.width = response.data.results[rI % 10].width
           photoData.url = response.data.results[rI % 10].urls.regular
@@ -55,13 +53,17 @@ generatePhotoData = async function(){
   }
 exports.generatePhotoData = generatePhotoData
 
-getRandomPhoto = async ()=>{
+getRandomPhoto = async()=>{
     try{
         let response = await axios.get("https://api.unsplash.com/photos/random/?client_id=" + unsplashConfig.application_ID)
-        photoData.height = response.data.height
-        photoData.width = response.data.width
-        photoData.url = response.data.urls.raw
-        photoData.photographer = response.data.user.name   
+        if(response.data.results[rI % 10].height > response.data.results[rI % 10].width){
+            await getRandomPhoto()
+        }else{
+            photoData.height = response.data.height
+            photoData.width = response.data.width
+            photoData.url = response.data.urls.raw
+            photoData.photographer = response.data.user.name  
+        } 
     }
     catch (error){
         console.log(error)
